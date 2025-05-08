@@ -6801,6 +6801,10 @@ file = "config/xnet-client.toml"
 hash = "3940248651afaf0f27adf3709a5ce9ebafff02602a86dfff712d72439183c268"
 
 [[files]]
+file = "mods/RealisticExplosionPhysics-1.20.1-1.0.0.jar"
+hash = "536353bff1009048ea58ad8fe9af6ff3756a74d36f0bb62fb308478def00aca1"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "a70783e0935c2cf59e024b7f75c8da7526b35b19d83ccb29d92d569b14597acc"
 metafile = true
@@ -7081,6 +7085,14 @@ hash = "8782d120f8b3e8439595af87a84d8e955ecdcf2e7abcf1a2ce85c413f085daa3"
 metafile = true
 
 [[files]]
+file = "mods/create_eureka-1.0.0+forge-1.20.1.jar"
+hash = "84cfb6ba3028290509992beed4e6b6ede51fa1d2066496ce6f3b31680a954548"
+
+[[files]]
+file = "mods/create_recycle_1.0.2_forge_1.20.1.jar"
+hash = "dbdf418ae63f929600784db71310ed80c7e7c30a60d1f3467dccb2a9d81caa52"
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "274ead8f01184fb94bcb6d421f03924c2c7a0d10fee7c201154c549253b216ef"
 metafile = true
@@ -7144,6 +7156,10 @@ metafile = true
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "b8cccf49530803953b340152f8114c2565020824f6a00c3777634e51185ca8d9"
 metafile = true
+
+[[files]]
+file = "mods/entityculling-forge-1.7.0-mc1.20.1.jar"
+hash = "b15caa9b329641097b063271b4187cad6c5f14a1d38cda0b9759240e5b42b3ee"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -7424,6 +7440,10 @@ metafile = true
 file = "mods/skin-layers-3d.pw.toml"
 hash = "f9e1d84da9f8d1aa6e56c441dbae0165a354776b31883158cde008e285dd1629"
 metafile = true
+
+[[files]]
+file = "mods/skinlayers3d-forge-1.7.0-mc1.20.1.jar"
+hash = "361c6c433fff6aae6f5f4a84ef77ca6c76b2586a66cbccb18dd94c89c447d62e"
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
