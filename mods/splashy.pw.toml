@@ -1,0 +1,13 @@
+name = "Splashy"
+filename = "Splashy-Forge-1.20.1-14.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4aae1be4c1994042ebf0e9e1193c958284740aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5370602
+project-id = 354674

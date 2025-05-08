@@ -1,0 +1,13 @@
+name = "Flan's Mod: Reloaded"
+filename = "flansmod-1.20.1-0.2.147.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9da9616c78cb15301483e3b9ce4225c32b99c6ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5084309
+project-id = 943564

@@ -1,0 +1,13 @@
+name = "Clay & Brick Recipe Rework"
+filename = "ClayBrickRecipeRework-mc1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62efb8f1eff02a083bce88e5c970b3fe8bd7c2d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4898809
+project-id = 942519
