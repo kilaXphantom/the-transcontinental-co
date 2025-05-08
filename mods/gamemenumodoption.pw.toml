@@ -1,6 +1,6 @@
 name = "Game Menu Mod Option [Forge]"
 filename = "gamemenumodoption-mc1.20.1-2.2.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

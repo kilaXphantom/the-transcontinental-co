@@ -1,6 +1,6 @@
 name = "Splashy"
 filename = "Splashy-Forge-1.20.1-14.0.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
