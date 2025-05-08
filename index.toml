@@ -701,10 +701,6 @@ file = "config/tacz-common.toml"
 hash = "cd427fb99ddf6148513c6a6070eae9bae75f43966327941a7f639802c22e60a1"
 
 [[files]]
-file = "config/tacz/backup/tacz_default_gun/backup-20241122-175928-14edfcbeeaf336375715728b2e6af9df.zip"
-hash = "e1609acd1916537bd6caeedc079f3f52dfe621be2555bf0bb40bdd7027bc031b"
-
-[[files]]
 file = "config/tacz/custom/tacz_default_gun/tacz/ammo/display/12g_display.json"
 hash = "89b8efce09a5913f19fc54051ed7215e70589694bf625e648473ec84944ce6b4"
 
