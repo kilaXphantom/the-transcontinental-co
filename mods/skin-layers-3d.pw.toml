@@ -3,11 +3,6 @@ filename = "skinlayers3d-forge-1.7.0-mc1.20.1.jar"
 side = "client"
 
 [download]
+url = "https://kilaxphantom.github.io/Create-a-Colony-Modpack/mods/skinlayers3d-forge-1.7.0-mc1.20.1.jar"
 hash-format = "sha1"
 hash = "4695a03ba621a6d8ff317a892123748836c82ee9"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5867982
-project-id = 521480

@@ -3,11 +3,6 @@ filename = "create_recycle_1.0.2_forge_1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://kilaxphantom.github.io/Create-a-Colony-Modpack/mods/create_recycle_1.0.2_forge_1.20.1.jar"
 hash-format = "sha1"
 hash = "e388ad4db938eaeddcaac49b49d5997794a3cfc8"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4714469
-project-id = 872577
