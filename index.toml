@@ -629,28 +629,8 @@ file = "config/recipeessentials.json"
 hash = "d5e9999392e13549752157c6cb574c761cd323414d8eda96b31bfc6c42f98d25"
 
 [[files]]
-file = "config/replaymod-rendersettings.json"
-hash = "4cfd2d2a42c71dc3e9e55110c5c9b1695962a6ac34625aa5b44d7408ceec05da"
-
-[[files]]
-file = "config/replaymod-screenshotsettings.json"
-hash = "1bd9c7e574f0dbcd45eb77b0217fea773b76c8eff7baeaa7cfb9a0302dd15da4"
-
-[[files]]
-file = "config/replaymod.json"
-hash = "c9a9178eb72370e85a23a2c82e549e444fb669dc0dddac60877f05c88c4836ed"
-
-[[files]]
 file = "config/rightclickharvest.toml"
 hash = "5c4c186994cfda2bcf0f983251f3a09f33ade756e4f6894de638d39a5b5f6a6d"
-
-[[files]]
-file = "config/simpleclouds-client.toml"
-hash = "745131d6a86650c3aa9f74619a6983bf8d975f73fce87f4233fcddabdb599508"
-
-[[files]]
-file = "config/simpleclouds-common.toml"
-hash = "44fdcad40ea6615db65c106614c91cb6ef174cd253c8f47bedadc69f9a030323"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -7301,94 +7281,6 @@ file = "config/xnet-client.toml"
 hash = "3940248651afaf0f27adf3709a5ce9ebafff02602a86dfff712d72439183c268"
 
 [[files]]
-file = "mods/.connector/ValkyrienPirates-1.2.0_mapped_srg_1.20.1.jar"
-hash = "bdfd3033ec9db5477788f18b78dbc474ca50d4aaac4868c866bb5f09b2448c25"
-
-[[files]]
-file = "mods/.connector/ValkyrienPirates-1.2.0_mapped_srg_1.20.1.jar.input"
-hash = "5c7ff77b448a20c6d79ecaa29de8b0c406ba9740b787f7d80c3d04f21130612a"
-
-[[files]]
-file = "mods/.connector/ValkyrienPirates-1.3.0_mapped_srg_1.20.1.jar"
-hash = "78a50e869d79f477802446d1fed1a0ff37ef8ddffe6618dcdacab59d357c9274"
-
-[[files]]
-file = "mods/.connector/ValkyrienPirates-1.3.0_mapped_srg_1.20.1.jar.input"
-hash = "794f5cbd4da98bfb0b328838a7689e583bb26c8363c63eaaf447186755151c91"
-
-[[files]]
-file = "mods/.connector/litematica-fabric-1.20.1-0.15.3_mapped_srg_1.20.1.jar"
-hash = "a8f0c192d05e346c4f06b4494c431ceb5c28c98b7bc0ba54af2f33d4673f4ef7"
-
-[[files]]
-file = "mods/.connector/litematica-fabric-1.20.1-0.15.3_mapped_srg_1.20.1.jar.input"
-hash = "ce0dff6450b0d1ee3c627ef656bbfd3dac7f229a4140423ced25c0cefd788107"
-
-[[files]]
-file = "mods/.connector/malilib-fabric-1.20.1-0.16.3_mapped_srg_1.20.1.jar"
-hash = "ca7b4f7115d73eed0ef5b7d55268f2ecbb547bfbb22d46a5571b7eb7b38823e1"
-
-[[files]]
-file = "mods/.connector/malilib-fabric-1.20.1-0.16.3_mapped_srg_1.20.1.jar.input"
-hash = "4ec03e137a46ee8d97c65037259fbf3742fcaf06465e4e634b4101c569ccd0ff"
-
-[[files]]
-file = "mods/.connector/replaymod-1.20.1-2.6.13_mapped_srg_1.20.1.jar"
-hash = "d58de7f10f32c0ae2312a98d5619c2bee38b350d5cadacb2736213b4fcfadf60"
-
-[[files]]
-file = "mods/.connector/replaymod-1.20.1-2.6.13_mapped_srg_1.20.1.jar.input"
-hash = "ebdc7d20c3bf710f27888fbab36a40d7c06ae420f4f99f8479500c5bc1ad14cc"
-
-[[files]]
-file = "mods/.connector/temp/malilib-fabric-1.20.1-0.16.3$fabric-resource-loader-v0-0.11.7+f7923f6d77.jar"
-hash = "13c988ab8f602a31b218dbcaa790c4f5a56513248c3c3a1e9370420848d1a92f"
-
-[[files]]
-file = "mods/.connector/temp/malilib-fabric-1.20.1-0.16.3$fabric-resource-loader-v0-0.11.7+f7923f6d77.jar.input"
-hash = "4b08afbee5a77fb9a8e9e2d920c75d6b95bc219aaa8dc7a56917dfbbd84f581d"
-
-[[files]]
-file = "mods/.connector/temp/replaymod-1.20.1-2.6.13$fabric-api-base-0.4.29+b04edc7a77.jar"
-hash = "ced9e97a70098722539e92f1997f0164cb728d5b7e206b0eb89dbf680610721b"
-
-[[files]]
-file = "mods/.connector/temp/replaymod-1.20.1-2.6.13$fabric-api-base-0.4.29+b04edc7a77.jar.input"
-hash = "0d12abf8b720b053616acc4102a33000f6ca3034442db47a6561db392428623e"
-
-[[files]]
-file = "mods/.connector/temp/replaymod-1.20.1-2.6.13$fabric-key-binding-api-v1-1.0.36+fb8d95da77.jar"
-hash = "0bab650dccf0590c92418f26681b28225cd1b7e67a6cfd7d24324c3d479816d9"
-
-[[files]]
-file = "mods/.connector/temp/replaymod-1.20.1-2.6.13$fabric-key-binding-api-v1-1.0.36+fb8d95da77.jar.input"
-hash = "627b28a3861b8abc157b9e6fe4f9de829676826ad007f2675a5205e2346ce481"
-
-[[files]]
-file = "mods/.connector/temp/replaymod-1.20.1-2.6.13$fabric-networking-api-v1-1.3.8+b3afc78b77.jar"
-hash = "f9e00711a28dda0407acf28c1c15a06371a54c38caa7ae99229548aa30cd0a57"
-
-[[files]]
-file = "mods/.connector/temp/replaymod-1.20.1-2.6.13$fabric-networking-api-v1-1.3.8+b3afc78b77.jar.input"
-hash = "4dc56d59388644fb98f1cca572c472bcbf791f5177317dc1cc24e395b1031440"
-
-[[files]]
-file = "mods/.connector/temp/replaymod-1.20.1-2.6.13$fabric-resource-loader-v0-0.11.7+f7923f6d77.jar"
-hash = "13c988ab8f602a31b218dbcaa790c4f5a56513248c3c3a1e9370420848d1a92f"
-
-[[files]]
-file = "mods/.connector/temp/replaymod-1.20.1-2.6.13$fabric-resource-loader-v0-0.11.7+f7923f6d77.jar.input"
-hash = "4b08afbee5a77fb9a8e9e2d920c75d6b95bc219aaa8dc7a56917dfbbd84f581d"
-
-[[files]]
-file = "mods/.connector/temp/replaymod-1.20.1-2.6.13$fabric-screen-api-v1-2.0.6+b3afc78b77.jar"
-hash = "a4566754a0582badc6caa63f66976a6ef2dbaf2a9a4be293050b4a0339cdb411"
-
-[[files]]
-file = "mods/.connector/temp/replaymod-1.20.1-2.6.13$fabric-screen-api-v1-2.0.6+b3afc78b77.jar.input"
-hash = "2dd15972683f8167db316c0c60d9a0a45914bb4b436b7f6bcff65459df0b05e4"
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "952db69be50249056deb50578455cc8502c201cefcd21f776851fd021c98fa02"
 metafile = true
@@ -7784,11 +7676,6 @@ hash = "509349061967f5ec62e4f3b3164fce0d9f8ffab0d1bb7e4af19fd098200c54c5"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "3906d79212d26da8569ad46ae6bff34f8af0b3bc0a1ec6b658c8bf7a07b939d8"
-metafile = true
-
-[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "f0985d39c6bb45984378049516de43f8faa6ee52ac74487d67442452cbf84d60"
 metafile = true
@@ -8004,11 +7891,6 @@ hash = "79d1ff6cc67a1c63a1632c20918e85acf366487a2f11b53e752c9047a26dcd72"
 metafile = true
 
 [[files]]
-file = "mods/replay-mod-fabric-and-forge.pw.toml"
-hash = "360ab1451b1aa12c1f628ecc40ef751841babce789f8c49678976d5a29bca228"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "6a21a1e165d71d5e676fae7aaa2872626145336b65cdd7aa68743741dc70fbd0"
 metafile = true
@@ -8026,16 +7908,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "14134e708ec8e9bee6329df46e188b33a07ed86cff9657a597f53def05cb15df"
-metafile = true
-
-[[files]]
-file = "mods/simple-clouds.pw.toml"
-hash = "1d6d9e9c181a3c3391ed0d3f10b2c7a54ca2a756061c36fa78a9310c7454d4df"
-metafile = true
-
-[[files]]
-file = "mods/sinytra-connector.pw.toml"
-hash = "caed6f828069854d7489d3ddfe13b1d8a5c9901908d5769a5e575e237c0c103f"
 metafile = true
 
 [[files]]
