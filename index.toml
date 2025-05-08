@@ -7410,6 +7410,11 @@ hash = "74735952df4c37dbc3e36df80035a0a4ec4a4d56a5a622e7fa94626732fd789b"
 metafile = true
 
 [[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "f04ef69e1862baf0157068c1b54f6d763305b3f1607ea1b6492b3b0034037342"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "50579877561744484c4174f4ec196863cbba113e75f1b88023972d45dfa8fa8d"
 metafile = true
