@@ -1,2 +1,6 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "createa-colony.pw.toml"
+hash = "7b053ace1c9b24a67889d6261d0d10c367bea9bee7cfb39b1579a327006576ae"
+metafile = true

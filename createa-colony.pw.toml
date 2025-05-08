@@ -1,0 +1,13 @@
+name = "Create'a Colony"
+filename = "Create'a Colony 1.3 .zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd54039794e28851257235d878d2323913673841"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6408622
+project-id = 1026019
