@@ -6823,6 +6823,11 @@ hash = "ae089d54ed8c41631781cf963587c3e9abeb3e8fec9e5fbe2556e634625e48e2"
 metafile = true
 
 [[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
+metafile = true
+
+[[files]]
 file = "mods/better-village-forge.pw.toml"
 hash = "1aaff9c7a621b3af82415312ee6a152b43dcd77c4bb24c9968a7cf37a4e1931a"
 metafile = true
