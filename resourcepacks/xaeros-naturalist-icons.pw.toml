@@ -1,0 +1,13 @@
+name = "Xaero's Naturalist Icons"
+filename = "Xaeros Naturalist Icons - 1.20.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/T7ma60Gj/versions/EsHrJR5f/Xaeros%20Naturalist%20Icons%20-%201.20.1.zip"
+hash-format = "sha512"
+hash = "7acfc627e34fa6f02293e87caf005abc4210b3e68bbad2f22ef912b0a1a81866c98cc443234bc7f353c6dd2dd66ae440d0e6ceea71164ea6c25e6371fd886bbd"
+
+[update]
+[update.modrinth]
+mod-id = "T7ma60Gj"
+version = "EsHrJR5f"
