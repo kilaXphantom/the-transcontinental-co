@@ -6809,6 +6809,11 @@ file = "mods/RealisticExplosionPhysics-1.20.1-1.0.0.jar"
 hash = "536353bff1009048ea58ad8fe9af6ff3756a74d36f0bb62fb308478def00aca1"
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "dfab1141c0b00ca194d3826f3bbc06f6b50ed844ecad886bb69fb3d560090b0e"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "a70783e0935c2cf59e024b7f75c8da7526b35b19d83ccb29d92d569b14597acc"
 metafile = true
