@@ -7039,6 +7039,11 @@ hash = "2de0e1e9055f819852ff113a050cd233761b5c67f7b3b98f2ca0b2b9bc8a6593"
 metafile = true
 
 [[files]]
+file = "mods/create-escalated.pw.toml"
+hash = "fa08fa31e2740c16d5773cfbfe3f22846f3ce2c8b4623071dc109b7873068bb2"
+metafile = true
+
+[[files]]
 file = "mods/create-eureka.pw.toml"
 hash = "6f65ae1642c49a45319c2985b2ded6105cd59d6bd52b6aad77ec3a6dd31ab86c"
 metafile = true
@@ -7182,12 +7187,22 @@ hash = "b8cccf49530803953b340152f8114c2565020824f6a00c3777634e51185ca8d9"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "14ddf6bc740ded7825a455f90f0045ed3b4c2e65168565715daaff8532da5dbd"
+metafile = true
+
+[[files]]
 file = "mods/entityculling-forge-1.7.0-mc1.20.1.jar"
 hash = "b15caa9b329641097b063271b4187cad6c5f14a1d38cda0b9759240e5b42b3ee"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "6adc3fc45d936c3572b9a1d41097caca204ed4c5b0f107bf57347273936683ab"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
 metafile = true
 
 [[files]]
@@ -7443,6 +7458,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
+metafile = true
+
+[[files]]
+file = "mods/no-resource-pack-warnings-forge.pw.toml"
+hash = "de7def657703880873da6c6a527fbc7c8dff61d8c1d5645c3e6491b085a83198"
 metafile = true
 
 [[files]]
