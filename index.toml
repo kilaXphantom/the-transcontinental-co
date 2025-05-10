@@ -7551,6 +7551,11 @@ hash = "14134e708ec8e9bee6329df46e188b33a07ed86cff9657a597f53def05cb15df"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "4c1d37d3aecc6d67ce6c6a97d859345cdaefcf619a057069b0a8635f2ad551ac"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "8bd3fa262f65440f4ea58f682e47d1ee81a7ed84b341cfd7a3d59e1212844be8"
 metafile = true
