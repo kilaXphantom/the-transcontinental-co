@@ -6852,6 +6852,11 @@ hash = "1d13a8f9f1068fafd8848c08b2b64a6d6014de3338ce2c4499e44d6346a35449"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
+metafile = true
+
+[[files]]
 file = "mods/byzantine-styles-pack-for-minecolonies.pw.toml"
 hash = "d1cb459752787699ad3626d831a64fe24a82bdda6d447e0dc6ad2540067958cb"
 metafile = true
@@ -7115,6 +7120,11 @@ hash = "ef203cfb9e4703fc48e154ccc2da9f0a1af4770d49f403f3ed0a581e5498a515"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "1cb1ed842db59e479dc2b21cf8afb8eeb9ff4577d292e6b51ed8df98e24411d5"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "b76dd4e45a402aebd8d2c2de23c137d4fa835fc2081f747c2f47ab74bcef90e3"
 metafile = true
@@ -7161,6 +7171,11 @@ hash = "b15caa9b329641097b063271b4187cad6c5f14a1d38cda0b9759240e5b42b3ee"
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "6adc3fc45d936c3572b9a1d41097caca204ed4c5b0f107bf57347273936683ab"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "df6a5cd61279030fefff3a336f1866362e1575e45380c9f5ad9165fbe049a2d7"
 metafile = true
 
 [[files]]
@@ -7575,6 +7590,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
+metafile = true
+
+[[files]]
+file = "mods/testosterone.pw.toml"
+hash = "e30f1140a8eae6e066e563dad5ab5c974fcc3026e7a61ba262865f6ac825097b"
 metafile = true
 
 [[files]]
