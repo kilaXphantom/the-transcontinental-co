@@ -7429,6 +7429,11 @@ hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
 metafile = true
 
 [[files]]
+file = "mods/oauth-account-manager.pw.toml"
+hash = "71f8ff1d0bed31d3c010f40c6271b56c186b4be3bd75ef74358bcee688031968"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "fdb31ea5cf8fd4fa22b22d8685cc232d625011c107775a649209259aed8e65ce"
 metafile = true
@@ -7610,6 +7615,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "13af80b2b1274ebea8a8afdd31340b98280ae70ae7a64061162d0b07e75e0929"
+metafile = true
+
+[[files]]
+file = "mods/u-team-core.pw.toml"
+hash = "f4986d0889116fdd4bee45c98acf051fe649252eb415746324a8955d5fa0d827"
 metafile = true
 
 [[files]]
