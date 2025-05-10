@@ -7361,6 +7361,11 @@ hash = "207ea5c3ad00aee495de4d614c504d443c141068a2ddf0554f5a7829923cfeec"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "a3fc2800be76f3406961d01ab4ab6805b4ca5e269f53d3cb2d58ea39d6afa9f2"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "a4ff567d52fe55984cc0cb93430a4c8f01dc00b14fbd6e25a077dbd179f534fb"
 metafile = true
