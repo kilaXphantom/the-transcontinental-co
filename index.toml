@@ -7526,6 +7526,11 @@ hash = "3b8dfb427b30c25513a232ee5752333e6c17b001bfb86a0c98038ede984d70a5"
 metafile = true
 
 [[files]]
+file = "mods/rats.pw.toml"
+hash = "c4b46cb349e3f111af5711429b444dcb790e73f312feb5f9b8e04cd41a9c7b75"
+metafile = true
+
+[[files]]
 file = "mods/realistic-explosion-physics.pw.toml"
 hash = "bbecc14398fad2bad8e26f3803301ac4c2ddf639de9fd2436e67efb91d92a040"
 metafile = true
