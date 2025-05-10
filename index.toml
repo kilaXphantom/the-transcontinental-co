@@ -7174,11 +7174,6 @@ hash = "6adc3fc45d936c3572b9a1d41097caca204ed4c5b0f107bf57347273936683ab"
 metafile = true
 
 [[files]]
-file = "mods/estrogen.pw.toml"
-hash = "df6a5cd61279030fefff3a336f1866362e1575e45380c9f5ad9165fbe049a2d7"
-metafile = true
-
-[[files]]
 file = "mods/eureka-ships.pw.toml"
 hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
 metafile = true
@@ -7479,11 +7474,6 @@ hash = "cc64ca541c4710726dc3fa4b283b1260cfb2d3ff8d1784f80e0180d248c35688"
 metafile = true
 
 [[files]]
-file = "mods/resourceful-lib.pw.toml"
-hash = "73f52912d24a121d62ea8c8f7ed00ac8e6ac7cec1a7253ca0cecb24d7cb9f61a"
-metafile = true
-
-[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "e8201b44aaafea01fb65a0ccf39ce55047b3a3dc54d90c5d43c4cd7ce23078ec"
 metafile = true
@@ -7590,15 +7580,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
-metafile = true
-
-[[files]]
-file = "mods/testosterone-1.0.2.jar"
-hash = "ff402cb635c5bf66232ac6a3a0ca85c2929d43d0069f347dbd705170697f650a"
-
-[[files]]
-file = "mods/testosterone.pw.toml"
-hash = "e6b6023e1c980a5cbe17e83ad5c7dacd293bca2bf5734297fe376f67cfbef2c3"
 metafile = true
 
 [[files]]
