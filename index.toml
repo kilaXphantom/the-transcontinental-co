@@ -221,6 +221,18 @@ file = "config/curios-common.toml"
 hash = "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "86c64e3337b7d5e7eaaf7e93272ebabb25ac4f80e054cc17bfaa56fe6dbd0690"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "bf84d579c6911d18d6c7a6cfa4f7731c1e5e314a9206654069bddb560dff6ba0"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "783ee51025c9cfef40801db5c2e92405594f1d2aaeeb6758f7a978b31f028b62"
+
+[[files]]
 file = "config/delightful-common.toml"
 hash = "c6099285ffbadbf56632473bf428a1e2238431a55727fc5a3a8d2accd5c03b4b"
 
