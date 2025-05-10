@@ -6844,6 +6844,11 @@ hash = "ae089d54ed8c41631781cf963587c3e9abeb3e8fec9e5fbe2556e634625e48e2"
 metafile = true
 
 [[files]]
+file = "mods/beautified-chat-client.pw.toml"
+hash = "edaded26539d9ae93539959372084acd35cbeb68e5b56e759fe5eaa08146dd8f"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
 metafile = true
@@ -6896,6 +6901,11 @@ metafile = true
 [[files]]
 file = "mods/cbc-modern-warfare.pw.toml"
 hash = "24ef339d819c9d4dec14ce7aeb7b1478bf17cb742bf1fbe1114592932e588af9"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "9a4000d12b0b0c7933bc8eda7c0cd4a773d507b1c7a4f4eb39bc9342f36e4f7c"
 metafile = true
 
 [[files]]
@@ -7308,11 +7318,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
-metafile = true
-
-[[files]]
-file = "mods/gjeb.pw.toml"
-hash = "72e2613e78dae477a570b8c88ccde7af6ca29d9d219b23580612fee7e938ff92"
 metafile = true
 
 [[files]]
