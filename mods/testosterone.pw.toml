@@ -3,11 +3,6 @@ filename = "testosterone-1.0.2.jar"
 side = "both"
 
 [download]
+url = "https://kilaxphantom.github.io/Create-a-Colony-Modpack/mods/testosterone-1.0.2.jar"
 hash-format = "sha1"
 hash = "a87683c14980482c4ac1b40e75f55c7817716f5b"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6367762
-project-id = 1225057

@@ -7480,7 +7480,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "6a21a1e165d71d5e676fae7aaa2872626145336b65cdd7aa68743741dc70fbd0"
+hash = "6c318bc5defb0e4a1d49f4057b090dddc00c19745edb010911b4795b8f81c018"
 metafile = true
 
 [[files]]
@@ -7593,8 +7593,12 @@ hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
 metafile = true
 
 [[files]]
+file = "mods/testosterone-1.0.2.jar"
+hash = "ff402cb635c5bf66232ac6a3a0ca85c2929d43d0069f347dbd705170697f650a"
+
+[[files]]
 file = "mods/testosterone.pw.toml"
-hash = "e30f1140a8eae6e066e563dad5ab5c974fcc3026e7a61ba262865f6ac825097b"
+hash = "e6b6023e1c980a5cbe17e83ad5c7dacd293bca2bf5734297fe376f67cfbef2c3"
 metafile = true
 
 [[files]]
