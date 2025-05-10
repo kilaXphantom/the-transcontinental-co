@@ -6950,7 +6950,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "cac734d930b38ce4b9519d73159f9cbede99476fdfce6160de6a186b6f81b402"
+hash = "3301e981bf6c7eb6689180ccfc7dbcb096e78b0d4d016480b99d1377e2910a38"
 metafile = true
 
 [[files]]
@@ -7277,7 +7277,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
+hash = "2a4f28e582d8bb538efaeb0faa5a8592f44b2e90dd192af58852f45aa7be8be8"
 metafile = true
 
 [[files]]
