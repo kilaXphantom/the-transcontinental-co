@@ -6879,6 +6879,11 @@ hash = "f9893ba1ba92c109418d7356405805c5a94bdbfaad2d76cb0901bbf4f2b7a6d6"
 metafile = true
 
 [[files]]
+file = "mods/capycraft.pw.toml"
+hash = "c4178885655bb5cd44067cf70433b0db74bc29cc98c5f31063e59ebb6f583b67"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
@@ -7277,7 +7282,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "8ee03cc11e08cc40ada8804d1e7b7373fcd5b7c2ee0f84b470cdbbbf7fab038d"
+hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
 metafile = true
 
 [[files]]
@@ -7358,6 +7363,11 @@ metafile = true
 [[files]]
 file = "mods/library-ferret-forge.pw.toml"
 hash = "207ea5c3ad00aee495de4d614c504d443c141068a2ddf0554f5a7829923cfeec"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "a3fc2800be76f3406961d01ab4ab6805b4ca5e269f53d3cb2d58ea39d6afa9f2"
 metafile = true
 
 [[files]]
@@ -7463,6 +7473,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "f4f6d4a3ea0bb499b3f66fca415131701d6e039debca3548210f818f544358ea"
+metafile = true
+
+[[files]]
+file = "mods/radium.pw.toml"
+hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
 
 [[files]]
