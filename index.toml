@@ -7366,6 +7366,11 @@ hash = "fd35eb8e67f11aec4ae71465ac1b2d9599039d1b3efd8f463655b58f744b5a09"
 metafile = true
 
 [[files]]
+file = "mods/just-another-rotten-flesh-to-leather-mod.pw.toml"
+hash = "3d678b89dc59dd838f059366a01d6d5c4afb7197b1a4f682826bd6d974a18706"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
 hash = "08a365f0717fbd5561ff746bc6c41185b0c84582a1cd834115b933266328a5ff"
 metafile = true
