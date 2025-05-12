@@ -14,4 +14,4 @@ version = "45EJNtBe"
 
 [option]
 optional = true
-description = "This client mod adds player heads next to chat messages. It makes telling various people in chat apart easier. If you don't want to install the optional mods or you have made your selections, press OK."
+description = "Press OK to continue or skip the install.\n\n Link: https://www.curseforge.com/minecraft/mc-mods/chat-heads"

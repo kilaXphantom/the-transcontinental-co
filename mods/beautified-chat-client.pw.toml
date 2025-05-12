@@ -1,4 +1,4 @@
-name = "Beautified Chat [Client]"
+name = "Beautified Chat"
 filename = "beautifiedchatclient-1.20.1-2.7.jar"
 side = "both"
 
@@ -14,4 +14,4 @@ project-id = 514797
 
 [option]
 optional = true
-description = "A highly configurable mod to change the chat style and colour on the client. The modpack ships a default configuration that makes it a breeze to see who is speaking in chat. If you don't want to install the optional mods or you have made your selections, press OK."
+description = "Press OK to continue or skip the install.\n\n Link: https://modrinth.com/mod/beautified-chat-client"
