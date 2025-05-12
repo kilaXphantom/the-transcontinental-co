@@ -6805,10 +6805,6 @@ file = "config/xnet-client.toml"
 hash = "3940248651afaf0f27adf3709a5ce9ebafff02602a86dfff712d72439183c268"
 
 [[files]]
-file = "datapacks/PK_No_Creeper_Grief_V.2.0.3_MC_1.20_to_1.20.1.zip"
-hash = "1078a8fb3d33b2234ad7b217bd8f519824cfc754d7057230f2ae143e1e53e148"
-
-[[files]]
 file = "mods/RealisticExplosionPhysics-1.20.1-1.0.0.jar"
 hash = "536353bff1009048ea58ad8fe9af6ff3756a74d36f0bb62fb308478def00aca1"
 
