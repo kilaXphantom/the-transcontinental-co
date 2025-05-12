@@ -7775,7 +7775,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Map Icons.zip"
-hash = "0697a6ba14c095d0d6735e817a20555bc11c785e50832bf8fcf4085413188a5d"
+hash = "3dd93ad5d2415789b3883d6ce5b2833203fb1e86cfaa1f58578b1127541f20bd"
 
 [[files]]
 file = "scripts/Recipes.zs"
