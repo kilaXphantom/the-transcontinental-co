@@ -6863,7 +6863,7 @@ metafile = true
 
 [[files]]
 file = "mods/beautified-chat-client.pw.toml"
-hash = "08f2b5250e6472566f295a25f10a56dc7b2296cf29a7b7d77bbb8a0697d1d2d8"
+hash = "37fe80018b92dad23521943cb920e34e558f763e2bd0a6a0996f0045128d803e"
 metafile = true
 
 [[files]]
@@ -6933,7 +6933,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "5ecdc3ed8556c34d4b07f7157dc6946a1892abf7ebd454e2f591d78b4d288c3a"
+hash = "b318ac1fd464bc8219ead563fe4f5d8bdacf4d0ee01c5b3779fef909c81e945a"
 metafile = true
 
 [[files]]
