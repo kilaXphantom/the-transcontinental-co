@@ -54,7 +54,7 @@ hash = "115b251c0eaaee4deae8a714f55512fe69e63d80155227f3a669307b2e1006c4"
 
 [[files]]
 file = "config/beautifiedchatclient.json5"
-hash = "fb6006619fcf07b1e939528cde254cc69c7e3b19c4c88f8266f9f7be53462046"
+hash = "073caa5a3848e48016840ac5f4f1abbb41d16605f5d0b1dfef71291a02a5a016"
 
 [[files]]
 file = "config/betterfpsdist.json"
@@ -91,6 +91,10 @@ hash = "eb247bd22d2ae144c4cb1a2f24862e6aeb1467167d36112258ad36b6da0597db"
 [[files]]
 file = "config/carryon-common.toml"
 hash = "9c31f7f00ebe4025a6a11ee6257fe672b57866f7ec6206f97656b6cdf095b0b1"
+
+[[files]]
+file = "config/chat_heads.json5"
+hash = "29dffdda6c48191496cca75a8fc9807b3bbc7ea436ce3987f781056889d459a2"
 
 [[files]]
 file = "config/chunkloaders-common.toml"
