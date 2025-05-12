@@ -7778,5 +7778,10 @@ file = "resourcepacks/Map Icons.zip"
 hash = "3dd93ad5d2415789b3883d6ce5b2833203fb1e86cfaa1f58578b1127541f20bd"
 
 [[files]]
+file = "resourcepacks/map-icons.pw.toml"
+hash = "a62d9b8f4a542815666e7c34e502f9b8e290d2340794e543eb8ad266b19283c2"
+metafile = true
+
+[[files]]
 file = "scripts/Recipes.zs"
 hash = "4b50b8cb21e9826db7b9a6001614b398f33bc0356d7e978de7c64af1c83112c8"
