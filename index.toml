@@ -6833,12 +6833,28 @@ file = "config/waystones-common.toml"
 hash = "f682e353825fc32e5de22d716e26f8a2f59163f1fb56638eb87fe401b44433f2"
 
 [[files]]
+file = "config/xaerominimap-common.txt"
+hash = "3fdfaa4595d4e55c1e6b3a6ba74aec07ca2701ec767c34d5209a7bc08d0dbfbd"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "98476f2101b762616d1c74f97bf0331a3f722657949f195c765281563914ee42"
+
+[[files]]
 file = "config/xaerominimap_entities.json"
 hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
 file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "f5bb870d3638e4331f1b1baee637359cd2ac425d4f600b8723c2bf3b7d408196"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "603df5614b3ea9fde5a44fef1d5eff90052238787a87302943c5f23c022e4019"
 
 [[files]]
 file = "config/xnet-client.toml"
