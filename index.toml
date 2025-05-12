@@ -7774,9 +7774,8 @@ hash = "9fb6a1a06b18f2ce7b0811200339d997925cb39bde220fbaea4d5c8067376c12"
 metafile = true
 
 [[files]]
-file = "resourcepacks/xaeros-naturalist-icons.pw.toml"
-hash = "8fd76cc016c2e8bfeadfeafdd1d5f1823c64e5c0c0699cf788eb02f3d2c5b3df"
-metafile = true
+file = "resourcepacks/Map Icons.zip"
+hash = "0697a6ba14c095d0d6735e817a20555bc11c785e50832bf8fcf4085413188a5d"
 
 [[files]]
 file = "scripts/Recipes.zs"
