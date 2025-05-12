@@ -1,0 +1,13 @@
+name = "Friendly Griefing"
+filename = "FriendlyGriefing-1.20-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36f3ff362f86ca145e95c4b67c152cf6a022223e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4594849
+project-id = 630841

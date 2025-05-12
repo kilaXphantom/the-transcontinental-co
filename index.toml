@@ -7348,6 +7348,11 @@ hash = "f48b37e307ca9182f8707e319c24c989f3f6b19ac663b0ec938fea95b4a330a0"
 metafile = true
 
 [[files]]
+file = "mods/friendly-griefing.pw.toml"
+hash = "40ed71e7a0f45b68ef208e9e4a5fe991fe307df2f07e7f0f38bd364137b3069a"
+metafile = true
+
+[[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
 metafile = true
