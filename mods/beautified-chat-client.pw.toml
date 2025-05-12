@@ -14,4 +14,4 @@ project-id = 514797
 
 [option]
 optional = true
-description = "Tweaks the original chat\n\n\◼ Link: https://modrinth.com/mod/beautified-chat-client\n\n◻ \"OK\" to select and install (or skip)\n\n◻ \"Cancel\" to cancel launch"
+description = "Tweaks the original chat\n\n\◼ Link: https://modrinth.com/mod/beautified-chat-client\n\n◻ "OK" to select and install (or skip)\n\n◻ "Cancel" to cancel launch"

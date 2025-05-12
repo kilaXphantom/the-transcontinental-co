@@ -14,4 +14,4 @@ version = "45EJNtBe"
 
 [option]
 optional = true
-description = "Shows player heads in chat\n\n\◼ Link: https://modrinth.com/mod/chat-heads\n\n◻ \"OK\" to select and install (or skip)\n\n◻ \"Cancel\" to cancel launch"
+description = "Shows player heads in chat\n\n\◼Link: https://modrinth.com/mod/chat-heads\n\n◻ "OK" to select and install (or skip)\n\n◻ "Cancel" to cancel launch"
