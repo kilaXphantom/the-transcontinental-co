@@ -309,8 +309,56 @@ file = "config/fallingleaves-client.toml"
 hash = "2cd017af6632239398b694fadf8191d6073cf39585549876cc682843f521ecb3"
 
 [[files]]
+file = "config/fancymenu/assets/arrow.png"
+hash = "7b4edb20d16a37bf29c925359f9f019b5a077f14e082d6221dfb9adca36f965e"
+
+[[files]]
+file = "config/fancymenu/assets/off.png"
+hash = "153602a23b738f0bfc6c175174e57cc2a1b39c08d6efa9c42f92943d3c82e738"
+
+[[files]]
+file = "config/fancymenu/assets/on.png"
+hash = "7cf841118d2e1ed5831dfa23684c6ccf9127c4ebf5f0a011472dbb63f1df865a"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_default.txt"
+hash = "7c672cfd1259e501b7d84bcbd79c0172a1fea972aa623742b940fc36b7a107bf"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "cc873abc59395637ab28b0cc850fb9da47920a38d45ad4c4af3cedc40be92022"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "5cb4ec15ef8671a637e6ce8f5f31473efd0656cb1aea236671c2ede6aeae39e1"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
 file = "config/fancymenu/options.txt"
-hash = "3107be76ea4f10760f3b86d38f30179be75fa6ed40d0c9953bb0762518e01966"
+hash = "0fbdba5493e9a80c44a1a3ce37b596379dbe0d37cf9c9c2c8e279038078f06f7"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "052d7521a27418f3ae5755a9b7acf99a50a8e32359e1ad12cfa91f0a46ba5563"
 
 [[files]]
 file = "config/farmersdelight-client.toml"

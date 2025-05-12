@@ -1,0 +1,20 @@
+type = user_variables
+
+variable {
+  name = require_language
+  value = true
+  reset_on_launch = false
+}
+
+variable {
+  name = require_accessibility
+  value = true
+  reset_on_launch = false
+}
+
+variable {
+  name = enable_default_menu
+  value = false
+  reset_on_launch = false
+}
+
