@@ -7944,8 +7944,17 @@ hash = "9fb6a1a06b18f2ce7b0811200339d997925cb39bde220fbaea4d5c8067376c12"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Map Frame.zip"
+hash = "723dbf6a18e2bac2d98f1f282bb53cc1f7df54d163a05d22c5df4d77046402c2"
+
+[[files]]
 file = "resourcepacks/Map Icons.zip"
 hash = "7e23c440df6dd223b14dbcbd7f186637fe2f288647ae347398cb5cf935173c67"
+
+[[files]]
+file = "resourcepacks/map-frame.pw.toml"
+hash = "f86a7edc68c24241f56233fe2143404cbbe7845e0bc6fe08cbc5ed050d1c2598"
+metafile = true
 
 [[files]]
 file = "resourcepacks/map-icons.pw.toml"
