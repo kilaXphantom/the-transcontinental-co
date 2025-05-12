@@ -53,6 +53,10 @@ file = "config/bcc-common.toml"
 hash = "115b251c0eaaee4deae8a714f55512fe69e63d80155227f3a669307b2e1006c4"
 
 [[files]]
+file = "config/beautifiedchatclient.json5"
+hash = "fb6006619fcf07b1e939528cde254cc69c7e3b19c4c88f8266f9f7be53462046"
+
+[[files]]
 file = "config/betterfpsdist.json"
 hash = "a924ca8fd82b05bc1150b3df38d560a2733b347fc65751a666614db498b4484f"
 
@@ -650,7 +654,7 @@ hash = "d5e9999392e13549752157c6cb574c761cd323414d8eda96b31bfc6c42f98d25"
 
 [[files]]
 file = "config/rightclickharvest.toml"
-hash = "5c4c186994cfda2bcf0f983251f3a09f33ade756e4f6894de638d39a5b5f6a6d"
+hash = "a389d00dc4bc940f26df27187b088a7d62096f2d63f21db3023561d2b302a3d9"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -6782,11 +6786,11 @@ hash = "f682e353825fc32e5de22d716e26f8a2f59163f1fb56638eb87fe401b44433f2"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
-hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+hash = "3fdfaa4595d4e55c1e6b3a6ba74aec07ca2701ec767c34d5209a7bc08d0dbfbd"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "f3bf2aa3859825f3cfc26157bb017746fd8b8cec2df93ad0d479a0090920c2d9"
+hash = "34155f4cf22e4cec83f9a35e5646c034dd70e04928aa51acc99e7a3e82cc4980"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -6798,11 +6802,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
-hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+hash = "f5bb870d3638e4331f1b1baee637359cd2ac425d4f600b8723c2bf3b7d408196"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "645b2c075855a6c094938443f3bee7cb296a6acb933983bcd28512213e755fde"
+hash = "d40f93df38225f181ac81e26fb26d9c03dac8c6101aa1bdf98f8cd760f0a2ae7"
 
 [[files]]
 file = "config/xnet-client.toml"
@@ -6820,6 +6824,11 @@ metafile = true
 [[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "a70783e0935c2cf59e024b7f75c8da7526b35b19d83ccb29d92d569b14597acc"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "64bcde890c30378ebb2f305268bd76c412e1f5d4709896e97449cbe95b653fe5"
 metafile = true
 
 [[files]]
@@ -6843,13 +6852,18 @@ hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
 metafile = true
 
 [[files]]
+file = "mods/autochefs-delight.pw.toml"
+hash = "bd4ea05a561f0c2d71cc1d7f650e058fb95330fdf2e0166d365179e97db86fef"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "ae089d54ed8c41631781cf963587c3e9abeb3e8fec9e5fbe2556e634625e48e2"
 metafile = true
 
 [[files]]
 file = "mods/beautified-chat-client.pw.toml"
-hash = "2e605cc24f17ef71619cc5d73a8a47a296a5cb4ed5d899e1fa040c7ae39bf29c"
+hash = "d634ef1a864f152597f7fcd39aea13fe177d9610042b757b78b2bc9083a8c0f0"
 metafile = true
 
 [[files]]
@@ -6860,6 +6874,11 @@ metafile = true
 [[files]]
 file = "mods/better-village-forge.pw.toml"
 hash = "1aaff9c7a621b3af82415312ee6a152b43dcd77c4bb24c9968a7cf37a4e1931a"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "28358fe53c22695b3bf1f93ac2225c46fe3525918b7b993ac36e68a7f0a16fe8"
 metafile = true
 
 [[files]]
@@ -6914,7 +6933,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "7d4871feed11be86b6f982077daa244d84732c1a658e3b978af2d6a5d7d83caf"
+hash = "80286a97858b9f51329eb2de57efad466b240e9ecddcaeee5040c78aeb9210c4"
 metafile = true
 
 [[files]]
@@ -7003,6 +7022,11 @@ hash = "60e22142593d512e3614ae5171e8a247d9bedbf18fe55750387f45f99993e5cc"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "e29577d9983ad1e32e31262ed620cd41eed7074d83cd3c5d0849dd207539cc46"
 metafile = true
@@ -7013,6 +7037,16 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/cozy-home.pw.toml"
+hash = "af055ec5ecf4de574bcee255406a6c75435d7ba8625a7ab547a1d7585acaba20"
+metafile = true
+
+[[files]]
+file = "mods/crabbers-delight.pw.toml"
+hash = "e4783078375411368741c2c8d3dcebfc671cce1cc504a3418279327fce3c39f1"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "78cacc203857570841308fa2b833f50b5bec688dd326ac2f3be50d3b4c60f3cd"
 metafile = true
@@ -7020,6 +7054,11 @@ metafile = true
 [[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "38f768b012377ef081c46f4c3659361f56793ec2e0a1bd9958f99c8e70d72d13"
+metafile = true
+
+[[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "38e568025ffa43791aa33853dfeaa65f50c97f44743924213803aca0dc41a13e"
 metafile = true
 
 [[files]]
@@ -7320,6 +7359,16 @@ hash = "eb351918762f5c8f05672257082d1ca144c3c9397c40d6785116d1af8b02d864"
 metafile = true
 
 [[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "2ec083ed1872a8886a63c8f112958fdda1cf802d01c90400272e0d95a82c976d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ranks-forge.pw.toml"
+hash = "b923953a13d73256842319b9449bbc1d126ac8ecb13d66e8726be02ff94f5387"
+metafile = true
+
+[[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "6a0155012732893dae42d8a7dae4df181367eaaea57296e0ca9849567e7b9b4f"
 metafile = true
@@ -7327,6 +7376,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "5d5819b14f3e0088d99e82f2a6b2f77df2b566726c9380b89b858b4246c69d25"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "39e65bf3c47517cdb2f9b4b49c6632dd56db797744faaf8b1a3726b1b95aacb4"
 metafile = true
 
 [[files]]
@@ -7342,6 +7396,11 @@ metafile = true
 [[files]]
 file = "mods/gamemenumodoption.pw.toml"
 hash = "5780a8fe15320f3b6d11e8eabd5f114596e90e0b061e490466d3c0bf09a439eb"
+metafile = true
+
+[[files]]
+file = "mods/geckoanimfix.pw.toml"
+hash = "499b9dcff2708b6c4152ff49c5f320d87bb803d0b47b4d88778437c48a59d1f5"
 metafile = true
 
 [[files]]
@@ -7490,6 +7549,16 @@ hash = "433236e219589f34337ad72448553be1659ecb319fc428ad21de689295eaf911"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "101c34781cd238ccf1c524b64c870ce1a8611f71df46680c820918c719e868e1"
+metafile = true
+
+[[files]]
+file = "mods/more-delight.pw.toml"
+hash = "099b3574b2671fcd09245a96625a72987a85ba88c9b74f20f02084b3f8aaab93"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
 metafile = true
@@ -7535,6 +7604,11 @@ hash = "71f8ff1d0bed31d3c010f40c6271b56c186b4be3bd75ef74358bcee688031968"
 metafile = true
 
 [[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "7f5a7cc6134e81f6f9411e353d5f92bee50fba2edfbc738b1fb3732a54cf51ba"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "fdb31ea5cf8fd4fa22b22d8685cc232d625011c107775a649209259aed8e65ce"
 metafile = true
@@ -7572,6 +7646,11 @@ metafile = true
 [[files]]
 file = "mods/radium.pw.toml"
 hash = "3b8dfb427b30c25513a232ee5752333e6c17b001bfb86a0c98038ede984d70a5"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "4ac97596695bcac0e845fc38670d33974e4c902f5257afb9e764eed599e5f110"
 metafile = true
 
 [[files]]
@@ -7615,13 +7694,33 @@ hash = "e8201b44aaafea01fb65a0ccf39ce55047b3a3dc54d90c5d43c4cd7ce23078ec"
 metafile = true
 
 [[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "2e4c8005f531bd93b71d70fda8d1353437c27cd4bd8d3b794705b63ae3dc27ee"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "dbe03acc1a3ad86c78aa728d9b2a97991f4cc5cb113fcc2747caab1ee49b56e7"
 metafile = true
 
 [[files]]
+file = "mods/seasonhud.pw.toml"
+hash = "7e338d93ef72c503f52217c735205e4c588a30809a137dd427e83841747ec9f4"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "14134e708ec8e9bee6329df46e188b33a07ed86cff9657a597f53def05cb15df"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons-fix.pw.toml"
+hash = "87f91913025362bdee5f78dc93e63d888f1674de6ded6ced558a3b5e346c77db"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "7f38bb5c863c04b013a2c6ed75d799525ba3cc5a548279adde6e9329ff308dd4"
 metafile = true
 
 [[files]]
@@ -7714,6 +7813,16 @@ hash = "436e0c633a689379dfb99745344a6ab0c9cc39955f59d6194aad2a6a44202217"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "3d4564fe6cbc358aaf1031ad27aea296386f9e2215e33b5006aa76a03883e290"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "8e4a88ac887cf91f870804cd5a4730e318dc68b927b7634c2adb9d6b78fc04d1"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "66e091a1aa7ee6fd986931a99914cb9f3133957bd99454b7d768350d5c54b312"
 metafile = true
@@ -7764,6 +7873,11 @@ hash = "20e15c7019ce77fca1432a3f3d287aa04ae00760c25d5a48bd3f390b07e6d3c6"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "937544bffb4f08d7916ef32890587f0d414abab52a39a850ab783ad9424f5453"
 metafile = true
@@ -7780,11 +7894,11 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Map Icons.zip"
-hash = "3dd93ad5d2415789b3883d6ce5b2833203fb1e86cfaa1f58578b1127541f20bd"
+hash = "7e23c440df6dd223b14dbcbd7f186637fe2f288647ae347398cb5cf935173c67"
 
 [[files]]
 file = "resourcepacks/map-icons.pw.toml"
-hash = "a8e804af17600651e64e114b141c38ab5be63d217e1dc1013d712875040cb739"
+hash = "fe95ec5fc5b1c3c718b441f5b78605492258d1058734353b804d80c4b87d29ec"
 metafile = true
 
 [[files]]

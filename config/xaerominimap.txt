@@ -8,7 +8,7 @@ debugEntityVariantIds:false
 radarHideInvisibleEntities:true
 allowInternetAccess:true
 #INGAME SETTINGS (DO NOT EDIT!)
-updateNotification:true
+updateNotification:false
 minimap:true
 caveMaps:0
 caveZoom:1
@@ -28,7 +28,7 @@ minimapOpacity:100.0
 waypointsIngameIconScale:0
 waypointsIngameDistanceScale:0
 waypointsIngameNameScale:0
-waypointsIngameCloseScale:1.0
+waypointsIngameCloseScale:1.0000000149011612
 antiAliasing:true
 blockColours:0
 lighting:true
@@ -63,24 +63,24 @@ centeredEnlarged:false
 zoomOnEnlarged:0
 minimapTextAlign:0
 waypointsMutualEdit:true
-compassLocation:1
+compassLocation:0
 compassDirectionScale:0
 caveMapsDepth:30
 hideWaypointCoordinates:false
 renderAllSets:false
 playerArrowOpacity:100
 waypointsBottom:false
-minimapShape:0
+minimapShape:1
 lightOverlayType:0
 lightOverlayMaxLight:7
 lightOverlayMinLight:0
 lightOverlayColor:13
-uiScale:0
+uiScale:3
 bossHealthPushBox:1
 potionEffectPushBox:1
 minimapFrame:0
 minimapFrameColor:9
-compassColor:9
+compassColor:0
 northCompassColor:-1
 displayMultipleWaypointInfo:1
 entityRadar:true
@@ -130,4 +130,4 @@ infoDisplay:highlights:true:15:-1
 infoDisplay:light_overlay_indicator:true:15:-1
 infoDisplay:manual_cave_mode_indicator:true:15:-1
 infoDisplay:custom_sub_world:true:15:-1
-module;id=xaerominimap:minimap;active=true;x=0;y=0;centered=false;fromRight=false;fromBottom=false;flippedVer=false;flippedHor=false;
+module;id=xaerominimap:minimap;active=true;x=0;y=0;centered=false;fromRight=true;fromBottom=false;flippedVer=false;flippedHor=false;

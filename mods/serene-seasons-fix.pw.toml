@@ -1,0 +1,13 @@
+name = "Serene Seasons Fix"
+filename = "sereneseasonsfix-1.20.2-1.1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1LtXIG7a/versions/WamLOYet/sereneseasonsfix-1.20.2-1.1.0.1.jar"
+hash-format = "sha512"
+hash = "fe697a9c6cf451c9e1075bcc490b12b8277d35adfe96a82dffb4a547aec092538f1968873ff8ad0b3cc6c813ae322a5500aa803a0e3f1efb54a1244b8af5e2a7"
+
+[update]
+[update.modrinth]
+mod-id = "1LtXIG7a"
+version = "WamLOYet"

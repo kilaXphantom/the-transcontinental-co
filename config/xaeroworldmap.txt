@@ -1,5 +1,5 @@
 ignoreUpdate:180
-updateNotification:true
+updateNotification:false
 allowInternetAccess:true
 differentiateByServerAddress:true
 caveMapsAllowed:true
@@ -10,7 +10,7 @@ loadChunks:true
 updateChunks:true
 terrainSlopes:2
 terrainDepth:true
-footsteps:true
+footsteps:false
 flowers:true
 coordinates:true
 hoveredBiome:true

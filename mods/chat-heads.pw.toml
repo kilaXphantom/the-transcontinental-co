@@ -14,4 +14,4 @@ version = "45EJNtBe"
 
 [option]
 optional = true
-description = "Press OK to continue or skip the install.\n\n Link: https://www.curseforge.com/minecraft/mc-mods/chat-heads"
+description = "Shows player heads in chat\n\nOK to install (or skip)\nCancel to exit\n\nLink: https://modrinth.com/mod/chat-heads"
