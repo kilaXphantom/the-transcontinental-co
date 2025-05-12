@@ -7037,11 +7037,6 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
-file = "mods/cozy-home.pw.toml"
-hash = "cc7a33ae4af4d53e85c41d751ff2752f8b459daf141d25f20850a4da7b203c42"
-metafile = true
-
-[[files]]
 file = "mods/cozy_home-3.0.4-forge-1.20.1.jar"
 hash = "2f25567a587d547ff8186c09500bf4861c6fc710fd59c7439b41d5b45e21bb50"
 
