@@ -229,10 +229,6 @@ file = "config/defaultoptions/options.txt"
 hash = "bf84d579c6911d18d6c7a6cfa4f7731c1e5e314a9206654069bddb560dff6ba0"
 
 [[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "783ee51025c9cfef40801db5c2e92405594f1d2aaeeb6758f7a978b31f028b62"
-
-[[files]]
 file = "config/delightful-common.toml"
 hash = "c6099285ffbadbf56632473bf428a1e2238431a55727fc5a3a8d2accd5c03b4b"
 
@@ -6880,6 +6876,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
+metafile = true
+
+[[files]]
+file = "mods/bountiful.pw.toml"
+hash = "2798fc9c61947e92e1e43c8b031429b811e45aa79a421b7fba9fe81754e319a2"
 metafile = true
 
 [[files]]
