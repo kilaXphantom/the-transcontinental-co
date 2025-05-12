@@ -7418,11 +7418,6 @@ hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
 metafile = true
 
 [[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "7a7cfbf0429f16fbd98c5ac463a2276adaa129fd46cd03c38fb54325f85660a6"
-metafile = true
-
-[[files]]
 file = "mods/hamsters.pw.toml"
 hash = "87ee798202183b64997cc36e88d5fb70330ce71da6797a0efaf537839eea78a2"
 metafile = true
