@@ -16,6 +16,7 @@ version = "7hR11cdx"
 optional = true
 description = '''
 ◻ Tweaks the original chat
+
 ◼ "OK" to select and install (or skip)
 ◼ "Cancel" to cancel launch
 '''

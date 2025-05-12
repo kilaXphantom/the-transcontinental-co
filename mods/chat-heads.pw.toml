@@ -16,6 +16,7 @@ version = "45EJNtBe"
 optional = true
 description = '''
 ◻ Shows player heads in chat
+
 ◼ "OK" to select and install (or skip)
 ◼ "Cancel" to cancel launch
 '''
