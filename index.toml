@@ -330,11 +330,11 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_default.txt"
-hash = "7c672cfd1259e501b7d84bcbd79c0172a1fea972aa623742b940fc36b7a107bf"
+hash = "32a441e7a7e540e46f0fdbf529dd3695f9eff6eb449b40548cf239e76a41495c"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "cc873abc59395637ab28b0cc850fb9da47920a38d45ad4c4af3cedc40be92022"
+hash = "3ab2e12a07066a1e21f0cffd5e4f2508eac10c57099f0bda430c5337af95c5e3"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
