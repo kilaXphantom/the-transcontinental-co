@@ -6828,7 +6828,7 @@ metafile = true
 
 [[files]]
 file = "mods/another-furniture.pw.toml"
-hash = "64bcde890c30378ebb2f305268bd76c412e1f5d4709896e97449cbe95b653fe5"
+hash = "b84646283690a60b7759c6fd4ddef324225de6ea2eb99d4a4bdc1af78bddcdd5"
 metafile = true
 
 [[files]]
@@ -7374,7 +7374,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-ranks-forge.pw.toml"
-hash = "b923953a13d73256842319b9449bbc1d126ac8ecb13d66e8726be02ff94f5387"
+hash = "6d4a92463401c5452fd11c1f71f7b049b3564b1f53f69a74b54302e981415465"
 metafile = true
 
 [[files]]
@@ -7415,6 +7415,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
@@ -7729,7 +7734,7 @@ metafile = true
 
 [[files]]
 file = "mods/serene-seasons.pw.toml"
-hash = "7f38bb5c863c04b013a2c6ed75d799525ba3cc5a548279adde6e9329ff308dd4"
+hash = "816765c1d1efd28ee1046b8b515e3e4f0ea9551e81b44f059714bc6c93e7779d"
 metafile = true
 
 [[files]]
@@ -7828,7 +7833,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8e4a88ac887cf91f870804cd5a4730e318dc68b927b7634c2adb9d6b78fc04d1"
+hash = "1a7d83ff96739b35bfb9035ff23db0a95d30bceb1a018b078a2df96fcf09ab59"
 metafile = true
 
 [[files]]
