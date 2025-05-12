@@ -585,14 +585,6 @@ file = "config/particle_core_disabled_optimizations.json"
 hash = "75fc5b71df6c207879fdf6c1ba2f2c63fb770295bea1055d3d505e775be33c88"
 
 [[files]]
-file = "config/paxi/resourcepacks/Fresh Animations.zip"
-hash = "69592930c7b8995644d0d402573ad9ce76da85d91814520f107507ab6842ed39"
-
-[[files]]
-file = "config/paxi/resourcepacks/Sun and Moon.zip"
-hash = "676186e788b679f605d455bd45188c39478f140e5b6f255a258a94275dcc9b82"
-
-[[files]]
 file = "config/physicsmod/physics_animations_client_config.json"
 hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
