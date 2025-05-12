@@ -305,6 +305,10 @@ file = "config/fallingleaves-client.toml"
 hash = "2cd017af6632239398b694fadf8191d6073cf39585549876cc682843f521ecb3"
 
 [[files]]
+file = "config/fancymenu/options.txt"
+hash = "3107be76ea4f10760f3b86d38f30179be75fa6ed40d0c9953bb0762518e01966"
+
+[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
 
@@ -579,6 +583,14 @@ hash = "b333cc1270dad7525637051e6525eef812c37a820e959d1b62e68bb7686b722b"
 [[files]]
 file = "config/particle_core_disabled_optimizations.json"
 hash = "75fc5b71df6c207879fdf6c1ba2f2c63fb770295bea1055d3d505e775be33c88"
+
+[[files]]
+file = "config/paxi/resourcepacks/Fresh Animations.zip"
+hash = "69592930c7b8995644d0d402573ad9ce76da85d91814520f107507ab6842ed39"
+
+[[files]]
+file = "config/paxi/resourcepacks/Sun and Moon.zip"
+hash = "676186e788b679f605d455bd45188c39478f140e5b6f255a258a94275dcc9b82"
 
 [[files]]
 file = "config/physicsmod/physics_animations_client_config.json"
