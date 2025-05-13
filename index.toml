@@ -7224,6 +7224,11 @@ hash = "9a2b52087e1870abc9a17819fe304e20b8d6785c19ba3232f3b9061e8ab67abe"
 metafile = true
 
 [[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "8b6bdcdb04abd4429b65994bb76a55197d8948e165ff95dcbe1991b05ed205b5"
+metafile = true
+
+[[files]]
 file = "mods/create-recycle-everything.pw.toml"
 hash = "e2ad1c7e6f75fc123370ced3cf016d35599ab816d6b49aefa19db000e1560ee3"
 metafile = true
