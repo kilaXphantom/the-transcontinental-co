@@ -230,11 +230,11 @@ hash = "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "31e2995d338552b07dd4d0ace9296a12062f73d8b7213e91358c70a94e29460a"
+hash = "1559681d8bec7559d51817bf4b1d4e69535e3a7514e66fca167e4301a5e2d5ae"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "366327a4dfd949a1178e683d05f7c03587107cba878153ee2e7dd009faec231d"
+hash = "dff98c523e6a7b84bbf150708dfa4ca796f1a8d81352b463e8ea6201a7dec3ef"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -251,10 +251,6 @@ hash = "f6e6e9b80a3d95639a0cf81f53bd6fdd2b9064e56124025fbd7cb5731fcfd253"
 [[files]]
 file = "config/effecttooltips.json"
 hash = "01993d23443937fdb1ac62e2f1707c00ffe5f0b94d45a1edbff927417fb49ebe"
-
-[[files]]
-file = "config/effortlessbuilding-client.toml"
-hash = "a58297f1133d1065c2689635d17af651c190e93c5901df4b9a40be4e14796ab2"
 
 [[files]]
 file = "config/effortlessbuilding-common.toml"
@@ -6806,7 +6802,7 @@ hash = "80b0161bbd450eb2e8c64fcd3e643694c052bf43e9e79a985fb639b7a4782466"
 
 [[files]]
 file = "config/valkyrienskies/vs_core_server.json"
-hash = "4cce977a70bc4b21f61cd1c81e802971ac0d016e991574d41867222665b78455"
+hash = "0742357f0e31519911a54e7bd87b718b2e029a449fcc623bcfbe9afd64416bbe"
 
 [[files]]
 file = "config/valkyrienskies/vs_eureka_client.json"
@@ -7193,6 +7189,11 @@ hash = "6f65ae1642c49a45319c2985b2ded6105cd59d6bd52b6aad77ec3a6dd31ab86c"
 metafile = true
 
 [[files]]
+file = "mods/create-goggle-placement-lieonlion.pw.toml"
+hash = "e0f44de06219620b6aceba3f5120a9294dc0bf636423b63ddd8a16a175d91265"
+metafile = true
+
+[[files]]
 file = "mods/create-industry.pw.toml"
 hash = "eebf94fe197b0c507c81c4b251e49dcceea5b44aa9d23384ba3d7121424680ae"
 metafile = true
@@ -7316,11 +7317,6 @@ hash = "36798523a87111afaf2237cd610a73653487d9523a8576afda08d9fe1acf1129"
 metafile = true
 
 [[files]]
-file = "mods/effortless-building.pw.toml"
-hash = "5c118585456add791116b5b0c9af9e19a79ae108738b0c35ece16149727f936e"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "a74b2d65c286896335b454f61f18be630d0f13767626ebb118584907d1d37112"
 metafile = true
@@ -7367,6 +7363,11 @@ metafile = true
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
+metafile = true
+
+[[files]]
+file = "mods/fays-fairies.pw.toml"
+hash = "c8cf5ba96e4e63023faeedbac6226c4ee48eeeee916b36d77aba574f58c09451"
 metafile = true
 
 [[files]]
@@ -7949,8 +7950,13 @@ hash = "20e15c7019ce77fca1432a3f3d287aa04ae00760c25d5a48bd3f390b07e6d3c6"
 metafile = true
 
 [[files]]
+file = "mods/xaeroarrowfix.pw.toml"
+hash = "eb305de407903e79945b06573735dcafd4ebd011531d86e0918e065e205bfb98"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "74b4ea5279c7fa9965ced3d9d02d42aeaf1b213314e3e9b5c5747a36ae6e9648"
+hash = "d1a1623189ae0719b30e3305e1d3d2e7a7fe0326f37d1c1c71fde0cf31056ca5"
 metafile = true
 
 [[files]]

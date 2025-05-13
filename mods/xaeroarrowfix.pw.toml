@@ -1,0 +1,13 @@
+name = "Xaero Arrow Fix"
+filename = "xaeroarrowfix-forge-1.2+1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uyEClyfU/versions/6skn800j/xaeroarrowfix-forge-1.2%2B1.20.jar"
+hash-format = "sha512"
+hash = "1049416cb10d40434696cb8cb2689577d139b8c83bccd4eae2b2eebf976023a62c88102366c24eb095650295a6ff1fe14a9d70c3aeb9247127da9f62032700b9"
+
+[update]
+[update.modrinth]
+mod-id = "uyEClyfU"
+version = "6skn800j"

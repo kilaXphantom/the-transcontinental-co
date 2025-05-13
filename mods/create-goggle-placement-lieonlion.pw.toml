@@ -1,0 +1,13 @@
+name = "Create: Goggle Placement"
+filename = "CreateGogglePlacement-1.0.1+1.20.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dQG1xfZI/versions/yUfpnPxM/CreateGogglePlacement-1.0.1%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "70096136d8b6119a7926e86f31a26e40bd7e66a275b4ac80eb0dc1903d31904060d4a9cd4fb0861e569e57337a225ae792be3a4127438a6ecea454b110cc334d"
+
+[update]
+[update.modrinth]
+mod-id = "dQG1xfZI"
+version = "yUfpnPxM"

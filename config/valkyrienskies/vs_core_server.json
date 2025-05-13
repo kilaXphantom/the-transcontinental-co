@@ -1,6 +1,6 @@
 {
   "pt" : {
-    "synchronizePhysics" : false,
+    "synchronizePhysics" : true,
     "physicsTicksPerGameTick" : 3,
     "terrainBakingThreads" : 4,
     "terrainBakingThreadPriority" : 5,
