@@ -7950,8 +7950,8 @@ hash = "20e15c7019ce77fca1432a3f3d287aa04ae00760c25d5a48bd3f390b07e6d3c6"
 metafile = true
 
 [[files]]
-file = "mods/xaeroarrowfix.pw.toml"
-hash = "eb305de407903e79945b06573735dcafd4ebd011531d86e0918e065e205bfb98"
+file = "mods/xaeroplus.pw.toml"
+hash = "ba47685c842a2b6dbcf376e610e58fad3f37de2df14f68994990827132c3f8a4"
 metafile = true
 
 [[files]]
