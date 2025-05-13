@@ -7224,6 +7224,11 @@ hash = "9a2b52087e1870abc9a17819fe304e20b8d6785c19ba3232f3b9061e8ab67abe"
 metafile = true
 
 [[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "bacad21ae6da0a999eb913f557d68357e0010c2ce0d3eda06693d67b6e84a061"
+metafile = true
+
+[[files]]
 file = "mods/create-recycle-everything.pw.toml"
 hash = "e2ad1c7e6f75fc123370ced3cf016d35599ab816d6b49aefa19db000e1560ee3"
 metafile = true
@@ -7241,6 +7246,11 @@ metafile = true
 [[files]]
 file = "mods/create-the-air-war.pw.toml"
 hash = "f1ea63385955767dcd26ea26c96df54f99e2e2ae3a9a6486dc6d5caf1bbc6356"
+metafile = true
+
+[[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "63f2413981be629df9c32e5549e06cf097078bf8ce0bd8c3bfe16de7ca0a18c2"
 metafile = true
 
 [[files]]
