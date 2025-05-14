@@ -7312,6 +7312,11 @@ hash = "92e7c209d5ed32174844e106e473397f393efb4949fa38d7475601c1135bd0f9"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "1b1d77fcccaa3b180fe5bf0bf7531d9be4f15895b9660e21cf911d4fc03350ec"
+metafile = true
+
+[[files]]
 file = "mods/drive-by-wire.pw.toml"
 hash = "66480dff746d968c27d6597f8861459fa8598a5f3880bf30bc317c1837a19859"
 metafile = true
@@ -7708,6 +7713,11 @@ metafile = true
 [[files]]
 file = "mods/particular-reforged.pw.toml"
 hash = "fd8ec877170b3345b348b7371e94b1a00a55f2824913b593254cc5a6583e59d7"
+metafile = true
+
+[[files]]
+file = "mods/passive-shield.pw.toml"
+hash = "9c34922c5c4e60380ba5300627b1c7d5749e55fff3d3b35492d63532ec4efba6"
 metafile = true
 
 [[files]]
