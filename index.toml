@@ -7189,11 +7189,6 @@ hash = "6f65ae1642c49a45319c2985b2ded6105cd59d6bd52b6aad77ec3a6dd31ab86c"
 metafile = true
 
 [[files]]
-file = "mods/create-goggle-placement-lieonlion.pw.toml"
-hash = "e0f44de06219620b6aceba3f5120a9294dc0bf636423b63ddd8a16a175d91265"
-metafile = true
-
-[[files]]
 file = "mods/create-industry.pw.toml"
 hash = "eebf94fe197b0c507c81c4b251e49dcceea5b44aa9d23384ba3d7121424680ae"
 metafile = true
@@ -7618,6 +7613,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "82a0484217227dc92a79a12733b5a8051591c14c5aff1a55e7e675eb8c7eb72e"
 metafile = true
 
 [[files]]
