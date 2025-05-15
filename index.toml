@@ -7381,11 +7381,6 @@ hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
 metafile = true
 
 [[files]]
-file = "mods/fays-fairies.pw.toml"
-hash = "c8cf5ba96e4e63023faeedbac6226c4ee48eeeee916b36d77aba574f58c09451"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
