@@ -7855,6 +7855,11 @@ hash = "994ee0273487718c21fc13cdd22b4794382e03796e7da6eacd03a450271df57a"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+metafile = true
+
+[[files]]
 file = "mods/splashy.pw.toml"
 hash = "09fd578d5464274d35237b4248e2674d48060c991ffd7b7043e542570eb32589"
 metafile = true
