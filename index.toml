@@ -6925,6 +6925,11 @@ hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "777eb31bb0687b66bec8f9e5c3cf3b43030add8fcdf3f0c7db07f0e30208a820"
+metafile = true
+
+[[files]]
 file = "mods/better-village-forge.pw.toml"
 hash = "1aaff9c7a621b3af82415312ee6a152b43dcd77c4bb24c9968a7cf37a4e1931a"
 metafile = true
@@ -7071,7 +7076,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "ffa609907fd0f338204de9af2c795b1698f374dff630ac1b6d4ec836a943e102"
+hash = "97de09e03269bb98e10bd9d2a18e7dffff337fda987f72a5af81f547683f44be"
 metafile = true
 
 [[files]]
@@ -7467,7 +7472,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "f27cfa5b5cee97e0814790dc57d5a20671590243a8a08fe8e5bf2a97dc251eb1"
+hash = "7c17fe2c923d6bb3ecf995c90a3e5ec5abf6ab3e8d8e309ed6b3f9cdf416cc00"
 metafile = true
 
 [[files]]
@@ -7573,6 +7578,11 @@ metafile = true
 [[files]]
 file = "mods/library-ferret-forge.pw.toml"
 hash = "207ea5c3ad00aee495de4d614c504d443c141068a2ddf0554f5a7829923cfeec"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "ec1dbea2c473bfd08357e3a31745ba28046debee77242e9c401169ddbc88bcd3"
 metafile = true
 
 [[files]]
@@ -7688,6 +7698,11 @@ metafile = true
 [[files]]
 file = "mods/oauth-account-manager.pw.toml"
 hash = "71f8ff1d0bed31d3c010f40c6271b56c186b4be3bd75ef74358bcee688031968"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "ad423721eb829f70f26c9b6fe94e393bf53f4c79f8ccae6e7d1cb1f07be042c4"
 metafile = true
 
 [[files]]
