@@ -1,0 +1,13 @@
+name = "CreateStuffAdditions Fix"
+filename = "createstuffadditionsfix-forge-1.20.1-0.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "68e0c745c48f73e0815a90b1bbfccb69efc17c8e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5278566
+project-id = 1006676

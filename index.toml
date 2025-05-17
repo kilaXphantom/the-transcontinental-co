@@ -7287,6 +7287,11 @@ hash = "274ead8f01184fb94bcb6d421f03924c2c7a0d10fee7c201154c549253b216ef"
 metafile = true
 
 [[files]]
+file = "mods/createstuffadditions-fix.pw.toml"
+hash = "12b4eb7a04992a47cf232639ac015e7e1f984a185d826e948943e9e43098ec80"
+metafile = true
+
+[[files]]
 file = "mods/createtweaker.pw.toml"
 hash = "06da98a45d7d2ddf862248113984dfc103036d670ef5dd1158ed54e5786d7971"
 metafile = true
