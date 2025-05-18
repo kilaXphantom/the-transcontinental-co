@@ -7199,6 +7199,11 @@ hash = "6f65ae1642c49a45319c2985b2ded6105cd59d6bd52b6aad77ec3a6dd31ab86c"
 metafile = true
 
 [[files]]
+file = "mods/create-framed.pw.toml"
+hash = "14942b8f3cc672ce7dc20a6b5a65182a20abe5baf530928a870a3c0b3af12446"
+metafile = true
+
+[[files]]
 file = "mods/create-goggle-placement-lieonlion.pw.toml"
 hash = "e0f44de06219620b6aceba3f5120a9294dc0bf636423b63ddd8a16a175d91265"
 metafile = true
@@ -7314,6 +7319,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "1cb1ed842db59e479dc2b21cf8afb8eeb9ff4577d292e6b51ed8df98e24411d5"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "400396918f6581f7157a25c5dda75fd620d16fd8565201a5e7aee30f6c7df8b0"
 metafile = true
 
 [[files]]
