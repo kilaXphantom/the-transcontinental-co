@@ -7076,7 +7076,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "cdb4a78d4bb572501108461cda1d4bfabfb55b0984e5554955fb4797de657778"
+hash = "ffa609907fd0f338204de9af2c795b1698f374dff630ac1b6d4ec836a943e102"
 metafile = true
 
 [[files]]
@@ -7676,6 +7676,11 @@ hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
 metafile = true
 
 [[files]]
+file = "mods/multibeds.pw.toml"
+hash = "3a3c97604b5e34c49034b9271f9a9a864bf6a2de68a71543422e2c7e051dbb76"
+metafile = true
+
+[[files]]
 file = "mods/mysterious-mountain-lib.pw.toml"
 hash = "6661419906a990bdbc3f2de5cb8ca395c15fd1d9a38ebc4ea35059e9596a8f00"
 metafile = true
@@ -7838,6 +7843,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "1c270155b3aee22a70d5bd30b28f97ee91bb5645961485c029b45877681fd8c2"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "3636928a6068d4a3884fdfcfcd3a37f823fd1e9f4edccd2ee0be16a1cbf8872a"
 metafile = true
 
 [[files]]
