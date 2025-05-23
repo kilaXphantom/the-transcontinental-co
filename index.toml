@@ -6885,6 +6885,16 @@ hash = "b84646283690a60b7759c6fd4ddef324225de6ea2eb99d4a4bdc1af78bddcdd5"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "c281ef574be46e4df3f7ed04b0a4b5f6d1b2a836b7d1d94c4a30be9c85d3adcb"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
@@ -6897,6 +6907,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "f21c4e0ad9099df15ca3000c9b3e52d902451f5689ecdcc203f6a1fd9691acd1"
 metafile = true
 
 [[files]]
@@ -6927,6 +6942,11 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "777eb31bb0687b66bec8f9e5c3cf3b43030add8fcdf3f0c7db07f0e30208a820"
+metafile = true
+
+[[files]]
+file = "mods/better-tridents.pw.toml"
+hash = "17bb4c973d37556e94baee888ee69f270b6bed2e9b33945ac4172e9417846f68"
 metafile = true
 
 [[files]]
@@ -7362,6 +7382,11 @@ hash = "ff57ff18a03aea15e3afe8f9bc58d06809013605a4cd7fa63918661fadaa2d76"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "3b17a2980b74426f94633164b0c068f8afa025eabee0e0bd1a32c5965361c028"
+metafile = true
+
+[[files]]
 file = "mods/effect-tooltips.pw.toml"
 hash = "36798523a87111afaf2237cd610a73653487d9523a8576afda08d9fe1acf1129"
 metafile = true
@@ -7776,8 +7801,18 @@ hash = "9c34922c5c4e60380ba5300627b1c7d5749e55fff3d3b35492d63532ec4efba6"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 hash = "1bc510c2003bae5616d20b25637b08dd1f3038924e1ed5accf72cd1e5c82790d"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
