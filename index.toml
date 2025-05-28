@@ -6935,6 +6935,11 @@ hash = "86b9454741aafa9004a1f63980c89788e8dff3e5f055ae69441268102157e0af"
 metafile = true
 
 [[files]]
+file = "mods/better-beds-reforged.pw.toml"
+hash = "92d8e993997c614a0664dda008709173b3e9145f78058d9abb45634b3c3fedb9"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
 metafile = true
@@ -7397,6 +7402,11 @@ hash = "a74b2d65c286896335b454f61f18be630d0f13767626ebb118584907d1d37112"
 metafile = true
 
 [[files]]
+file = "mods/emogg.pw.toml"
+hash = "6f20af95671efae49d92d0b3bba23f2824022bad60da7c8875ebfa978f2ef367"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "b8cccf49530803953b340152f8114c2565020824f6a00c3777634e51185ca8d9"
 metafile = true
@@ -7446,6 +7456,11 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
+file = "mods/findme.pw.toml"
+hash = "c6a2d9b3f0a172663eb91a650de90332cf7adf41662c01a9d3ad581d66e32ada"
+metafile = true
+
+[[files]]
 file = "mods/fishing-bobber-detector.pw.toml"
 hash = "fc39919e43e19650312ba967cbbc2ea7d1bd14a8fe677b8271dfe63b6e479df9"
 metafile = true
@@ -7458,6 +7473,11 @@ metafile = true
 [[files]]
 file = "mods/flans-mod-reloaded.pw.toml"
 hash = "852de62a0b281fc7176cbca72db7fa859dcddd96f7964524fcd1e39155f746e8"
+metafile = true
+
+[[files]]
+file = "mods/flib.pw.toml"
+hash = "3e8ccc74f161b632cf8eadda6548860bfa58e4970cec1630135b83900e31b98d"
 metafile = true
 
 [[files]]
@@ -7791,6 +7811,11 @@ hash = "74735952df4c37dbc3e36df80035a0a4ec4a4d56a5a622e7fa94626732fd789b"
 metafile = true
 
 [[files]]
+file = "mods/panorama-screens.pw.toml"
+hash = "e0831356237091da1e4e3b6abf95047a1fd7ae1e3f248ac4defa7f730e8e83d3"
+metafile = true
+
+[[files]]
 file = "mods/particular-reforged.pw.toml"
 hash = "fd8ec877170b3345b348b7371e94b1a00a55f2824913b593254cc5a6583e59d7"
 metafile = true
@@ -7921,6 +7946,16 @@ hash = "3636928a6068d4a3884fdfcfcd3a37f823fd1e9f4edccd2ee0be16a1cbf8872a"
 metafile = true
 
 [[files]]
+file = "mods/simple-storage-network.pw.toml"
+hash = "981e43edb0f77a7bfdb7543e9a4956841f574ebab9eb8135595dddcdf2c839a0"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "1f24b43be5efacc252ef6df1d794ea811fd3f33e6f76d6d999e11e28018e553e"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "8bd3fa262f65440f4ea58f682e47d1ee81a7ed84b341cfd7a3d59e1212844be8"
 metafile = true
@@ -7952,11 +7987,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "67087375de779fadaf33a1623d8d9c51820581f266058869fe92b1863f88b90f"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-storage.pw.toml"
-hash = "5230fdddaea91196e8321688492917eb7338499291f7ef169236e626b4917e02"
 metafile = true
 
 [[files]]
@@ -8062,6 +8092,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "13af80b2b1274ebea8a8afdd31340b98280ae70ae7a64061162d0b07e75e0929"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "6a249583abaec5492b693b8a19e1b42abb338af6517f92004c86471df57ddfc0"
 metafile = true
 
 [[files]]
