@@ -7656,6 +7656,11 @@ hash = "29e8b5ebc8295fbe6fd1bc2e7e036bf3ad21a905a7cc4d765053e3c56094943f"
 metafile = true
 
 [[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "e72b77792a8d646cb9ff26043d590041d3d8ed9aaedd0b097d5879c90525d70f"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret-forge.pw.toml"
 hash = "207ea5c3ad00aee495de4d614c504d443c141068a2ddf0554f5a7829923cfeec"
 metafile = true
@@ -7956,6 +7961,11 @@ hash = "1f24b43be5efacc252ef6df1d794ea811fd3f33e6f76d6d999e11e28018e553e"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-radio.pw.toml"
+hash = "7bb9b367774fd68ce3e0c600f41f5c882b2232a203d3132b7224229ae73f9534"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "8bd3fa262f65440f4ea58f682e47d1ee81a7ed84b341cfd7a3d59e1212844be8"
 metafile = true
@@ -8102,6 +8112,11 @@ metafile = true
 [[files]]
 file = "mods/u-team-core.pw.toml"
 hash = "f4986d0889116fdd4bee45c98acf051fe649252eb415746324a8955d5fa0d827"
+metafile = true
+
+[[files]]
+file = "mods/underlay.pw.toml"
+hash = "546d5d434f729d8046bc99aef89604370e0dafc10aca2d20763fbf123408f6d3"
 metafile = true
 
 [[files]]
