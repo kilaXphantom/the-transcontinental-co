@@ -7916,6 +7916,11 @@ hash = "54980224a747a23832727baac223d407fd22f1a42d7fd50345429b3e13ef5252"
 metafile = true
 
 [[files]]
+file = "mods/restricted-portals.pw.toml"
+hash = "0e0a1ea1e814e9a0620ef9e517180e0a5117d5fb1d8c1bfd9b93a52ca5f73fa5"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
 metafile = true
