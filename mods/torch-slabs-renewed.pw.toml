@@ -1,0 +1,13 @@
+name = "Torch Slabs Renewed"
+filename = "torchslabmod-renewed-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9516e49f4095ffb4aedeaf07ffc64fbbb53fc226"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5987362
+project-id = 1158536

@@ -7731,6 +7731,11 @@ hash = "7d32d9d90e8e115cf80e27b85f468a6cb86c7aeec1c765a82bf21bdfd14b4290"
 metafile = true
 
 [[files]]
+file = "mods/model-gap-fix.pw.toml"
+hash = "cd3140db1982e4e1b17c60b71e436fc92c22b1a6ce189e6b8197d1275487679c"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0ecdd609ce9f0d7be12e7e7dfd8317152c7c93164afe8e5c92dcfcb80c7a26e8"
 metafile = true
@@ -7858,6 +7863,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "f4f6d4a3ea0bb499b3f66fca415131701d6e039debca3548210f818f544358ea"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
 
 [[files]]
@@ -8085,6 +8095,11 @@ hash = "21142282c48c31d1a078219823a465dcd6d7e746f9fbc41d158d6df87b8f4513"
 metafile = true
 
 [[files]]
+file = "mods/torch-slabs-renewed.pw.toml"
+hash = "9502991b6c8521621413ee4f06588a843b7112a961d8e1f2788f9699a319ef24"
+metafile = true
+
+[[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "cfd9a2802e5471ffd9e2555286ba95fddc4fa75184bf59084bd2e1cb88b14b3c"
 metafile = true
@@ -8152,6 +8167,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "9fb6a1a06b18f2ce7b0811200339d997925cb39bde220fbaea4d5c8067376c12"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "557d160e4a3d856c6bbe36c39ee7c6cd42824363690b61d5f23bbac153c8edbc"
 metafile = true
 
 [[files]]
