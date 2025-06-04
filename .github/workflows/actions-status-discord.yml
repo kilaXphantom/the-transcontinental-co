@@ -20,4 +20,4 @@ jobs:
       - uses: sarisia/actions-status-discord@v1
         if: always()
         with:
-          webhook: ${{ secrets./webhooks/1379814798446952458/NFlaYTsGkgRHLP0_rXb5ff-4sa6Jm8IXEFqVcN8qhSRnsKF3AclkGKArObuB8mZOCW-k }}
+          webhook: ${{ secrets.1379814798446952458/NFlaYTsGkgRHLP0_rXb5ff-4sa6Jm8IXEFqVcN8qhSRnsKF3AclkGKArObuB8mZOCW-k }}
