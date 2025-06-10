@@ -7193,7 +7193,7 @@ metafile = true
 
 [[files]]
 file = "mods/cozy-home.pw.toml"
-hash = "c714d13e716cd2134b5a5876c3e65954d1285f5c3cdb1e268ebaf3f26ed9d526"
+hash = "bd8a67f7bd6db60baa2ef51f884f0007c04adb38b5346eab7bed8c9a66b0a847"
 metafile = true
 
 [[files]]
@@ -7287,7 +7287,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-eureka.pw.toml"
-hash = "6f65ae1642c49a45319c2985b2ded6105cd59d6bd52b6aad77ec3a6dd31ab86c"
+hash = "43e70280929b07805be0c35e5cbf21961690a78647e73cf9fd1326ead4fe091f"
 metafile = true
 
 [[files]]
@@ -7332,7 +7332,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-recycle-everything.pw.toml"
-hash = "e2ad1c7e6f75fc123370ced3cf016d35599ab816d6b49aefa19db000e1560ee3"
+hash = "3b74eee7b499d04bd7834b004b6aed216779380ad54ef51e5ddd9f6cca5a014d"
 metafile = true
 
 [[files]]
@@ -7405,7 +7405,7 @@ metafile = true
 
 [[files]]
 file = "mods/cute-companions-ducks.pw.toml"
-hash = "d16657cce7b6b0d6d228fb78e31410e1e2481fcad7879aa3bbe59ce036dcbcef"
+hash = "f91c99afafd59e795844abc18e1debcc6346b00f7b09d734f6862246a0f9b180"
 metafile = true
 
 [[files]]
@@ -7553,7 +7553,7 @@ hash = "b15caa9b329641097b063271b4187cad6c5f14a1d38cda0b9759240e5b42b3ee"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "6adc3fc45d936c3572b9a1d41097caca204ed4c5b0f107bf57347273936683ab"
+hash = "1e93a36b3b71760351048750f15f0e0dc484ec9325e06368c223a58cc2fd0492"
 metafile = true
 
 [[files]]
@@ -8058,7 +8058,7 @@ metafile = true
 
 [[files]]
 file = "mods/realistic-explosion-physics.pw.toml"
-hash = "bbecc14398fad2bad8e26f3803301ac4c2ddf639de9fd2436e67efb91d92a040"
+hash = "2f2f4e67222a5c5afe89028bff77dba6bd856c59073e88e95415581e8135c5fc"
 metafile = true
 
 [[files]]
@@ -8158,7 +8158,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "8bd3fa262f65440f4ea58f682e47d1ee81a7ed84b341cfd7a3d59e1212844be8"
+hash = "c084ac4822df01a1fd9353397fd5fb2bffad5ff8ab105889f631770e186d6930"
 metafile = true
 
 [[files]]
