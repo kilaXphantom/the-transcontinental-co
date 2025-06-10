@@ -1,0 +1,13 @@
+name = "Project: War Dance"
+filename = "wardance-2.8.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e191712be9cec7a9e08e6ee21ace30c6cee0d8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5554599
+project-id = 446004

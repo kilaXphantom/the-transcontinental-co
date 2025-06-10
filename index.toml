@@ -649,6 +649,10 @@ file = "config/particle_core_disabled_optimizations.json"
 hash = "75fc5b71df6c207879fdf6c1ba2f2c63fb770295bea1055d3d505e775be33c88"
 
 [[files]]
+file = "config/paxi/datapacks/DarksWardanceMegaCompatibilityBundle-1.20.1-v1.2.6.zip"
+hash = "3449faf772fb077119036ea9f76da69b420112960b694306fc9a3f9cc94f3a93"
+
+[[files]]
 file = "config/physicsmod/physics_animations_client_config.json"
 hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
@@ -8034,6 +8038,11 @@ metafile = true
 [[files]]
 file = "mods/pretty-rain.pw.toml"
 hash = "9244e3ce294b09a630e6343fba1bea75c3bb3f661441a7fc7462446bd888c932"
+metafile = true
+
+[[files]]
+file = "mods/project-war-dance.pw.toml"
+hash = "957f17e79676783f40b5f12cf98ac2ff9c7c698f132467cf06d2c6bcb8f28115"
 metafile = true
 
 [[files]]
