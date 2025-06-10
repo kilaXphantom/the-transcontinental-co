@@ -8143,7 +8143,7 @@ metafile = true
 
 [[files]]
 file = "mods/serene-seasons.pw.toml"
-hash = "54fe345938f1b4295c603b2d74cf1fd9892ef8b5a893eaec30bb77417659775c"
+hash = "84ba27cb7bd05174860dba55739d5252f74effd0d77e16383b6c46052fb1774b"
 metafile = true
 
 [[files]]
@@ -8187,7 +8187,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
-hash = "33c63115013c310cd1610064f2157808a0be1d2f8ce607effa093cb2d691a083"
+hash = "c7cc1b0d0fa9d345df1f73c57a122061e837c2d4e4719c10202da2384df0daba"
 metafile = true
 
 [[files]]
