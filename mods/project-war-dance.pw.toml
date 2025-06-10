@@ -1,13 +1,13 @@
 name = "Project: War Dance"
-filename = "wardance-2.4.2.jar"
+filename = "wardance-2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "98238cc1b7dcd6f8da3a699a0842979f2d83cc13"
+hash = "340b0e85ecbf28851e7f595059cc5baac63c3a07"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4858719
+file-id = 4812667
 project-id = 446004
