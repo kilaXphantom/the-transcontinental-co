@@ -1,0 +1,13 @@
+name = "Attributizer"
+filename = "attributizer-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1990a436e7ccd17f9f654d02f1089a41803601eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5313631
+project-id = 838573

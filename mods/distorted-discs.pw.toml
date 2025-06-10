@@ -1,0 +1,13 @@
+name = "Distorted Discs"
+filename = "distorted_discs-0.8-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4f4ff69e0977fa509372fb4f7bbe8e16dcbdc32"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5620310
+project-id = 620228

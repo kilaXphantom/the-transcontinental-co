@@ -1,0 +1,13 @@
+name = "Footwork API"
+filename = "footwork-4.3.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4167c64a83a01b571d0ca1963dc32755f88a4d0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5419777
+project-id = 608407

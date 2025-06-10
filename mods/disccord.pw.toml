@@ -1,0 +1,13 @@
+name = "DiscCord"
+filename = "DiscCord-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3HrCAKw5/versions/I4eyc22x/DiscCord-1.20.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "b6d45617239bab08ca3b133ebf4189ca26f815a0a90000f7a62c4240912f8bc398c0fc5fc71320c6fcd8cc1c4f6ffda276f0e4f79201b76736006a89379428da"
+
+[update]
+[update.modrinth]
+mod-id = "3HrCAKw5"
+version = "I4eyc22x"

@@ -1,0 +1,13 @@
+name = "Cute Companions: Ducks"
+filename = "cute_companions_ducks-0.0.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "254c045daec5d58703786b6c0ff0463776a60f8d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6054165
+project-id = 1168110
