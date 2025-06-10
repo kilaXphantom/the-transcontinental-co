@@ -77,6 +77,10 @@ file = "config/brute_force_rendering_culling-client.toml"
 hash = "f58a040807e90f0a88465923d399890658667d628850094a415bed6f30941b17"
 
 [[files]]
+file = "config/cameraoverhaul.toml"
+hash = "24293fd80c300429b93f28157af430bbbb82b6d41400393b4808884b2905c44c"
+
+[[files]]
 file = "config/canary.properties"
 hash = "a37eb7f218ab61f3277a103a85c5bd14ff0abe0dff94e17883bcbb5ea28a3855"
 
