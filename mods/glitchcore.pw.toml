@@ -1,13 +1,13 @@
 name = "GlitchCore"
-filename = "GlitchCore-forge-1.20.1-0.0.1.1.jar"
+filename = "GlitchCore-forge-1.20.1-1.0.0.60.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1a0aaf7c33b9acb26bf75899a43e8941cac1f6e7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/s3dmwKy5/versions/WDjq6fqy/GlitchCore-forge-1.20.1-1.0.0.60.jar"
+hash-format = "sha512"
+hash = "bc520d056ffa9e35c0db63a9108bcfa78e4fea1adde1a68074380ee3ba2ece9dd947819b56e0ccbb08b0b39ea8c973a44a8f885f5d3cfc0fa9223c3e8ccaa73f"
 
 [update]
-[update.curseforge]
-file-id = 5787839
-project-id = 955399
+[update.modrinth]
+mod-id = "s3dmwKy5"
+version = "WDjq6fqy"
