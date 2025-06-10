@@ -6897,7 +6897,7 @@ file = "config/xnet-client.toml"
 hash = "3940248651afaf0f27adf3709a5ce9ebafff02602a86dfff712d72439183c268"
 
 [[files]]
-file = "mods/Enhanced-Celestials-forge-1.20.1-5.0.3.1.jar"
+file = "mods/Enhanced-Celestials-KxP.jar"
 hash = "002c9b9c5e135b575cb845e7e2d8970f9c06edb05191c4624a3da0d2409a089c"
 
 [[files]]
@@ -7567,7 +7567,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
-hash = "c2cb0212a081a7814a0d535a1d0fd313ff31d3142c3ff9e65f68ce9624305bfa"
+hash = "e56c5eba351524edae38a6724641d647656794ee77955df780407f16494f0ef1"
 metafile = true
 
 [[files]]
