@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/actions-status-discord.yml"
-hash = "9bf3b0fe0f963941e9d7ff5ff305f21380db0bf55b764703106a3d5094b9124b"
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
