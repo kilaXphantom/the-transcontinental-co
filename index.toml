@@ -113,6 +113,22 @@ file = "config/citadel-common.toml"
 hash = "3fcd8013137a86c00953d4be1e56945b84b87594be722bbf3b3be8d752e2577f"
 
 [[files]]
+file = "config/cloakanddagger/client.toml"
+hash = "34540589b4ab9d21bc51dfe6fc000fe09b7315938997b15e5fd89d64b89d7987"
+
+[[files]]
+file = "config/cloakanddagger/mob.toml"
+hash = "95a88d25a8e29972e6dfa1177562d8417be8330d055dc8367186cfb2ed39813a"
+
+[[files]]
+file = "config/cloakanddagger/sound.toml"
+hash = "ca63a69ebb17dd429bb0e1e685b88f797129f737c3564bb61da6bc93a03c7540"
+
+[[files]]
+file = "config/cloakanddagger/stealth.toml"
+hash = "54cf2f68be6e6360ecfe20ef0b073d4b51bf6e6d6f765a3d47bf7c0319eec0d4"
+
+[[files]]
 file = "config/cofh_core-client.toml"
 hash = "c683eaf3dcb24312ce939ad6580490cde2dc5477349cd87e9b3ae45575f21a6b"
 
@@ -579,6 +595,10 @@ hash = "e2479f865aab179a60038aa9826bf2bd39900f990d076ad5162519972833b214"
 [[files]]
 file = "config/minecolonies-common.toml"
 hash = "9e9b11a44581622f28540bee1f82c1c8918141814c2c8de1be73fe4138c73113"
+
+[[files]]
+file = "config/mobhealthbar-client.toml"
+hash = "ea52ca63f17e3ad833d76afc0be3780a73a3e50782a6dc3172c7e9bf1e9a8bad"
 
 [[files]]
 file = "config/modernfix-common.toml"
@@ -8042,7 +8062,7 @@ metafile = true
 
 [[files]]
 file = "mods/project-war-dance.pw.toml"
-hash = "957f17e79676783f40b5f12cf98ac2ff9c7c698f132467cf06d2c6bcb8f28115"
+hash = "7a315f0a72bae9f3887dc247ae9932e063bcddfdb736a5a83ee74dbd465ccfb6"
 metafile = true
 
 [[files]]
