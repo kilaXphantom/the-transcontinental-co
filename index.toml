@@ -7619,7 +7619,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "2a4f28e582d8bb538efaeb0faa5a8592f44b2e90dd192af58852f45aa7be8be8"
+hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
 metafile = true
 
 [[files]]
@@ -7884,7 +7884,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "7d32d9d90e8e115cf80e27b85f468a6cb86c7aeec1c765a82bf21bdfd14b4290"
+hash = "bda389d772ca7258390e9a0eacebca1511980709b98d42f177de1d657dd87587"
 metafile = true
 
 [[files]]
@@ -7920,6 +7920,11 @@ metafile = true
 [[files]]
 file = "mods/multibeds.pw.toml"
 hash = "3a3c97604b5e34c49034b9271f9a9a864bf6a2de68a71543422e2c7e051dbb76"
+metafile = true
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "6161befd655a400fb4a07d8702b62c3f24f828d5ee6336c3dcacd6bcaff78fc1"
 metafile = true
 
 [[files]]
