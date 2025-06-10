@@ -7019,7 +7019,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "8de66eecb9c82bb626c8a25680f273feb9adbac13db4e12582a4ad6f183895b3"
+hash = "b66321dcd74400f64d539bde020f14335d77d04012b2f991b0cfb5bc800ba9a7"
 metafile = true
 
 [[files]]
@@ -8238,7 +8238,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "fef2383d8af2a8fe6c8f2c95d5c133f7d0eaadbbeeb4b4f6268ffa88b1cc0aa1"
+hash = "c35e5a06dcd2a6a2614200254f7ba1b9a016b9c9ad38ed2f3343766673f6b764"
 metafile = true
 
 [[files]]
