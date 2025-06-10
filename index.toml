@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/actions-status-discord.yml"
+hash = "9bf3b0fe0f963941e9d7ff5ff305f21380db0bf55b764703106a3d5094b9124b"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
@@ -7189,7 +7193,7 @@ metafile = true
 
 [[files]]
 file = "mods/cozy-home.pw.toml"
-hash = "cc7a33ae4af4d53e85c41d751ff2752f8b459daf141d25f20850a4da7b203c42"
+hash = "c714d13e716cd2134b5a5876c3e65954d1285f5c3cdb1e268ebaf3f26ed9d526"
 metafile = true
 
 [[files]]
@@ -7401,8 +7405,12 @@ metafile = true
 
 [[files]]
 file = "mods/cute-companions-ducks.pw.toml"
-hash = "1eabb5d08f569d30dcec6ab80a2401d46aa8658ae486c20c7ce906c902092ace"
+hash = "d16657cce7b6b0d6d228fb78e31410e1e2481fcad7879aa3bbe59ce036dcbcef"
 metafile = true
+
+[[files]]
+file = "mods/cute_companions_ducks-0.0.2-forge-1.20.1.jar"
+hash = "aa3461e2e3eafe8555770a1d017bb82d64b4c45c095a0e0979f57487aff95256"
 
 [[files]]
 file = "mods/data-anchor.pw.toml"
@@ -8443,3 +8451,11 @@ metafile = true
 [[files]]
 file = "scripts/Recipes.zs"
 hash = "4b50b8cb21e9826db7b9a6001614b398f33bc0356d7e978de7c64af1c83112c8"
+
+[[files]]
+file = "transcontinental-header.png"
+hash = "f73d6eafabe4d346ca6a329d688419b6bfe61722f2a888ef76515845abcb6d6b"
+
+[[files]]
+file = "transcontinental-header_with-bg.png"
+hash = "90bc4f1f3ce722df4290c1f0635cf81b44162a8b9881622989701b7bbbb73b5f"
