@@ -8300,11 +8300,6 @@ hash = "1a7d83ff96739b35bfb9035ff23db0a95d30bceb1a018b078a2df96fcf09ab59"
 metafile = true
 
 [[files]]
-file = "mods/tacz-leawinds-third-person-compat.pw.toml"
-hash = "80321da2bb5592cdd48b6464a8684b9573fd83d5f317fd336e3a2b19b1e82227"
-metafile = true
-
-[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "66e091a1aa7ee6fd986931a99914cb9f3133957bd99454b7d768350d5c54b312"
 metafile = true
