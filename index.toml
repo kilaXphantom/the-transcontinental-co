@@ -7463,7 +7463,7 @@ metafile = true
 
 [[files]]
 file = "mods/distraction-free-recipes.pw.toml"
-hash = "5b2715bd2dbc5ed20fada1a5f4fe661cd1e4a3ebe7393c92541581ea84f88587"
+hash = "a170c6a97472a2995e8f132a69a5e15c2f929545f7cb31a788f1176cf51d7b85"
 metafile = true
 
 [[files]]
@@ -8366,7 +8366,7 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "7149b1beafef2ce275da37dd5ca2e12f5527ad979420630ecdef5bcabd4fef32"
+hash = "a15880365dbfee06b5b8c9af2be1f0bf9bdba990e8019e74b7faa432696794b2"
 metafile = true
 
 [[files]]
