@@ -114,7 +114,7 @@ hash = "3fcd8013137a86c00953d4be1e56945b84b87594be722bbf3b3be8d752e2577f"
 
 [[files]]
 file = "config/cloakanddagger/client.toml"
-hash = "34540589b4ab9d21bc51dfe6fc000fe09b7315938997b15e5fd89d64b89d7987"
+hash = "1b806f4ec86394e7764c7eade28db4f99dee7b63aa9a3ebf7eaf86780ffc795f"
 
 [[files]]
 file = "config/cloakanddagger/mob.toml"
@@ -265,11 +265,11 @@ file = "config/delightful-common.toml"
 hash = "c6099285ffbadbf56632473bf428a1e2238431a55727fc5a3a8d2accd5c03b4b"
 
 [[files]]
-file = "config/disccord/ffmpeg.exe"
+file = "config/disccord/ffmpeg/ffmpeg.exe"
 hash = "70394be0ce0ab98f6ed8c965f2befed5c6d5f45bc9846530e4b461eaaaae8182"
 
 [[files]]
-file = "config/disccord/yt-dlp.exe"
+file = "config/disccord/youtubedl/yt-dlp.exe"
 hash = "c35921a051770047211b522af957e65a3eb4f788572533b4ce6b67b619b2a443"
 
 [[files]]
@@ -7072,7 +7072,7 @@ metafile = true
 
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
-hash = "524935c82227eb3f1c0721ca50a809e1f2c950dd69154a113e8636f21f093efb"
+hash = "dc9b1b1b065e28b510affa540db502155223216c2a142bc70f94d73cda59fe57"
 metafile = true
 
 [[files]]
@@ -7459,6 +7459,11 @@ metafile = true
 [[files]]
 file = "mods/distorted-discs.pw.toml"
 hash = "a1e581464ab5bb4c108e0d1350d75b0310e8470340a2c9cb6e8a0f8aef2cf021"
+metafile = true
+
+[[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "5b2715bd2dbc5ed20fada1a5f4fe661cd1e4a3ebe7393c92541581ea84f88587"
 metafile = true
 
 [[files]]
@@ -8295,6 +8300,11 @@ hash = "1a7d83ff96739b35bfb9035ff23db0a95d30bceb1a018b078a2df96fcf09ab59"
 metafile = true
 
 [[files]]
+file = "mods/tacz-leawinds-third-person-compat.pw.toml"
+hash = "49b9f9381b43c7430990f850dad02861977f6456c3933b8bffceeaa6126b7f19"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "66e091a1aa7ee6fd986931a99914cb9f3133957bd99454b7d768350d5c54b312"
 metafile = true
@@ -8352,6 +8362,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "6a249583abaec5492b693b8a19e1b42abb338af6517f92004c86471df57ddfc0"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "7149b1beafef2ce275da37dd5ca2e12f5527ad979420630ecdef5bcabd4fef32"
 metafile = true
 
 [[files]]

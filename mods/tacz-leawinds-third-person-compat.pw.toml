@@ -1,0 +1,13 @@
+name = "TaCZ: Leawind's Third Person Compat"
+filename = "tacz_leawindtps_compat-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16c6d049e9ee9c7ee5a920bb0fa88897e98f5039"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5950840
+project-id = 1085892
