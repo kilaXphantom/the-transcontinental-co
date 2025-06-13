@@ -7136,11 +7136,6 @@ hash = "98952c950b934d7897e58d3602dab4a1ec64d63fa672d11b1320c7c09ef026fa"
 metafile = true
 
 [[files]]
-file = "mods/cloak-dagger.pw.toml"
-hash = "fa97f2b035a5a525d7b1eeaad7018cb78dd16ed80cbec057f1b4297c7babd5d7"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
@@ -8061,11 +8056,6 @@ hash = "9244e3ce294b09a630e6343fba1bea75c3bb3f661441a7fc7462446bd888c932"
 metafile = true
 
 [[files]]
-file = "mods/project-war-dance.pw.toml"
-hash = "0f6adae79d8e2e615cca337e8987411b39db7b789a2865ffbffbe1f59f14a32c"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "f4f6d4a3ea0bb499b3f66fca415131701d6e039debca3548210f818f544358ea"
 metafile = true
@@ -8407,11 +8397,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "8415f043e1b75f3ef11c990896598389343f87be9d133edd866e466c626fb31e"
-metafile = true
-
-[[files]]
-file = "mods/ydms-mobhealthbar-mod.pw.toml"
-hash = "394531d695d16a0520475e8864e4afa201b0a4c0a1a8694b51fad509eb5b8805"
 metafile = true
 
 [[files]]
