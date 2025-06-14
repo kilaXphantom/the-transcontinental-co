@@ -3,5 +3,5 @@ version = 0
 turnOffPotionParticles = "NONE"
 reduceAllChance = 1.0
 reduceDecreasedChance = 1.0
-disableParticles = true
+disableParticles = false
 byTypeReductions = {  }
