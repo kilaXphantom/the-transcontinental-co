@@ -662,7 +662,7 @@ hash = "67f0d1a354210a1b0cfd444d2edde838fe74d1882f374a6febb5440ac323b562"
 
 [[files]]
 file = "config/particle_core_config.toml"
-hash = "911c849bc798a9c92b418eab405f59745fefdc28c4280b37bee803842318cc56"
+hash = "f589da11739872700684ad26e8c588859c312cdf8c9df9832a290a307dc7b2e4"
 
 [[files]]
 file = "config/particle_core_disabled_optimizations.json"
