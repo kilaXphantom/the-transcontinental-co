@@ -13,6 +13,26 @@ file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "d02af8fe18164ec7566009fdf2c6c673b387687fe89a0e71fe719a8b664d9615"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "ad41c18d8223070fe2a7566dd6d9baad76edc4424c8f6ee3c9e0c596eb7d5a3f"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "a047949b3a8d5442bb315ef88c919ff87787510672203ee6754acf8d665b1c2b"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
 file = "config/VModData/ServerLimits"
 hash = "cfc39a176706aa543f46d466b670ed8d73587e196e8534279d7bf130a8c9acee"
 
@@ -719,6 +739,10 @@ hash = "a6aaff33ecabcd21bd315e1f8167716faa333d64e5dc166b270a26274c5cbdd0"
 [[files]]
 file = "config/puzzlesapi-slotcycling-client.toml"
 hash = "480697ae74306cdcd17eed12a34795b7856f00d183d06ce69fd0fbf046c54c2e"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "4bce051e8c16376cb14b0fa578b11f82f2669c5153863bfe667641cda614d7c2"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -7582,6 +7606,11 @@ hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
 metafile = true
 
 [[files]]
+file = "mods/fairy-lights.pw.toml"
+hash = "eeca094798607a0393a5ec261a0f3298e20fa74b0daa879951aec47c2c7fe64b"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "ddb7d5ac22aca98092701e6ac7ca04cd3a31cb43bb2ec3c5528a41c6092c0fe0"
 metafile = true
@@ -8471,6 +8500,14 @@ metafile = true
 [[files]]
 file = "scripts/Recipes.zs"
 hash = "4b50b8cb21e9826db7b9a6001614b398f33bc0356d7e978de7c64af1c83112c8"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip"
+hash = "20897248a5fe91b33bf7fd4b75959c30aa2003df195297979a410ee37d3bb62f"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip.txt"
+hash = "28393126cf534998b18225811710a17520725d326c80d5b28b9fc747c4f33d3d"
 
 [[files]]
 file = "transcontinental-header.png"
