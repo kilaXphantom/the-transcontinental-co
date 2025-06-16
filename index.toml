@@ -29,10 +29,6 @@ file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "a047949b3a8d5442bb315ef88c919ff87787510672203ee6754acf8d665b1c2b"
 
 [[files]]
-file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
-
-[[files]]
 file = "config/VModData/ServerLimits"
 hash = "cfc39a176706aa543f46d466b670ed8d73587e196e8534279d7bf130a8c9acee"
 
@@ -7088,11 +7084,6 @@ metafile = true
 [[files]]
 file = "mods/byzantine-styles-pack-for-minecolonies.pw.toml"
 hash = "d1cb459752787699ad3626d831a64fe24a82bdda6d447e0dc6ad2540067958cb"
-metafile = true
-
-[[files]]
-file = "mods/cameraoverhaul.pw.toml"
-hash = "dc9b1b1b065e28b510affa540db502155223216c2a142bc70f94d73cda59fe57"
 metafile = true
 
 [[files]]
