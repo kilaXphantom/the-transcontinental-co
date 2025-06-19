@@ -73,6 +73,10 @@ file = "config/beautifiedchatclient.json5"
 hash = "073caa5a3848e48016840ac5f4f1abbb41d16605f5d0b1dfef71291a02a5a016"
 
 [[files]]
+file = "config/betterdays-common.toml"
+hash = "9ae88e973461f1283689e43dc66ef0c7749929fecf894c14202bf704778df97c"
+
+[[files]]
 file = "config/betterfpsdist.json"
 hash = "a924ca8fd82b05bc1150b3df38d560a2733b347fc65751a666614db498b4484f"
 
