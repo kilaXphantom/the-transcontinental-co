@@ -71,7 +71,7 @@
 
 	[tweaks.compasses_work_everywhere]
 		"Enable Compass Nerf" = true
-		"Enable Clock Nerf" = true
+		"Enable Clock Nerf" = false
 		"Enable Nether" = true
 		"Enable End" = true
 
@@ -572,9 +572,6 @@
 		"Enable Lava Interaction" = true
 		"Allow Opening Shulker Boxes" = true
 		"Allow Rotating Bundles" = true
-
-	[management.hotbar_changer]
-		"Animation Time" = 7.0
 
 	[management.inventory_sorting]
 		"Enable Player Inventory" = true
