@@ -1,8 +1,0 @@
-name = "Map Icons"
-filename = "Map Icons.zip"
-side = "client"
-
-[download]
-url = "https://kilaxphantom.github.io/Create-a-Colony-Modpack/resourcepacks/Map%20Icons.zip"
-hash-format = "sha1"
-hash = "e2cbc2fb04785c5cd8bda0e65d2358022f8ab859"

@@ -1,8 +1,0 @@
-name = "Map Frame"
-filename = "Map Frame.zip"
-side = "client"
-
-[download]
-url = "https://kilaxphantom.github.io/Create-a-Colony-Modpack/resourcepacks/Map%20Frame.zip"
-hash-format = "sha1"
-hash = "bfaf296c3b1f011aec66b9417161a6952a41a465"

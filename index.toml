@@ -8475,24 +8475,6 @@ hash = "557d160e4a3d856c6bbe36c39ee7c6cd42824363690b61d5f23bbac153c8edbc"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Map Frame.zip"
-hash = "723dbf6a18e2bac2d98f1f282bb53cc1f7df54d163a05d22c5df4d77046402c2"
-
-[[files]]
-file = "resourcepacks/Map Icons.zip"
-hash = "7e23c440df6dd223b14dbcbd7f186637fe2f288647ae347398cb5cf935173c67"
-
-[[files]]
-file = "resourcepacks/map-frame.pw.toml"
-hash = "f86a7edc68c24241f56233fe2143404cbbe7845e0bc6fe08cbc5ed050d1c2598"
-metafile = true
-
-[[files]]
-file = "resourcepacks/map-icons.pw.toml"
-hash = "fe95ec5fc5b1c3c718b441f5b78605492258d1058734353b804d80c4b87d29ec"
-metafile = true
-
-[[files]]
 file = "scripts/Recipes.zs"
 hash = "4b50b8cb21e9826db7b9a6001614b398f33bc0356d7e978de7c64af1c83112c8"
 
