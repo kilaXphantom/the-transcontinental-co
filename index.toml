@@ -5,10 +5,6 @@ file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "6995b9fdf02bea7c739271466602989245b321a64e047890a4bbd6d5ad0b062d"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -683,6 +679,10 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 [[files]]
 file = "config/oculus.properties"
 hash = "67f0d1a354210a1b0cfd444d2edde838fe74d1882f374a6febb5440ac323b562"
+
+[[files]]
+file = "config/overflowingbars-client.toml"
+hash = "7a07e1075bb4204d08d19b70055bea7849d0b32e35a3514b82243fab2a482819"
 
 [[files]]
 file = "config/particle_core_config.toml"
