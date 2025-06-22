@@ -1,0 +1,65 @@
+{
+  "commandAlias": "vote",
+  "configVotes": [
+    {
+      "command": "/weather clear",
+      "alias": "weather_clear",
+      "desc": "change weather to clear"
+    },
+    {
+      "command": "/weather thunder",
+      "alias": "weather_thunder",
+      "desc": "change weather to thunder"
+    },
+    {
+      "command": "/weather rain",
+      "alias": "weather_rain",
+      "desc": "change weather to rain"
+    },
+    {
+      "command": "/weather snow",
+      "alias": "weather_snow",
+      "desc": "change weather to snow"
+    },
+    {
+      "command": "/season EARLY_SPRING",
+      "alias": "early_spring",
+      "desc": "change season to early spring"
+    },
+    {
+      "command": "/season LATE_SPRING",
+      "alias": "late_spring",
+      "desc": "change season to late spring"
+    },
+    {
+      "command": "/season EARLY_SUMMER",
+      "alias": "early_summer",
+      "desc": "change season to early summer"
+    },
+    {
+      "command": "/season LATE_SUMMER",
+    "alias": "late_summer",
+      "desc": "change season to late summer"
+    },
+    {
+      "command": "/season EARLY_AUTUMN",
+      "alias": "early_autumn",
+      "desc": "change season to early autumn"
+    },
+    {
+      "command": "/season LATE_AUTUMN",
+      "alias": "late_autumn",
+      "desc": "change season to late autumn"
+    },
+    {
+      "command": "/season EARLY_WINTER",
+      "alias": "early_winter",
+      "desc": "change season to winter"
+    },
+    {
+      "command": "/season LATE_WINTER",
+      "alias": "late_winter",
+      "desc": "change season to late winter"
+    }
+  ]
+}

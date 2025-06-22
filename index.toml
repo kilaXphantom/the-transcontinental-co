@@ -5,6 +5,10 @@ file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
 [[files]]
+file = "config/Discord-Integration.toml"
+hash = "0891681e18370bfd3b86b3f89babec7478e214e90dec2c5079b9de8f244dc1aa"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -31,6 +35,10 @@ hash = "cfc39a176706aa543f46d466b670ed8d73587e196e8534279d7bf130a8c9acee"
 [[files]]
 file = "config/VModData/role_data.json"
 hash = "eee2c69e64be0a345233397cf38602f78e40e0e36322d16a05407e5205241656"
+
+[[files]]
+file = "config/VoteMod.json"
+hash = "f593012e9244894900e3fe8c4614808ca78a5b0beb6b94ab09ae786a8d20925a"
 
 [[files]]
 file = "config/ae2/client.json"
