@@ -1,0 +1,13 @@
+name = "Server Vote"
+filename = "votemod-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df899e99517f796ae967a7990753ba4dd0c3ac50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5784519
+project-id = 633687

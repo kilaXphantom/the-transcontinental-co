@@ -8119,11 +8119,6 @@ hash = "50579877561744484c4174f4ec196863cbba113e75f1b88023972d45dfa8fa8d"
 metafile = true
 
 [[files]]
-file = "mods/pretty-rain.pw.toml"
-hash = "9244e3ce294b09a630e6343fba1bea75c3bb3f661441a7fc7462446bd888c932"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
 metafile = true
@@ -8226,6 +8221,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "84ba27cb7bd05174860dba55739d5252f74effd0d77e16383b6c46052fb1774b"
+metafile = true
+
+[[files]]
+file = "mods/server-vote.pw.toml"
+hash = "f01bc4c97a82076f7ec5331677f2a684a0f3da75d2b2960e7bd5ce086d93be80"
 metafile = true
 
 [[files]]
