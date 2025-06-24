@@ -6,7 +6,7 @@ hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
 [[files]]
 file = "config/Discord-Integration.toml"
-hash = "0891681e18370bfd3b86b3f89babec7478e214e90dec2c5079b9de8f244dc1aa"
+hash = "b568b0be0af5eccfe4d53238c703289cecb37334dc54364405a42a9acd364d4f"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -274,7 +274,7 @@ hash = "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "1559681d8bec7559d51817bf4b1d4e69535e3a7514e66fca167e4301a5e2d5ae"
+hash = "ffa8706b14c17133bb016e24007a005fe20cf975754ba7318024b19a1ba46052"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -767,6 +767,10 @@ hash = "1f660c8bd0c374799862392ef7a56253544f5adaf653e59386cd1eb34f94fa2f"
 [[files]]
 file = "config/recipeessentials.json"
 hash = "d5e9999392e13549752157c6cb574c761cd323414d8eda96b31bfc6c42f98d25"
+
+[[files]]
+file = "config/reskillable-common.toml"
+hash = "5145212f1c34a3c721692cb61d68e724253750f77c8067a11ebb7c0841673212"
 
 [[files]]
 file = "config/rightclickharvest.toml"
