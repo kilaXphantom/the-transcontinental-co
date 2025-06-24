@@ -186,3 +186,4 @@ key_key.minecolonies.toggle_goggles:key.keyboard.unknown:NONE
 key_justzoom.keybinds.keybind.zoom:key.keyboard.z:NONE
 key_gui.xaero_pac_key_open_menu:key.keyboard.apostrophe:NONE
 key_key.entityculling.toggle:key.keyboard.unknown:NONE
+key_key.reskillable.open_skills:key.keyboard.y

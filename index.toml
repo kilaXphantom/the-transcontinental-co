@@ -8182,6 +8182,11 @@ hash = "cc64ca541c4710726dc3fa4b283b1260cfb2d3ff8d1784f80e0180d248c35688"
 metafile = true
 
 [[files]]
+file = "mods/reskillable-reimagined.pw.toml"
+hash = "88d12ff73ac355482413728ca68c25d6853ffe84c1a56dafcc2d1d08b9281657"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "54980224a747a23832727baac223d407fd22f1a42d7fd50345429b3e13ef5252"
 metafile = true
