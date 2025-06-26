@@ -773,6 +773,18 @@ file = "config/reskillable-common.toml"
 hash = "5145212f1c34a3c721692cb61d68e724253750f77c8067a11ebb7c0841673212"
 
 [[files]]
+file = "config/reskillable/attack_skill_locks.json"
+hash = "4684d5ffc9caa03fd8b10af64c7f8fc322d1a612259d6f7f15498f6d56555c9a"
+
+[[files]]
+file = "config/reskillable/craft_skill_locks.json"
+hash = "f92e69d778082c058ce68b3c0ba5ca9cffd587612d1c1dc66f6029f8eb3501ad"
+
+[[files]]
+file = "config/reskillable/skill_locks.json"
+hash = "1736bd4bf8b388b3ea03a0172f19d15186aaacf60e95d81937076d7db8a0287b"
+
+[[files]]
 file = "config/rightclickharvest.toml"
 hash = "a389d00dc4bc940f26df27187b088a7d62096f2d63f21db3023561d2b302a3d9"
 
