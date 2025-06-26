@@ -9,6 +9,26 @@ file = "config/Discord-Integration.toml"
 hash = "b568b0be0af5eccfe4d53238c703289cecb37334dc54364405a42a9acd364d4f"
 
 [[files]]
+file = "config/JLFork/just_leveling-client.toml"
+hash = "5b1a1482433f0ed898fa5213e6486852ddbcb51ae9225b6012a9f55151930e3a"
+
+[[files]]
+file = "config/JLFork/justleveling-fork.common.json5"
+hash = "b4bd443e7f5eb807705287c2555aa2fef24aff9f1a0bfeedc9546765e5a5d0cf"
+
+[[files]]
+file = "config/JLFork/justleveling-fork.convergence-items.json5"
+hash = "c3240b8854b811e62cd7237623efea93a52f14949dd34b9f026939f94a4e8a5c"
+
+[[files]]
+file = "config/JLFork/justleveling-fork.lockItems.json5"
+hash = "56191d7b9154906a41d8ad1da85a3e786dce4d482f5a6ea02c4275ce35a7fcc3"
+
+[[files]]
+file = "config/JLFork/justleveling-fork.titles.json5"
+hash = "cf6864ba263beff236cdd19afa0f95f7eeb2e673e6f39bac2f6491704dfbb30e"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -767,22 +787,6 @@ hash = "1f660c8bd0c374799862392ef7a56253544f5adaf653e59386cd1eb34f94fa2f"
 [[files]]
 file = "config/recipeessentials.json"
 hash = "d5e9999392e13549752157c6cb574c761cd323414d8eda96b31bfc6c42f98d25"
-
-[[files]]
-file = "config/reskillable-common.toml"
-hash = "5145212f1c34a3c721692cb61d68e724253750f77c8067a11ebb7c0841673212"
-
-[[files]]
-file = "config/reskillable/attack_skill_locks.json"
-hash = "4684d5ffc9caa03fd8b10af64c7f8fc322d1a612259d6f7f15498f6d56555c9a"
-
-[[files]]
-file = "config/reskillable/craft_skill_locks.json"
-hash = "f92e69d778082c058ce68b3c0ba5ca9cffd587612d1c1dc66f6029f8eb3501ad"
-
-[[files]]
-file = "config/reskillable/skill_locks.json"
-hash = "1736bd4bf8b388b3ea03a0172f19d15186aaacf60e95d81937076d7db8a0287b"
 
 [[files]]
 file = "config/rightclickharvest.toml"
