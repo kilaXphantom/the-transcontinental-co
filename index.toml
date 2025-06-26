@@ -7189,7 +7189,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
@@ -7868,6 +7868,11 @@ hash = "d6dc6f842d14bac8fe3f222a0ea9c7b60dacce1cae484cbe7ac36f16614a24ae"
 metafile = true
 
 [[files]]
+file = "mods/justleveling-fork.pw.toml"
+hash = "f18ab3fda2c4ff7a47869d3d030f7d8b097a9db7c50404398cf49784bdaf4c52"
+metafile = true
+
+[[files]]
 file = "mods/kambrik.pw.toml"
 hash = "b7d3d553250955d3b3a669647e66ef6c4c7a31ee07f04e308432acdebb87adb0"
 metafile = true
@@ -8198,11 +8203,6 @@ hash = "cc64ca541c4710726dc3fa4b283b1260cfb2d3ff8d1784f80e0180d248c35688"
 metafile = true
 
 [[files]]
-file = "mods/reskillable-reimagined.pw.toml"
-hash = "88d12ff73ac355482413728ca68c25d6853ffe84c1a56dafcc2d1d08b9281657"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "54980224a747a23832727baac223d407fd22f1a42d7fd50345429b3e13ef5252"
 metafile = true
@@ -8499,6 +8499,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "8415f043e1b75f3ef11c990896598389343f87be9d133edd866e466c626fb31e"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
 metafile = true
 
 [[files]]
