@@ -7892,11 +7892,6 @@ hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
 
 [[files]]
-file = "mods/leawind-third-person.pw.toml"
-hash = "0c6a080492d16f771194bf297614b086d9130be598dc9a098a6d5cc3559357d2"
-metafile = true
-
-[[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "29e8b5ebc8295fbe6fd1bc2e7e036bf3ad21a905a7cc4d765053e3c56094943f"
 metafile = true
