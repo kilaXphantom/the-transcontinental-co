@@ -8560,14 +8560,6 @@ file = "scripts/Recipes.zs"
 hash = "4b50b8cb21e9826db7b9a6001614b398f33bc0356d7e978de7c64af1c83112c8"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip"
-hash = "20897248a5fe91b33bf7fd4b75959c30aa2003df195297979a410ee37d3bb62f"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip.txt"
-hash = "28393126cf534998b18225811710a17520725d326c80d5b28b9fc747c4f33d3d"
-
-[[files]]
 file = "transcontinental-header.png"
 hash = "f73d6eafabe4d346ca6a329d688419b6bfe61722f2a888ef76515845abcb6d6b"
 
