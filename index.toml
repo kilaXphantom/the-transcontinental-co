@@ -7396,6 +7396,11 @@ hash = "23e8c7e184ffe881bbe08afb51f0d86e27644232eca37219e08684885be85852"
 metafile = true
 
 [[files]]
+file = "mods/create-new-furnitures.pw.toml"
+hash = "1d1e7037a310c64eda9b6391a921fe9d66e4f39ca36fafefb88dfedbf6fb9e80"
+metafile = true
+
+[[files]]
 file = "mods/create-radars.pw.toml"
 hash = "9a2b52087e1870abc9a17819fe304e20b8d6785c19ba3232f3b9061e8ab67abe"
 metafile = true
@@ -7553,6 +7558,11 @@ hash = "0bd3d604bc61c7460977b177bd9db979a6c235c55e8d1cd981dba1620ec80af8"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "a4c814876cd9046f9cdbe0a5967edff092adb8c28de2d717ce5fe469d6fbc9a2"
+metafile = true
+
+[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "ff57ff18a03aea15e3afe8f9bc58d06809013605a4cd7fa63918661fadaa2d76"
 metafile = true
@@ -7702,6 +7712,11 @@ hash = "3e8ccc74f161b632cf8eadda6548860bfa58e4970cec1630135b83900e31b98d"
 metafile = true
 
 [[files]]
+file = "mods/fogoverrides.pw.toml"
+hash = "30f7ee47ec62456a12a3808287e7616ca608358f7f35e4062dcd0380a85b198e"
+metafile = true
+
+[[files]]
 file = "mods/food-effect-tooltips-forge.pw.toml"
 hash = "509349061967f5ec62e4f3b3164fce0d9f8ffab0d1bb7e4af19fd098200c54c5"
 metafile = true
@@ -7797,6 +7812,11 @@ hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
 metafile = true
 
 [[files]]
+file = "mods/gnetum.pw.toml"
+hash = "e857c234081abc916f881060c1de750becda4c25463c8435a4d983fec86c0f51"
+metafile = true
+
+[[files]]
 file = "mods/hamsters.pw.toml"
 hash = "87ee798202183b64997cc36e88d5fb70330ce71da6797a0efaf537839eea78a2"
 metafile = true
@@ -7819,6 +7839,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-snow.pw.toml"
 hash = "5c94220894a24a9696246c365382635eaf9c25c5ebbafe0eeb6a6a02f5d44437"
+metafile = true
+
+[[files]]
+file = "mods/interactive.pw.toml"
+hash = "39fa512eec7e953be7e0afb7003327a36dc5b92145052653aa1a9f9ce7ef609d"
 metafile = true
 
 [[files]]
@@ -8291,6 +8316,11 @@ hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
 metafile = true
 
 [[files]]
+file = "mods/smsn.pw.toml"
+hash = "f95d561ed8b2d9b402d66242118aab959cc11ee0a8452cc9d493148d15d98116"
+metafile = true
+
+[[files]]
 file = "mods/snow-under-trees.pw.toml"
 hash = "c7cc1b0d0fa9d345df1f73c57a122061e837c2d4e4719c10202da2384df0daba"
 metafile = true
@@ -8338,6 +8368,11 @@ metafile = true
 [[files]]
 file = "mods/stitch.pw.toml"
 hash = "c6bfd83dc5787b7e0490e79aac71d42772d190589f7a06e389853961d93b7534"
+metafile = true
+
+[[files]]
+file = "mods/stop-off-hand-torch-placement.pw.toml"
+hash = "f647a2c2affa5d7de0f9584d4740bb204bc37e45a698e04f384e5973dd4933ea"
 metafile = true
 
 [[files]]
@@ -8406,11 +8441,6 @@ hash = "21142282c48c31d1a078219823a465dcd6d7e746f9fbc41d158d6df87b8f4513"
 metafile = true
 
 [[files]]
-file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "9f929b5bf57a5983fca9def659ef87ef7cca7e8a2f3727c4d3139dc1ed9cbf90"
-metafile = true
-
-[[files]]
 file = "mods/torch-slabs-renewed.pw.toml"
 hash = "9502991b6c8521621413ee4f06588a843b7112a961d8e1f2788f9699a319ef24"
 metafile = true
@@ -8467,7 +8497,12 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "39e10a0367b2f03397ba15b6d35ec28c7aeed4d976da001fb6d4b84c809db9fb"
+hash = "19e61336196413472f8d425a6ebbd51edb4dd32920839ddcec14fbede1546a20"
+metafile = true
+
+[[files]]
+file = "mods/vics-point-blank.pw.toml"
+hash = "59ea54e4dc69b9af35bf03c786a80de9142ae3069dbe144244b97a732d5d354d"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Stop Off-Hand Torch Placement"
+filename = "stop_placing_offhand_torches-alpha-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5395a027ab7d388b865cc2e812763d4e18e14ecc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5108994
+project-id = 974900
