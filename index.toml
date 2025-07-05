@@ -7812,11 +7812,6 @@ hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
 metafile = true
 
 [[files]]
-file = "mods/gnetum.pw.toml"
-hash = "e857c234081abc916f881060c1de750becda4c25463c8435a4d983fec86c0f51"
-metafile = true
-
-[[files]]
 file = "mods/hamsters.pw.toml"
 hash = "87ee798202183b64997cc36e88d5fb70330ce71da6797a0efaf537839eea78a2"
 metafile = true
@@ -8593,6 +8588,10 @@ metafile = true
 [[files]]
 file = "scripts/Recipes.zs"
 hash = "4b50b8cb21e9826db7b9a6001614b398f33bc0356d7e978de7c64af1c83112c8"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt"
+hash = "141a4ec6c2c52615dae7c96cddd13079b1322e7f816be5377fc36e7593dd3821"
 
 [[files]]
 file = "transcontinental-header.png"
