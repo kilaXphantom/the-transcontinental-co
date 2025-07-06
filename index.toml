@@ -157,6 +157,10 @@ file = "config/citadel-common.toml"
 hash = "3fcd8013137a86c00953d4be1e56945b84b87594be722bbf3b3be8d752e2577f"
 
 [[files]]
+file = "config/clienttweaks-common.toml"
+hash = "3bd9bc9f167edf84ca2023ce849a84a9ef3707bc8ae859d4784c4f2e3678b295"
+
+[[files]]
 file = "config/cloakanddagger/client.toml"
 hash = "1b806f4ec86394e7764c7eade28db4f99dee7b63aa9a3ebf7eaf86780ffc795f"
 
