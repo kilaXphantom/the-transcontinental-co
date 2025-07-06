@@ -7192,6 +7192,11 @@ hash = "98952c950b934d7897e58d3602dab4a1ec64d63fa672d11b1320c7c09ef026fa"
 metafile = true
 
 [[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "b405a6b68ef2eb6a1a3d1bdd0e89c0073e8b7f50f2cc42976499cbf755b2fcac"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
@@ -8363,11 +8368,6 @@ metafile = true
 [[files]]
 file = "mods/stitch.pw.toml"
 hash = "c6bfd83dc5787b7e0490e79aac71d42772d190589f7a06e389853961d93b7534"
-metafile = true
-
-[[files]]
-file = "mods/stop-off-hand-torch-placement.pw.toml"
-hash = "f647a2c2affa5d7de0f9584d4740bb204bc37e45a698e04f384e5973dd4933ea"
 metafile = true
 
 [[files]]
