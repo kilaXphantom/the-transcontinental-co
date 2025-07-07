@@ -313,12 +313,8 @@ file = "config/delightful-common.toml"
 hash = "c6099285ffbadbf56632473bf428a1e2238431a55727fc5a3a8d2accd5c03b4b"
 
 [[files]]
-file = "config/disccord/ffmpeg/ffmpeg.exe"
-hash = "70394be0ce0ab98f6ed8c965f2befed5c6d5f45bc9846530e4b461eaaaae8182"
-
-[[files]]
-file = "config/disccord/youtubedl/yt-dlp.exe"
-hash = "c35921a051770047211b522af957e65a3eb4f788572533b4ce6b67b619b2a443"
+file = "config/disccord-client.toml"
+hash = "cc0bfb3829e9dac3d8541615c192248240ed8904027c7e6b72efd3a55f1dbbdc"
 
 [[files]]
 file = "config/durabilitytooltip-common.toml"
@@ -7722,7 +7718,7 @@ metafile = true
 
 [[files]]
 file = "mods/fogoverrides.pw.toml"
-hash = "30f7ee47ec62456a12a3808287e7616ca608358f7f35e4062dcd0380a85b198e"
+hash = "22b1444752238f165fd49bbc40c1064bd507e490b9cd71c53dc09636a5dcb072"
 metafile = true
 
 [[files]]

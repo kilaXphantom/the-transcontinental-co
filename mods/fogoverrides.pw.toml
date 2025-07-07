@@ -1,6 +1,6 @@
 name = "Fog Overrides"
 filename = "fogoverrides-1.20.1-2.3.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/B1vBJNM4/versions/rOH2HU4V/fogoverrides-1.20.1-2.3.0.jar"
