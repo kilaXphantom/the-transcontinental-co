@@ -1733,11 +1733,6 @@ hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
 metafile = true
 
 [[files]]
-file = "mods/estrogen.pw.toml"
-hash = "e01c4925198bbcfd4cb3c00e0f89db7a45d3b56a3812b84b9b10535ab9455a28"
-metafile = true
-
-[[files]]
 file = "mods/eureka-ships.pw.toml"
 hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
 metafile = true
@@ -2504,11 +2499,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
-metafile = true
-
-[[files]]
-file = "mods/testosterone.pw.toml"
-hash = "bd827a61ced28cfca4fb9378b753f93e674aa32c06a3da3e8358dc44b9ba443a"
 metafile = true
 
 [[files]]
