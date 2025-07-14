@@ -1773,6 +1773,11 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "51af4a776fd62c9349329b2b13e0c29f80f5d728bba7afce35e512dcf6f10beb"
+metafile = true
+
+[[files]]
 file = "mods/findme.pw.toml"
 hash = "c6a2d9b3f0a172663eb91a650de90332cf7adf41662c01a9d3ad581d66e32ada"
 metafile = true
@@ -2230,6 +2235,11 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "1bc510c2003bae5616d20b25637b08dd1f3038924e1ed5accf72cd1e5c82790d"
+metafile = true
+
+[[files]]
+file = "mods/pizza-delight.pw.toml"
+hash = "64a785ee145337b30d8899f6142135970105ba7414e71ee79f24c293272cdae1"
 metafile = true
 
 [[files]]
