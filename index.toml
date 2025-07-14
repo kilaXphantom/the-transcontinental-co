@@ -1923,6 +1923,11 @@ hash = "5c94220894a24a9696246c365382635eaf9c25c5ebbafe0eeb6a6a02f5d44437"
 metafile = true
 
 [[files]]
+file = "mods/in-control.pw.toml"
+hash = "cd0eccae2401b54d1e36fbdc3ae19ec7c51e5b7004e2a19cb4d17922f14735fe"
+metafile = true
+
+[[files]]
 file = "mods/interactive.pw.toml"
 hash = "39fa512eec7e953be7e0afb7003327a36dc5b92145052653aa1a9f9ce7ef609d"
 metafile = true
