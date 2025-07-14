@@ -229,6 +229,10 @@ file = "config/create_connected-common.toml"
 hash = "b06523c4bb78125295106373c109555bbe6572dfc3b24eec5ca3e7881796edfd"
 
 [[files]]
+file = "config/create_interactive-common.toml"
+hash = "3f958c80f9f4a15fe15b2ea4d4d10171d7bab2db548f725de1be71a708c1af85"
+
+[[files]]
 file = "config/createaddition-common.toml"
 hash = "7df16c822c5fb78480eba48370fd4be967ac5600287c6b6abcbc1b17c140aec0"
 
