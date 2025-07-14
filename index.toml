@@ -2077,11 +2077,6 @@ hash = "9704f0af5a2846ca8e701cef1430fe9b927a67c06de317b2cb5be6ef9bd995b1"
 metafile = true
 
 [[files]]
-file = "mods/mcef.pw.toml"
-hash = "9c4c6c5980c293a89646db8a97768e8208e85c5d2c7fd95a37b1a650df3391bc"
-metafile = true
-
-[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "c7912aabbb629d0fb2d1c0cecf0923a1742feae7056dd1b9feb2c81b2c9aef73"
 metafile = true
@@ -2613,11 +2608,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "20e15c7019ce77fca1432a3f3d287aa04ae00760c25d5a48bd3f390b07e6d3c6"
-metafile = true
-
-[[files]]
-file = "mods/webdisplays.pw.toml"
-hash = "7f0719437fa714e17236c76f62ee2b08ad23782d06c52253c32a21bb6890d628"
 metafile = true
 
 [[files]]
