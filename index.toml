@@ -1753,7 +1753,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
+hash = "7b846273c5cbc4d0eb1f3d0eb4802b0e81e54dea84cf25666015ca50931fe307"
 metafile = true
 
 [[files]]
@@ -2074,6 +2074,11 @@ metafile = true
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "9704f0af5a2846ca8e701cef1430fe9b927a67c06de317b2cb5be6ef9bd995b1"
+metafile = true
+
+[[files]]
+file = "mods/mcef.pw.toml"
+hash = "e54c6dc1b57c90006e8240f45998953f28ae53769c4c2682b7f341f75f1a0b52"
 metafile = true
 
 [[files]]
@@ -2608,6 +2613,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "20e15c7019ce77fca1432a3f3d287aa04ae00760c25d5a48bd3f390b07e6d3c6"
+metafile = true
+
+[[files]]
+file = "mods/webdisplays.pw.toml"
+hash = "7f0719437fa714e17236c76f62ee2b08ad23782d06c52253c32a21bb6890d628"
 metafile = true
 
 [[files]]
