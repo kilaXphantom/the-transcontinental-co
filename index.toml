@@ -1753,7 +1753,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "7b846273c5cbc4d0eb1f3d0eb4802b0e81e54dea84cf25666015ca50931fe307"
+hash = "e57fdbd46e93be972ecdb79212804f32a8337eb830eaa0decd2b19496618deec"
 metafile = true
 
 [[files]]
