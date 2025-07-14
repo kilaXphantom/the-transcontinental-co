@@ -1001,6 +1001,10 @@ file = "config/waystones-common.toml"
 hash = "f682e353825fc32e5de22d716e26f8a2f59163f1fb56638eb87fe401b44433f2"
 
 [[files]]
+file = "config/webdisplays_common.toml"
+hash = "0e3f69f62cdad6ce2cc90d653a48c727e5db02c98603f1ad9407efb674e35c5a"
+
+[[files]]
 file = "config/xaerominimap-common.txt"
 hash = "3fdfaa4595d4e55c1e6b3a6ba74aec07ca2701ec767c34d5209a7bc08d0dbfbd"
 
@@ -1398,7 +1402,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "dbc78fc5c3fd980cfdccbc6a962819206d13f436997f406be72080e79f4ce0d3"
+hash = "0cca109c76c8f9fa63328a0066758f9508bdecf1e4571562d3460ce95f0b710b"
 metafile = true
 
 [[files]]
@@ -2244,7 +2248,7 @@ metafile = true
 
 [[files]]
 file = "mods/pizza-delight.pw.toml"
-hash = "64a785ee145337b30d8899f6142135970105ba7414e71ee79f24c293272cdae1"
+hash = "edb2551935e9ef385af4f9674dbd5f4c9bb66a73639206d99854e8e574762c42"
 metafile = true
 
 [[files]]
