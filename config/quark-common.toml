@@ -92,8 +92,8 @@
 		#Enable this to make custom emotes read the file every time they're triggered so you can edit on the fly.
 		#DO NOT ship enabled this in a modpack, please.
 		"Custom Emote Debug" = false
-		"Button Shift X" = -20
-		"Button Shift Y" = 4
+		"Button Shift X" = 0
+		"Button Shift Y" = 0
 
 	[tweaks.enhanced_ladders]
 		#Allowed values: (,0]
@@ -279,11 +279,11 @@
 	#This will have various knock-on effects but might make the Weald more common, or appear closer to modded biomes. Who knows?
 	"Terrablender Modify Vanilla Anyway" = false
 	#Set to false to disable the popup message telling you that you can config quark in the q menu
-	"Enable Onboarding" = true
+	"Enable Onboarding" = false
 	#The amount of slots the chest button system should seek when trying to figure out if a container should be eligible for them.
 	"Chest Button Slot Target" = 27
 	#Set this to false to not generate the Quark Programmer Art resource pack
-	"Generate Programmer Art" = true
+	"Generate Programmer Art" = false
 
 	[general.chest_button_offsets]
 		"Player X" = 0
@@ -588,6 +588,9 @@
 
 	[management.quick_armor_swapping]
 		"Swap Off Hand" = true
+
+	[management.hotbar_changer]
+		"Animation Time" = 7.0
 
 [tools]
 	Abacus = true

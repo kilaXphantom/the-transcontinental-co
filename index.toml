@@ -498,7 +498,7 @@ hash = "50a3c93582b4d9da777db6774d04135a035c043a0fd9f59860cb2879c673da01"
 
 [[files]]
 file = "config/jeg-common.toml"
-hash = "8967ba353914d04be18da8b0fc8d46394cf51850583027401837f2645ef59549"
+hash = "6304b3bdc60339e82d3a47ddb4c4e1ef41a6adaa393182ed6ca2e327a4b3dba5"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -766,7 +766,7 @@ hash = "480697ae74306cdcd17eed12a34795b7856f00d183d06ce69fd0fbf046c54c2e"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "38308ebcb3a0e28d0d1ae6205f358b8889e95441231e16d87d38d906d1c0b1fb"
+hash = "a128a09e858efa8ece93e6455de4e1dd664e483773b2109a5d0ff0d31c90ea35"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -2078,7 +2078,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcef.pw.toml"
-hash = "e54c6dc1b57c90006e8240f45998953f28ae53769c4c2682b7f341f75f1a0b52"
+hash = "f0c25701f9b62283cbfc508556eb85a3d1ebd8a03e4f6f32d94fe53c816d750e"
 metafile = true
 
 [[files]]
