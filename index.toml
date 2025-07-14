@@ -477,26 +477,6 @@ file = "config/inventorysorter-client.toml"
 hash = "92de49a9405703845f2da9cde2b77dfa75c0088217c0c7a94d4e9ea200cf0549"
 
 [[files]]
-file = "config/jade/hide-blocks.json"
-hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
-
-[[files]]
-file = "config/jade/hide-entities.json"
-hash = "38975f3f3c25a40c905172a9ccde5489946048173d6173967f37aadcf602455a"
-
-[[files]]
-file = "config/jade/jade.json"
-hash = "f31a7c29a7ff2b273d628822f0258d587bf6eed89513af8a5fc5d9c5816f28a9"
-
-[[files]]
-file = "config/jade/plugins.json"
-hash = "0d7315fdbf0c28ee457dacb871afd0f373d9ace82d74e69b9c6674a1d5e53012"
-
-[[files]]
-file = "config/jade/sort-order.json"
-hash = "50a3c93582b4d9da777db6774d04135a035c043a0fd9f59860cb2879c673da01"
-
-[[files]]
 file = "config/jeg-common.toml"
 hash = "6304b3bdc60339e82d3a47ddb4c4e1ef41a6adaa393182ed6ca2e327a4b3dba5"
 
@@ -710,7 +690,7 @@ hash = "577445c7a05a97731c56ff8cdd8e93434822369971f42fb4cd51fdca685d8f8d"
 
 [[files]]
 file = "config/paxi/resourcepacks/Connected Textures.zip"
-hash = "146c9b17282061f685f6f8c8b0fff0bfd68cef7a3b9d9733cde6d76f401e37fc"
+hash = "1504cb8a999a80916d93e624d279cada7eb16b652a7c465c21430dc46c10d352"
 
 [[files]]
 file = "config/physicsmod/physics_animations_client_config.json"
