@@ -1,13 +1,13 @@
 name = "[Let's Do] Farm & Charm"
-filename = "letsdo-farm_and_charm-fabric-1.0.9.jar"
+filename = "letsdo-farm_and_charm-forge-1.0.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HJetCzWo/versions/Edsce9xz/letsdo-farm_and_charm-fabric-1.0.9.jar"
+url = "https://cdn.modrinth.com/data/HJetCzWo/versions/b9XxWvG7/letsdo-farm_and_charm-forge-1.0.9.jar"
 hash-format = "sha512"
-hash = "ae0a7b6b8f2c410d2cf2ad6653932772bf1086a8a49394d2043ce7dcbcd85b243ee9347e53e71d864976b68b4ae2c1c2957337a25c2e6c2df94b008b0bb5b8c9"
+hash = "367e0be96a65d449086a3a87c1c96210d8bc3fb5af0b86390b953e4d1b08357d0533e6c37dcf63bdaf4f026e857230f7d27193f53cd845d2dd74ccc0a92bfca2"
 
 [update]
 [update.modrinth]
 mod-id = "HJetCzWo"
-version = "Edsce9xz"
+version = "b9XxWvG7"
