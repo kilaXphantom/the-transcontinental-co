@@ -1031,6 +1031,11 @@ hash = "416c089224a401ec7c0ef60ae6f1f8555e783f89ec6aba49d72f41c58d7955d2"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "57c0f350262f81f6768226f833a7bc3d6d9d6342c4e2c77a0f477043483c42b9"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "a70783e0935c2cf59e024b7f75c8da7526b35b19d83ccb29d92d569b14597acc"
 metafile = true
@@ -1316,11 +1321,6 @@ hash = "aab86d52c9896cfcf7c0635c3c897c3dd190de84e3be9eeb726a22c5a61602ed"
 metafile = true
 
 [[files]]
-file = "mods/corn-delight.pw.toml"
-hash = "60e22142593d512e3614ae5171e8a247d9bedbf18fe55750387f45f99993e5cc"
-metafile = true
-
-[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
@@ -1343,11 +1343,6 @@ metafile = true
 [[files]]
 file = "mods/cozy_home-3.0.4-forge-1.20.1.jar"
 hash = "590fffdd0125116e79b8d2e98b9f591df680bb4a52a3bfb4e0025a100bf8ad22"
-
-[[files]]
-file = "mods/crabbers-delight.pw.toml"
-hash = "e4783078375411368741c2c8d3dcebfc671cce1cc504a3418279327fce3c39f1"
-metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
@@ -1432,6 +1427,11 @@ metafile = true
 [[files]]
 file = "mods/create-eureka.pw.toml"
 hash = "43e70280929b07805be0c35e5cbf21961690a78647e73cf9fd1326ead4fe091f"
+metafile = true
+
+[[files]]
+file = "mods/create-food.pw.toml"
+hash = "d4409f56291fd6e87587e638ce6bd91fa922df7885812d5f0c7716d1eb07e457"
 metafile = true
 
 [[files]]
@@ -2001,6 +2001,21 @@ hash = "29e8b5ebc8295fbe6fd1bc2e7e036bf3ad21a905a7cc4d765053e3c56094943f"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-addon-compat.pw.toml"
+hash = "17cbbdedf5c769315483ccf4297b97db0e8239d3d12a7fe48ec259a454aac1e4"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-addon-corn-expansion.pw.toml"
+hash = "53348ba42aabb5d27e9218c9fc3cafc5f7826137f7f1851d200cd242f80ac44d"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "e06e00a944236b62565a772c254ef3f00dc72d069ae8c3787950d8617e2e620e"
+metafile = true
+
+[[files]]
 file = "mods/lexiconfig.pw.toml"
 hash = "e72b77792a8d646cb9ff26043d590041d3d8ed9aaedd0b097d5879c90525d70f"
 metafile = true
@@ -2116,11 +2131,6 @@ hash = "101c34781cd238ccf1c524b64c870ce1a8611f71df46680c820918c719e868e1"
 metafile = true
 
 [[files]]
-file = "mods/more-delight.pw.toml"
-hash = "099b3574b2671fcd09245a96625a72987a85ba88c9b74f20f02084b3f8aaab93"
-metafile = true
-
-[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "cb0c6726a5e0705d78adf86ea1cd0ce22e08c928d2842e1937bbeec387b19fd8"
 metafile = true
@@ -2233,11 +2243,6 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "1bc510c2003bae5616d20b25637b08dd1f3038924e1ed5accf72cd1e5c82790d"
-metafile = true
-
-[[files]]
-file = "mods/pizza-delight.pw.toml"
-hash = "edb2551935e9ef385af4f9674dbd5f4c9bb66a73639206d99854e8e574762c42"
 metafile = true
 
 [[files]]
