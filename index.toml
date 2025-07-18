@@ -482,7 +482,7 @@ hash = "92de49a9405703845f2da9cde2b77dfa75c0088217c0c7a94d4e9ea200cf0549"
 
 [[files]]
 file = "config/jeg-common.toml"
-hash = "6304b3bdc60339e82d3a47ddb4c4e1ef41a6adaa393182ed6ca2e327a4b3dba5"
+hash = "867cd1670ac9d22ac05ba7b85551f38f68b7b9e72ecb7bc27eec64fdc37fa1b5"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -2213,6 +2213,11 @@ metafile = true
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "fb05d7ec98426510ee309380a6f804f5670fe45657cdfe6b2b83ee1fa375f7e7"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "dd588bc24a7018bb059bbddb01b931a00252c297d565fbbb7a302a7e62d07580"
 metafile = true
 
 [[files]]

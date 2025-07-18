@@ -100,18 +100,18 @@
 	#Faction and Gun Configuration
 	[common.gunner_config]
 		#If enabled, mobs inside the Factions config will have a chance to spawn with guns.
-		gunnerMobSpawning = true
+		gunnerMobSpawning = false
 		#If enabled, Raids will have a chance to spawn explosive mobs/mobs with explosive charges.
 		explosiveMobs = false
 		#If enabled, mobs with guns will have a chance to drop ammo for the gun they are using.
 		dropAmmo = true
 		#If enabled, mobs will have a chance to spawn as Elites.
-		eliteSpawning = true
+		eliteSpawning = false
 		#The chance for Elite Gunners to spawn, 1.0 is always, 0.0 is never.
 		#Range: 0.1 ~ 1.0
 		eliteChance = 0.3
 		#If enabled, Elite Gunners have a chance to spawn riding Horses.
-		horsemen = true
+		horsemen = false
 		#The in-game day where mobs will start spawning, and the spawn chance will increase every day after. 0 is the world-creation day.
 		#Range: 0 ~ 100
 		minimunDays = 4
@@ -123,7 +123,7 @@
 		chanceIncrement = 1
 		#This will define the max chance of mobs spawning with guns.
 		#Range: 1 ~ 100
-		maxChance = 50
+		maxChance = 20
 		#If enabled, defeating the Terror Phantom will enable the Phantom Swarm.
 		phantomSwarm = true
 		#If enabled, Factions inside the config will have the same chance to spawn like Pillager Patrols.
