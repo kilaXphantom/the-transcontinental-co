@@ -2530,6 +2530,11 @@ hash = "40070ccdbae58ee140f3c41b94abb61e88d2496348b00f0b601abab70f0c111a"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
+metafile = true
+
+[[files]]
 file = "mods/this-rocks-forge.pw.toml"
 hash = "21142282c48c31d1a078219823a465dcd6d7e746f9fbc41d158d6df87b8f4513"
 metafile = true
