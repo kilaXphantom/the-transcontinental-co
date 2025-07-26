@@ -681,10 +681,6 @@ file = "config/particle_core_disabled_optimizations.json"
 hash = "75fc5b71df6c207879fdf6c1ba2f2c63fb770295bea1055d3d505e775be33c88"
 
 [[files]]
-file = "config/paxi/datapacks/JEG-Create-Datapack.zip"
-hash = "7bf26d49a0b7e9c53d76f0e668a29b82a16c3780e0e1b44fb86fa2a132c95cf4"
-
-[[files]]
 file = "config/paxi/resourcepacks/Compatible Resources.zip"
 hash = "577445c7a05a97731c56ff8cdd8e93434822369971f42fb4cd51fdca685d8f8d"
 
@@ -2578,11 +2574,6 @@ metafile = true
 [[files]]
 file = "mods/u-team-core.pw.toml"
 hash = "f4986d0889116fdd4bee45c98acf051fe649252eb415746324a8955d5fa0d827"
-metafile = true
-
-[[files]]
-file = "mods/underlay.pw.toml"
-hash = "546d5d434f729d8046bc99aef89604370e0dafc10aca2d20763fbf123408f6d3"
 metafile = true
 
 [[files]]
