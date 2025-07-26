@@ -673,13 +673,10 @@ file = "config/particle_core_disabled_optimizations.json"
 hash = "75fc5b71df6c207879fdf6c1ba2f2c63fb770295bea1055d3d505e775be33c88"
 
 [[files]]
-<<<<<<< HEAD
 file = "config/paxi/datapacks/BetterVillages_Bountiful_1.20.1.zip"
 hash = "12aef84659512e7a79cd117824b8503df24822485e1fb70d0b48815fc33e8e3e"
 
 [[files]]
-=======
->>>>>>> a7fd7a1 (Removed underlay and JEG-Create Datapack)
 file = "config/paxi/resourcepacks/Compatible Resources.zip"
 hash = "577445c7a05a97731c56ff8cdd8e93434822369971f42fb4cd51fdca685d8f8d"
 
