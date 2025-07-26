@@ -1988,6 +1988,11 @@ hash = "7b567558373c1d21c5691c2a531712b04c2f3492c937bacac480838e1270b3bb"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-furniture.pw.toml"
+hash = "a8aace9988ad0726659d4eea06edf4fb350b7b1db5ffa9ab38770b06e570b7b0"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-herbalbrews.pw.toml"
 hash = "b720172434e663a1e7d87e0b3b14c0fcbd0032bb14b4ed1885f5c4b32614994f"
 metafile = true
@@ -2000,6 +2005,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "4fa73cba58c9bc38dcd72b394a934bae450c30d6f1af171744e84faeea90d4f3"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-wildernature.pw.toml"
+hash = "0e6605ed6c151c81db595f88a18514788d83fb99802d6802d0f292484cb33997"
 metafile = true
 
 [[files]]
