@@ -201,10 +201,6 @@ file = "config/copycats-common.toml"
 hash = "de15d8894463fbb864fb7e6ebc234f688596e19f9d3d81a850432705e26f7555"
 
 [[files]]
-file = "config/corn_delight-common.toml"
-hash = "87db23796b3f8e7cdf3e0a620c033f28cc15e86166f6e1b793b4b7a0a92f45f9"
-
-[[files]]
 file = "config/crackerslib-client.toml"
 hash = "58836a63ee557974d5cde292d06830ecf5a39f01c02dd97b55d05a53211cb415"
 
@@ -291,10 +287,6 @@ hash = "dff98c523e6a7b84bbf150708dfa4ca796f1a8d81352b463e8ea6201a7dec3ef"
 [[files]]
 file = "config/defaultoptions/servers.dat"
 hash = "40289db4d65b2daa00a359cbc8c9f7f15a5eefd6af06435b90cc609ff096ead2"
-
-[[files]]
-file = "config/delightful-common.toml"
-hash = "c6099285ffbadbf56632473bf428a1e2238431a55727fc5a3a8d2accd5c03b4b"
 
 [[files]]
 file = "config/disccord-client.toml"
@@ -417,16 +409,12 @@ file = "config/fancymenu/user_variables.db"
 hash = "052d7521a27418f3ae5755a9b7acf99a50a8e32359e1ad12cfa91f0a46ba5563"
 
 [[files]]
-file = "config/farmersdelight-client.toml"
-hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
-
-[[files]]
-file = "config/farmersdelight-common.toml"
-hash = "23dac8e8964b311ec6361b30dfb33db572a4bf13657c545bb1b618ffe7f896f1"
-
-[[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6"
+
+[[files]]
+file = "config/figura.json"
+hash = "9c47a439af16b5516822327d283e412d63403365925fb848081498bdf92d9fff"
 
 [[files]]
 file = "config/flywheel-client.toml"
@@ -821,14 +809,6 @@ file = "config/structurize-client.toml"
 hash = "af7fdd42d022329ba59c2902a7459a0b581d2e76f128126bb3cdc0447db646f5"
 
 [[files]]
-file = "config/tacz-client.toml"
-hash = "c76662fd674d6bd5657ef48ddd3a30f06677236daef85a6781fd604c6c33f6ce"
-
-[[files]]
-file = "config/tacz-common.toml"
-hash = "cd427fb99ddf6148513c6a6070eae9bae75f43966327941a7f639802c22e60a1"
-
-[[files]]
 file = "config/tectonic.json"
 hash = "ea44be71712cbad585fe349268e7f5dfb3aa123ef189acc74437547ef20fa5c6"
 
@@ -1088,11 +1068,6 @@ hash = "4127d964b5bc688b7a80ba254c1b9af6bdb2968a95824e52e0f9f4e361a8b47d"
 metafile = true
 
 [[files]]
-file = "mods/autochefs-delight.pw.toml"
-hash = "bd4ea05a561f0c2d71cc1d7f650e058fb95330fdf2e0166d365179e97db86fef"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "ae089d54ed8c41631781cf963587c3e9abeb3e8fec9e5fbe2556e634625e48e2"
 metafile = true
@@ -1174,7 +1149,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
+hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
 metafile = true
 
 [[files]]
@@ -1347,11 +1322,6 @@ hash = "38f768b012377ef081c46f4c3659361f56793ec2e0a1bd9958f99c8e70d72d13"
 metafile = true
 
 [[files]]
-file = "mods/crate-delight.pw.toml"
-hash = "38e568025ffa43791aa33853dfeaa65f50c97f44743924213803aca0dc41a13e"
-metafile = true
-
-[[files]]
 file = "mods/create-additional-recipes.pw.toml"
 hash = "ee71267e855aad0b2cc34816318a2757488c75adc7a79ba57556834cd051e46d"
 metafile = true
@@ -1369,11 +1339,6 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "aec0132cc4855c9f2d66a43bbcdc65429c2147c61b8c22760d41289b342720d8"
-metafile = true
-
-[[files]]
-file = "mods/create-central-kitchen.pw.toml"
-hash = "0cca109c76c8f9fa63328a0066758f9508bdecf1e4571562d3460ce95f0b710b"
 metafile = true
 
 [[files]]
@@ -1419,11 +1384,6 @@ metafile = true
 [[files]]
 file = "mods/create-eureka.pw.toml"
 hash = "43e70280929b07805be0c35e5cbf21961690a78647e73cf9fd1326ead4fe091f"
-metafile = true
-
-[[files]]
-file = "mods/create-food.pw.toml"
-hash = "d4409f56291fd6e87587e638ce6bd91fa922df7885812d5f0c7716d1eb07e457"
 metafile = true
 
 [[files]]
@@ -1728,11 +1688,6 @@ hash = "ddb7d5ac22aca98092701e6ac7ca04cd3a31cb43bb2ec3c5528a41c6092c0fe0"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight.pw.toml"
-hash = "9a0ad748fc5db8eada0834d48c5101e3b76700031fd304d88176dfaabfeefa20"
-metafile = true
-
-[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "06580e84bd3c27a84c743ebe0c45e3bd7ce6e1b6377e39f15774634a7663130b"
 metafile = true
@@ -1998,8 +1953,53 @@ hash = "53348ba42aabb5d27e9218c9fc3cafc5f7826137f7f1851d200cd242f80ac44d"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-addon-fluids.pw.toml"
+hash = "54799c0a11d30e3589f9ca7001f2b4fae04ded806928e07e62902c9af10421de"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery-farm-charm-compat.pw.toml"
+hash = "370ddbbd4c4273b3554012167290dd74af25671240cd5d983538968e1e85ae40"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-beachparty.pw.toml"
+hash = "7b86bc87a5e136ec68a12e6e9d8a32cf3ce113d1c8f32e73f29f4133d3ad8217"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-brewery-farm-charm-compat.pw.toml"
+hash = "bf481905c6c7c3c8c79e98af9b18057d78e6077575eb3d525c45a03b0090b2a7"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight-farm-charm-compat.pw.toml"
+hash = "9349073c4596503f5daee56a77f324b932a29e75972142d29d5d7d8c4ec39d63"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-emi-compat.pw.toml"
+hash = "a2f01c76611c903130abad81949316fa6f54a9354b8607298e57b034eb1e7b84"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-farm-charm.pw.toml"
-hash = "eedc90c3b93d57bd04f6e6b38d9817227f7e502db5327bb0155fb91f64ee8302"
+hash = "7b567558373c1d21c5691c2a531712b04c2f3492c937bacac480838e1270b3bb"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+hash = "b720172434e663a1e7d87e0b3b14c0fcbd0032bb14b4ed1885f5c4b32614994f"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "901dc04b960669a18e321a730891c0334efc0a6b0470593b671ce3874eaf8d1f"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "4fa73cba58c9bc38dcd72b394a934bae450c30d6f1af171744e84faeea90d4f3"
 metafile = true
 
 [[files]]
@@ -2180,11 +2180,6 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "ad423721eb829f70f26c9b6fe94e393bf53f4c79f8ccae6e7d1cb1f07be042c4"
-metafile = true
-
-[[files]]
-file = "mods/oceans-delight.pw.toml"
-hash = "7f5a7cc6134e81f6f9411e353d5f92bee50fba2edfbc738b1fb3732a54cf51ba"
 metafile = true
 
 [[files]]
@@ -2390,11 +2385,6 @@ metafile = true
 [[files]]
 file = "mods/skinlayers3d-forge-1.7.0-mc1.20.1.jar"
 hash = "361c6c433fff6aae6f5f4a84ef77ca6c76b2586a66cbccb18dd94c89c447d62e"
-
-[[files]]
-file = "mods/slice-and-dice.pw.toml"
-hash = "dda6611c8d708c0a6733902bfba299024ea33d4c42953733b3377df2e98853a8"
-metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
