@@ -469,10 +469,6 @@ file = "config/gamepad_profiles/gamepad_profile_0"
 hash = "36117c98146b3cf79799504372797d0513fe034e563d648fb8291fb879b6b03e"
 
 [[files]]
-file = "config/holdmyitems-client.toml"
-hash = "32f555bd99d654e9a78aae253f74e5165d8d109232cfc5d9f3d0837309cc213d"
-
-[[files]]
 file = "config/immediatelyfast.json"
 hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
 
