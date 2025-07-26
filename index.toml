@@ -121,6 +121,10 @@ file = "config/biomesoplenty/generation.toml"
 hash = "9de600b6c85029f74a7549a6f7074065ac55310666c54bebd4c3bf573b0379d7"
 
 [[files]]
+file = "config/bountiful/bountiful.json"
+hash = "f09dfbef94dd8f4b69fb2c8b5029fa3c9c2febcd9b8be7ec0dd1ecf208c5d175"
+
+[[files]]
 file = "config/brute_force_rendering_culling-client.toml"
 hash = "f58a040807e90f0a88465923d399890658667d628850094a415bed6f30941b17"
 
@@ -667,6 +671,10 @@ hash = "f589da11739872700684ad26e8c588859c312cdf8c9df9832a290a307dc7b2e4"
 [[files]]
 file = "config/particle_core_disabled_optimizations.json"
 hash = "75fc5b71df6c207879fdf6c1ba2f2c63fb770295bea1055d3d505e775be33c88"
+
+[[files]]
+file = "config/paxi/datapacks/BetterVillages_Bountiful_1.20.1.zip"
+hash = "12aef84659512e7a79cd117824b8503df24822485e1fb70d0b48815fc33e8e3e"
 
 [[files]]
 file = "config/paxi/resourcepacks/Compatible Resources.zip"
@@ -1929,7 +1937,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
@@ -2005,11 +2013,6 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "4fa73cba58c9bc38dcd72b394a934bae450c30d6f1af171744e84faeea90d4f3"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-wildernature.pw.toml"
-hash = "0e6605ed6c151c81db595f88a18514788d83fb99802d6802d0f292484cb33997"
 metafile = true
 
 [[files]]
