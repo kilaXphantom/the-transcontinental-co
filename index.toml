@@ -469,6 +469,10 @@ file = "config/gamepad_profiles/gamepad_profile_0"
 hash = "36117c98146b3cf79799504372797d0513fe034e563d648fb8291fb879b6b03e"
 
 [[files]]
+file = "config/holdmyitems-client.toml"
+hash = "32f555bd99d654e9a78aae253f74e5165d8d109232cfc5d9f3d0837309cc213d"
+
+[[files]]
 file = "config/immediatelyfast.json"
 hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
 
@@ -1882,7 +1886,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
+hash = "3e1eb9740fada46d463ae8f5e1f2cf24d5a85532356f7d5173a7c23a0dd8fb53"
 metafile = true
 
 [[files]]
@@ -2256,6 +2260,11 @@ hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
+
+[[files]]
 file = "mods/polylib.pw.toml"
 hash = "947d5f3b9213360b68e9b65a8d2d5111939e82e248cf61eb02137f119c6eaeb6"
 metafile = true
@@ -2502,6 +2511,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "1a7d83ff96739b35bfb9035ff23db0a95d30bceb1a018b078a2df96fcf09ab59"
+metafile = true
+
+[[files]]
+file = "mods/swem.pw.toml"
+hash = "a37b13949c3bc3fdc23d73ecc5e2490f359d0efa529f9e7f7327e5f02a6cc4b6"
 metafile = true
 
 [[files]]
