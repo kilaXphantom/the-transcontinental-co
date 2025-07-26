@@ -6,7 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "5d7ca42a8ba6cec78bc1d6be86930229039c5d026c827135be7bdc33d9a79559"
+=======
+hash = "b01026d29adce92b54061fc9f1d24e036733461930e943e61c2763189eb1997d"
+>>>>>>> a7fd7a1 (Removed underlay and JEG-Create Datapack)
 
 [versions]
 forge = "47.2.0"
