@@ -1976,13 +1976,13 @@ hash = "7b86bc87a5e136ec68a12e6e9d8a32cf3ce113d1c8f32e73f29f4133d3ad8217"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-brewery-farm-charm-compat.pw.toml"
-hash = "bf481905c6c7c3c8c79e98af9b18057d78e6077575eb3d525c45a03b0090b2a7"
+file = "mods/lets-do-brewery-farmcharm-compat.pw.toml"
+hash = "b0fccdb76adbaaf58159f37a287cf8da1302069e04efb644f1f9839eec9f4a99"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-candlelight-farm-charm-compat.pw.toml"
-hash = "9349073c4596503f5daee56a77f324b932a29e75972142d29d5d7d8c4ec39d63"
+file = "mods/lets-do-candlelight-farmcharm-compat.pw.toml"
+hash = "5b7c87c9d2c3dd65f4b6c8c0667e3f93df1db7fc56e657101bd6ff618cfa8928"
 metafile = true
 
 [[files]]
@@ -1992,7 +1992,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-farm-charm.pw.toml"
-hash = "7b567558373c1d21c5691c2a531712b04c2f3492c937bacac480838e1270b3bb"
+hash = "eedc90c3b93d57bd04f6e6b38d9817227f7e502db5327bb0155fb91f64ee8302"
 metafile = true
 
 [[files]]
