@@ -361,8 +361,48 @@ file = "config/fallingleaves-client.toml"
 hash = "2cd017af6632239398b694fadf8191d6073cf39585549876cc682843f521ecb3"
 
 [[files]]
+file = "config/fancymenu/assets/accessibility.png"
+hash = "463d3bde5dd9bb48e7bed5eec48ec75b9938cb7678ce5338cf41005cb80bacb7"
+
+[[files]]
 file = "config/fancymenu/assets/arrow.png"
 hash = "7b4edb20d16a37bf29c925359f9f019b5a077f14e082d6221dfb9adca36f965e"
+
+[[files]]
+file = "config/fancymenu/assets/audio/interlude.ogg"
+hash = "cf9522282f1aa63f0daa415402d02896f7a6f4d1fc40188a50f9570cc573b994"
+
+[[files]]
+file = "config/fancymenu/assets/bi-bee_3.gif"
+hash = "d13d0670871d558b194916cc2eb4b806026a3a2cea21308cee5d177384a4c7c2"
+
+[[files]]
+file = "config/fancymenu/assets/crafting-table.png"
+hash = "5d6e5efa45bc3c83a6bbff01d566e4591bd7de60ace792646d4a63d26f9554b9"
+
+[[files]]
+file = "config/fancymenu/assets/curios-button.png"
+hash = "8897488e0f29784c33fc22d62c19ff5671db9422b74f3459b1347350f33b8376"
+
+[[files]]
+file = "config/fancymenu/assets/curios-inventory.png"
+hash = "4fc7585054d3ac211a2d1f43ca86dd11ca5614587c3e4f10508a25caf8eb46d3"
+
+[[files]]
+file = "config/fancymenu/assets/discord.png"
+hash = "e13330ce98cc8e820799672759ea93d851ed31f28cd1ce89383e75eaa6349a9c"
+
+[[files]]
+file = "config/fancymenu/assets/language.png"
+hash = "047eec92adfd297d59915647134d9c25534299083c13fa0250fdae0fd7fb3d4d"
+
+[[files]]
+file = "config/fancymenu/assets/mods-button.png"
+hash = "c0b814f7512e7bb4abcb8834b25c967229f825ccec52064d590954688e4d2938"
+
+[[files]]
+file = "config/fancymenu/assets/nautilus.png"
+hash = "78a2d0ff15d4def718d3d63441d640f69f25d377a6def5a0283d9ec28bc26a38"
 
 [[files]]
 file = "config/fancymenu/assets/off.png"
@@ -373,24 +413,44 @@ file = "config/fancymenu/assets/on.png"
 hash = "7cf841118d2e1ed5831dfa23684c6ccf9127c4ebf5f0a011472dbb63f1df865a"
 
 [[files]]
+file = "config/fancymenu/assets/planks.png"
+hash = "c1aa94012a0c5961d5e6ba1f527f653ecd9c9d611c1c01880316516b253063da"
+
+[[files]]
+file = "config/fancymenu/assets/transparent.png"
+hash = "a4aa217e56eee27c7a9031177393dda33652aaa0ccc35e5b9a96b6e792c287f9"
+
+[[files]]
+file = "config/fancymenu/audio_element_controller_metas.json"
+hash = "3a5132f11d16aa523ee0c72c7eb2531dd2b17860406e21feec85ed5267e9accd"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+hash = "f42ba8a65fd4c1af398e2dd6e240d75190f51a28aed8ee559589079321ea47d1"
+
+[[files]]
+file = "config/fancymenu/customization/options_screen_layout.txt"
+hash = "8050606725b546a6fb6b5ccd3e9b4f164429a55effee0e974a134fd97e3c8d98"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_default.txt"
-hash = "32a441e7a7e540e46f0fdbf529dd3695f9eff6eb449b40548cf239e76a41495c"
+hash = "4cbc210d5dc1aa7cde3e4ed934e12c98ed74f40bce6312251649df28e239bf6f"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "3ab2e12a07066a1e21f0cffd5e4f2508eac10c57099f0bda430c5337af95c5e3"
+hash = "a0829e6e4cf001a692e95e72519c33b4d417c4178c93f50858aa5b7f39f8445a"
+
+[[files]]
+file = "config/fancymenu/customization/universal_layout.txt"
+hash = "d76bfcbad5e452e3f797bb6d9800cb2fef04cf767ad939238c1141f85bf0dbda"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "5cb4ec15ef8671a637e6ce8f5f31473efd0656cb1aea236671c2ede6aeae39e1"
+hash = "30880401259613e9bdb538ab27710d7950c8aece20523345d5cf28695762312c"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -398,7 +458,35 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "0fbdba5493e9a80c44a1a3ce37b596379dbe0d37cf9c9c2c8e279038078f06f7"
+hash = "e425246f4ce990b410b7304ba4d4327bd9a1f255480a1dfb37e723d05d381632"
+
+[[files]]
+file = "config/fancymenu/panoramas/buzzy_bees/panorama/panorama_0.png"
+hash = "cc47b0443e8a7b69f6d488bf1219fd264e7388c06ec87fb0d259acc4070599b5"
+
+[[files]]
+file = "config/fancymenu/panoramas/buzzy_bees/panorama/panorama_1.png"
+hash = "fd12546e18b04407531bb4ebcf4a942abfdf607dd34a7b3b34a5137ddf5ef263"
+
+[[files]]
+file = "config/fancymenu/panoramas/buzzy_bees/panorama/panorama_2.png"
+hash = "2d4061ec2d6bf86b581176c87c30f720b7064b569718b01e32b5d5071562b20b"
+
+[[files]]
+file = "config/fancymenu/panoramas/buzzy_bees/panorama/panorama_3.png"
+hash = "e72fc9d69c40e8e8b1a30eb94503982fbb83998142441f3e42122726056dded8"
+
+[[files]]
+file = "config/fancymenu/panoramas/buzzy_bees/panorama/panorama_4.png"
+hash = "a8786b36bfb52e4fb02cf06957db0ffe3a12aa21c060e6eb0705e3704d393ce0"
+
+[[files]]
+file = "config/fancymenu/panoramas/buzzy_bees/panorama/panorama_5.png"
+hash = "8b0a9a612a2b3c867e293253542fa85d31ce24e228cb1ae32b85c63ffb4d9565"
+
+[[files]]
+file = "config/fancymenu/panoramas/buzzy_bees/properties.txt"
+hash = "fc7ab9ac6103c493468da85a617a8e69d72ee08b4d0d3e9eaad2f0aaef33db36"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -1741,6 +1829,11 @@ hash = "e60a8e1a8559394229fbd54e3e386709f10d3a693f0d470b3708da08736efaae"
 metafile = true
 
 [[files]]
+file = "mods/flerovium.pw.toml"
+hash = "094fba47fe247270afb2fe62d999eb9624a34c6c66f7e6d86c39583d89d8624b"
+metafile = true
+
+[[files]]
 file = "mods/flib.pw.toml"
 hash = "3e8ccc74f161b632cf8eadda6548860bfa58e4970cec1630135b83900e31b98d"
 metafile = true
@@ -2202,7 +2295,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+hash = "2f8d1c3e8ff75a265ba6703a488c6fa7edc69cd9a01418ed1a6884e57a3e3ade"
 metafile = true
 
 [[files]]
