@@ -438,11 +438,11 @@ hash = "8050606725b546a6fb6b5ccd3e9b4f164429a55effee0e974a134fd97e3c8d98"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_default.txt"
-hash = "4cbc210d5dc1aa7cde3e4ed934e12c98ed74f40bce6312251649df28e239bf6f"
+hash = "17a30711d539f24ae5a9227eec3b48bad33be9667fe4f74c1da90a3b3b7bbcc5"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "a0829e6e4cf001a692e95e72519c33b4d417c4178c93f50858aa5b7f39f8445a"
+hash = "691b58aa06486ece8c13044b9b09098c74146f8f57306dcce41b588b38ae11ff"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -458,7 +458,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "e425246f4ce990b410b7304ba4d4327bd9a1f255480a1dfb37e723d05d381632"
+hash = "fe235917d2dd8fe4313c9f04ce2e67cff1b662e54c9a1ba69c1bf005b1ff7552"
 
 [[files]]
 file = "config/fancymenu/panoramas/buzzy_bees/panorama/panorama_0.png"
