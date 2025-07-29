@@ -8,6 +8,14 @@
 			hide_requirements: false
 		},
 		{
+			title_id: "pet",
+			conditions: [
+				"ItemUsed/minecraft:command_block/greater_or_equal/1"
+			],
+			default: false,
+			hide_requirements: true
+		},
+		{
 			title_id: "fighter",
 			conditions: [
 				"aptitude/Strength/greater_or_equal/16"

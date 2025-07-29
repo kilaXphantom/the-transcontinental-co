@@ -26,7 +26,7 @@ hash = "56191d7b9154906a41d8ad1da85a3e786dce4d482f5a6ea02c4275ce35a7fcc3"
 
 [[files]]
 file = "config/JLFork/justleveling-fork.titles.json5"
-hash = "cf6864ba263beff236cdd19afa0f95f7eeb2e673e6f39bac2f6491704dfbb30e"
+hash = "4c0e0991ea67809da731d0fb04a13f6dde6194b8af23546b3a92a81c4c086bcf"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -2019,8 +2019,12 @@ hash = "d6dc6f842d14bac8fe3f222a0ea9c7b60dacce1cae484cbe7ac36f16614a24ae"
 metafile = true
 
 [[files]]
-file = "mods/justleveling-fork.pw.toml"
-hash = "f18ab3fda2c4ff7a47869d3d030f7d8b097a9db7c50404398cf49784bdaf4c52"
+file = "mods/justlevelingfork-1.2.1b.jar"
+hash = "2032d6690f702f193fc7bc454147f285e420ff5d19b120466a79133b4bb72665"
+
+[[files]]
+file = "mods/justlevelingfork.pw.toml"
+hash = "566be6e56c23f140ed1724deef473eb18c790c35755b5b2090f8f618fcfe2ce7"
 metafile = true
 
 [[files]]
