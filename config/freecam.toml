@@ -25,7 +25,7 @@
 	#Whether you can see your hand in freecam.
 	"Show Hand" = false
 	#Increases brightness while in freecam.
-	"Full Brightness" = false
+	"Full Brightness" = true
 	#Whether you see a fog overlay underwater, in lava, or powdered snow.
 	"Show Submersion Fog" = false
 	#Disables freecam when damage is received.

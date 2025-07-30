@@ -534,7 +534,7 @@ hash = "3df7937868159c8c2570d09c9ef9e0a1127dfbab70c3404c8fd069c7390d39ff"
 
 [[files]]
 file = "config/freecam.toml"
-hash = "a8981ae19ab91c477661d787bf70649896b5837d687f6e790cd2a475f8e29741"
+hash = "d96aacec1fad9ebf4b6397eb35a8b103227259bbf8a2e1a719f62c20fbb9796f"
 
 [[files]]
 file = "config/gamemenumodoption-client.toml"
@@ -843,6 +843,10 @@ hash = "d5e9999392e13549752157c6cb574c761cd323414d8eda96b31bfc6c42f98d25"
 [[files]]
 file = "config/rightclickharvest.toml"
 hash = "a389d00dc4bc940f26df27187b088a7d62096f2d63f21db3023561d2b302a3d9"
+
+[[files]]
+file = "config/sdrp-common.json"
+hash = "096101eb445789f18f8aba876e3a9877fda3ae561ca2753cf8246a8e4bd4a1a8"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -2485,6 +2489,11 @@ metafile = true
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "3636928a6068d4a3884fdfcfcd3a37f823fd1e9f4edccd2ee0be16a1cbf8872a"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rich-presence.pw.toml"
+hash = "1107c941dcd4b1678ad79b8a29648457343e6aac9e373c8f5af99935140e6066"
 metafile = true
 
 [[files]]
