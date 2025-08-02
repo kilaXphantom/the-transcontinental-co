@@ -1101,10 +1101,6 @@ file = "kubejs/server_scripts/mia_CustomRecipes.js"
 hash = "eda6b0d01fc1be0427628277af6b1a3166363fc606f5d45cfb266f936039e32a"
 
 [[files]]
-file = "kubejs/startup_scripts/example.js"
-hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
-
-[[files]]
 file = "mods/RealisticExplosionPhysics-1.20.1-1.0.0.jar"
 hash = "536353bff1009048ea58ad8fe9af6ff3756a74d36f0bb62fb308478def00aca1"
 
@@ -2758,7 +2754,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8415f043e1b75f3ef11c990896598389343f87be9d133edd866e466c626fb31e"
+hash = "eaf0f4097fe73a8167df409b290d06fbb547155c2291eaea68dec885e5025735"
 metafile = true
 
 [[files]]
