@@ -2,7 +2,7 @@
 	// Titles list
 	titleList: [
 		{
-			title_id: "rookie",
+			title_id: "trainee",
 			conditions: [],
 			default: true,
 			hide_requirements: false
@@ -16,308 +16,60 @@
 			hide_requirements: true
 		},
 		{
-			title_id: "fighter",
+			title_id: "builder",
 			conditions: [
-				"aptitude/Strength/greater_or_equal/16"
+				"ItemUsed/minecraft:debug_stick/greater_or_equal/1"
 			],
 			default: false,
 			hide_requirements: false
 		},
 		{
-			title_id: "fighter_great",
+			title_id: "lawnmower",
 			conditions: [
-				"aptitude/Strength/greater_or_equal/32"
+				"BlockMined/minecraft:grass_block/greater_or_equal/256"
 			],
 			default: false,
 			hide_requirements: false
 		},
 		{
-			title_id: "warrior",
+			title_id: "pothead",
 			conditions: [
-				"aptitude/Constitution/greater_or_equal/16"
+				"ItemCrafted/minecraft:flower_pot/greater_or_equal/64"
 			],
 			default: false,
 			hide_requirements: false
 		},
 		{
-			title_id: "warrior_great",
+			title_id: "vampire",
 			conditions: [
-				"aptitude/Constitution/greater_or_equal/32"
+				"ItemPickedUp/twilightforest:fiery_blood/greater_or_equal/1"
 			],
 			default: false,
 			hide_requirements: false
-		},
+		}, 
 		{
-			title_id: "ranger",
+			title_id: "warden",
 			conditions: [
-				"aptitude/Dexterity/greater_or_equal/16"
+				"EntityKilled/minecraft:warden/greater_or_equal/1"
 			],
 			default: false,
 			hide_requirements: false
-		},
+		}, 
 		{
-			title_id: "ranger_great",
+			title_id: "in_heat",
 			conditions: [
-				"aptitude/Dexterity/greater_or_equal/32"
+				"EntityKilled/minecraft:blaze/greater_or_equal/10"
 			],
 			default: false,
 			hide_requirements: false
-		},
+		}, 
 		{
-			title_id: "tank",
+			title_id: "lilac",
 			conditions: [
-				"aptitude/Defense/greater_or_equal/16"
+				"BlockMined/minecraft:lilac/greater_or_equal/30"
 			],
 			default: false,
 			hide_requirements: false
-		},
-		{
-			title_id: "tank_great",
-			conditions: [
-				"aptitude/Defense/greater_or_equal/32"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "alchemist",
-			conditions: [
-				"aptitude/Intelligence/greater_or_equal/16"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "alchemist_great",
-			conditions: [
-				"aptitude/Intelligence/greater_or_equal/32"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "miner",
-			conditions: [
-				"aptitude/Building/greater_or_equal/16"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "miner_great",
-			conditions: [
-				"aptitude/Building/greater_or_equal/32"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "magician",
-			conditions: [
-				"aptitude/Magic/greater_or_equal/16"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "magician_great",
-			conditions: [
-				"aptitude/Magic/greater_or_equal/32"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "lucky_one",
-			conditions: [
-				"aptitude/Luck/greater_or_equal/16"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "lucky_one_great",
-			conditions: [
-				"aptitude/Luck/greater_or_equal/32"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "dragon_slayer",
-			conditions: [
-				"EntityKilled/ender_dragon/greater_or_equal/10"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "player_killer",
-			conditions: [
-				"EntityKilled/player/greater_or_equal/100"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "mob_killer",
-			conditions: [
-				"stat/mob_kills/greater_or_equal/100"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "mob_killer_great",
-			conditions: [
-				"stat/mob_kills/greater_or_equal/1000"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "mob_killer_master",
-			conditions: [
-				"stat/mob_kills/greater_or_equal/10000"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "hero",
-			conditions: [
-				"stat/raid_win/greater_or_equal/100"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "villain",
-			conditions: [
-				"EntityKilled/villager/greater_or_equal/100"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "fisherman",
-			conditions: [
-				"stat/fish_caught/greater_or_equal/100"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "fisherman_great",
-			conditions: [
-				"stat/fish_caught/greater_or_equal/1000"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "fisherman_master",
-			conditions: [
-				"stat/fish_caught/greater_or_equal/10000"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "enchanter",
-			conditions: [
-				"stat/enchant_item/greater_or_equal/10"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "enchanter_great",
-			conditions: [
-				"stat/enchant_item/greater_or_equal/100"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "enchanter_master",
-			conditions: [
-				"stat/enchant_item/greater_or_equal/1000"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "survivor",
-			conditions: [
-				"stat/time_since_death/greater_or_equal/2400000"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "businessman",
-			conditions: [
-				"stat/traded_with_villager/greater_or_equal/100"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "driver_boat",
-			conditions: [
-				"stat/boat_one_cm/greater_or_equal/1000000"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "driver_cart",
-			conditions: [
-				"stat/minecart_one_cm/greater_or_equal/1000000"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "rider_horse",
-			conditions: [
-				"stat/horse_one_cm/greater_or_equal/1000000"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "rider_pig",
-			conditions: [
-				"stat/pig_one_cm/greater_or_equal/1000000"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "rider_strider",
-			conditions: [
-				"stat/strider_one_cm/greater_or_equal/1000000"
-			],
-			default: false,
-			hide_requirements: false
-		},
-		{
-			title_id: "traveler_nether",
-			conditions: [
-				"special/dimension/equals/minecraft:the_nether"
-			],
-			default: false,
-			hide_requirements: true
-		},
-		{
-			title_id: "traveler_end",
-			conditions: [
-				"special/dimension/equals/minecraft:the_end"
-			],
-			default: false,
-			hide_requirements: true
-		}
+		}, 
 	]
 }
