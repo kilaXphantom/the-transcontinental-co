@@ -1098,7 +1098,7 @@ hash = "10c8e7569af63652b8286ba9bdc07f3d65fcc7c0db639f5fbe54578aaba714b3"
 
 [[files]]
 file = "kubejs/server_scripts/mia_CustomRecipes.js"
-hash = "eda6b0d01fc1be0427628277af6b1a3166363fc606f5d45cfb266f936039e32a"
+hash = "50a4e9b3fdce54cce5b4058c8bfc73bf2a33bac93d89f6cdf099a3f616548bdb"
 
 [[files]]
 file = "mods/RealisticExplosionPhysics-1.20.1-1.0.0.jar"
