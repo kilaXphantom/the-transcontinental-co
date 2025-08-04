@@ -1251,7 +1251,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "b66321dcd74400f64d539bde020f14335d77d04012b2f991b0cfb5bc800ba9a7"
+hash = "fa85cc4a9950579441376714cab8abeb1997d71aa3c6586f5a75b5951fdf6f83"
 metafile = true
 
 [[files]]
@@ -1672,7 +1672,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "92e7c209d5ed32174844e106e473397f393efb4949fa38d7475601c1135bd0f9"
+hash = "67b30562f3c9b2bdfecc77cbe8fb042a5e43bb84015695c451342f514830ce86"
 metafile = true
 
 [[files]]
@@ -2229,13 +2229,8 @@ hash = "659c4960884f46a1352ada06aef4d1e02b84b7f13810dc11162e06802a252b20"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies-tweaks.pw.toml"
-hash = "083654ef2ed1f89fdb60698c52a01a55476bd17205235988956f315fbc9d93c7"
-metafile = true
-
-[[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "bda389d772ca7258390e9a0eacebca1511980709b98d42f177de1d657dd87587"
+hash = "321db646bf9de634f4f48fe7606e334bef4959330c9a211f2d7bb6c45b226219"
 metafile = true
 
 [[files]]
@@ -2401,11 +2396,6 @@ metafile = true
 [[files]]
 file = "mods/radium.pw.toml"
 hash = "3b8dfb427b30c25513a232ee5752333e6c17b001bfb86a0c98038ede984d70a5"
-metafile = true
-
-[[files]]
-file = "mods/raised.pw.toml"
-hash = "4ac97596695bcac0e845fc38670d33974e4c902f5257afb9e764eed599e5f110"
 metafile = true
 
 [[files]]
@@ -2604,7 +2594,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "c35e5a06dcd2a6a2614200254f7ba1b9a016b9c9ad38ed2f3343766673f6b764"
+hash = "c3497220f63faf1d074918e5a973a5b80c95fb03601389c8c8d5c8c95fbbae3b"
 metafile = true
 
 [[files]]

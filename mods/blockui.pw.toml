@@ -1,13 +1,13 @@
 name = "BlockUI"
-filename = "blockui-1.20.1-1.0.190-snapshot.jar"
+filename = "blockui-1.20.1-1.0.193.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "021049afd7db534a623e739ee8cc37fbc4edfe89"
+hash = "b3b361140fbe5c5f96b56df22f8db2e8c6ac4a9c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6368392
+file-id = 6646544
 project-id = 522992
