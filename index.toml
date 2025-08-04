@@ -2229,6 +2229,11 @@ hash = "659c4960884f46a1352ada06aef4d1e02b84b7f13810dc11162e06802a252b20"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies-tweaks.pw.toml"
+hash = "4e773bae102355dd7b379b5325b19e2a315f753ae77d7b37afebbcd1d45e0b1e"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "321db646bf9de634f4f48fe7606e334bef4959330c9a211f2d7bb6c45b226219"
 metafile = true
