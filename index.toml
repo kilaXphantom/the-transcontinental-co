@@ -1251,7 +1251,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "fa85cc4a9950579441376714cab8abeb1997d71aa3c6586f5a75b5951fdf6f83"
+hash = "b66321dcd74400f64d539bde020f14335d77d04012b2f991b0cfb5bc800ba9a7"
 metafile = true
 
 [[files]]
@@ -1672,7 +1672,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "67b30562f3c9b2bdfecc77cbe8fb042a5e43bb84015695c451342f514830ce86"
+hash = "127755a295858228bdbc4e696c06adf201eee057e8ed67e785c9180af139d557"
 metafile = true
 
 [[files]]
@@ -2599,7 +2599,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "c3497220f63faf1d074918e5a973a5b80c95fb03601389c8c8d5c8c95fbbae3b"
+hash = "2772e8b3ce003c8e7d3fc4438e2d1824804d41e46e4ba5cad9c64ca8c9db5b06"
 metafile = true
 
 [[files]]
