@@ -2224,6 +2224,10 @@ hash = "82a0484217227dc92a79a12733b5a8051591c14c5aff1a55e7e675eb8c7eb72e"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies-1.20.1-1.1.924-snapshotb.jar"
+hash = "8004f73aa7064bf4bcc24471ffd88757b33df988a03f5324ea5aa64d9c6d413d"
+
+[[files]]
 file = "mods/minecolonies-compatibility.pw.toml"
 hash = "659c4960884f46a1352ada06aef4d1e02b84b7f13810dc11162e06802a252b20"
 metafile = true
@@ -2235,7 +2239,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "bda389d772ca7258390e9a0eacebca1511980709b98d42f177de1d657dd87587"
+hash = "b03c67d63a8e8557f2018013d3ba5f78081457c94e04b80aa3418b4955e387f8"
 metafile = true
 
 [[files]]
