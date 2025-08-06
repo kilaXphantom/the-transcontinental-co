@@ -1105,6 +1105,10 @@ file = "mods/RealisticExplosionPhysics-1.20.1-1.0.0.jar"
 hash = "536353bff1009048ea58ad8fe9af6ff3756a74d36f0bb62fb308478def00aca1"
 
 [[files]]
+file = "mods/SimpleDiscordRichPresence-forge-4.0.3-build.40+mc1.20.1b.jar"
+hash = "7ecb510295c50056fb47c6a23365419f260b30106a90020ea9c9cbb6c45d42aa"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "dfab1141c0b00ca194d3826f3bbc06f6b50ed844ecad886bb69fb3d560090b0e"
 metafile = true
@@ -2504,7 +2508,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
-hash = "1107c941dcd4b1678ad79b8a29648457343e6aac9e373c8f5af99935140e6066"
+hash = "7c53277e5e1ae0ee02ec29e93d4033d84e09664c7d0c548caecdc4db5f0768ed"
 metafile = true
 
 [[files]]
@@ -2728,7 +2732,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality-reforged.pw.toml"
-hash = "7d26046aea03fcae4f1e5875d818543a5a401e2ae239cdfe3f18307309014290"
+hash = "7e742a3ff62a2ea928a1444bd84a22685f62d53f767966c6f52b3c1c9c2c8fba"
 metafile = true
 
 [[files]]
