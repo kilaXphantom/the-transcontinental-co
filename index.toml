@@ -765,6 +765,14 @@ file = "config/paxi/datapacks/BetterVillages_Bountiful_1.20.1.zip"
 hash = "12aef84659512e7a79cd117824b8503df24822485e1fb70d0b48815fc33e8e3e"
 
 [[files]]
+file = "config/paxi/datapacks/PK_No_Creeper_Grief_V.2.0.3_MC_1.20_to_1.20.1.zip"
+hash = "1078a8fb3d33b2234ad7b217bd8f519824cfc754d7057230f2ae143e1e53e148"
+
+[[files]]
+file = "config/paxi/datapacks/minecitizens-1.20.1-1.0b.zip"
+hash = "a4817fc219110ce469cb39fb063ab2946bfe15a8df34433bb4561e91bb938614"
+
+[[files]]
 file = "config/paxi/resourcepacks/Compatible Resources.zip"
 hash = "577445c7a05a97731c56ff8cdd8e93434822369971f42fb4cd51fdca685d8f8d"
 
@@ -2228,10 +2236,6 @@ hash = "82a0484217227dc92a79a12733b5a8051591c14c5aff1a55e7e675eb8c7eb72e"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies-1.20.1-1.1.924-snapshotb.jar"
-hash = "8004f73aa7064bf4bcc24471ffd88757b33df988a03f5324ea5aa64d9c6d413d"
-
-[[files]]
 file = "mods/minecolonies-compatibility.pw.toml"
 hash = "659c4960884f46a1352ada06aef4d1e02b84b7f13810dc11162e06802a252b20"
 metafile = true
@@ -2243,7 +2247,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "e334f415c08aa182952f24753df247749b614c752ff9de19268b303823ae42ed"
+hash = "bda389d772ca7258390e9a0eacebca1511980709b98d42f177de1d657dd87587"
 metafile = true
 
 [[files]]
