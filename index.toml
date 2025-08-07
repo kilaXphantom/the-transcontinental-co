@@ -769,8 +769,8 @@ file = "config/paxi/datapacks/PK_No_Creeper_Grief_V.2.0.3_MC_1.20_to_1.20.1.zip"
 hash = "1078a8fb3d33b2234ad7b217bd8f519824cfc754d7057230f2ae143e1e53e148"
 
 [[files]]
-file = "config/paxi/datapacks/minecitizens-1.20.1-1.0b.zip"
-hash = "a4817fc219110ce469cb39fb063ab2946bfe15a8df34433bb4561e91bb938614"
+file = "config/paxi/datapacks/minecitizens-1.20.1-1.1.zip"
+hash = "6d4d24743747d8978d4a42b78b5e8c96393d37539b2674244fd3467c9ccee0cc"
 
 [[files]]
 file = "config/paxi/resourcepacks/Compatible Resources.zip"
