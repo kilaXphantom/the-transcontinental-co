@@ -26,7 +26,7 @@
   botStatusType = "CUSTOM"
   # URL of the bots stream when using the status type 'STREAMING'
   # Has to start with https://twitch.tv/ or https://www.youtube.com/watch?v=
-  streamingURL = "https://www.youtube.com/watch?v=EHyoAXILbA8"
+  streamingURL = "https://www.youtube.com/watch?v=Lm1GgUE36pk"
   # Enable checking for updates?
   # Notification will be shown after every server start in log when update is available
   enableUpdateChecker = true
@@ -56,7 +56,7 @@
   enabled = true
   # The Role IDs of your Admin Roles
   # Now supports multiple roles which can access admin commands
-adminRoleIDs = [    ]
+adminRoleIDs = [ "1315022272297435287", "1316132651060433016" ]
   # Add your custom commands here
   # You can also generate some on https://erdbeerbaerlp.de/dcintegration-commands/
   # Enable the list command in discord
@@ -198,7 +198,7 @@ charBlacklist = [  "࿕", "࿖"  ]
       # Generate unique chat colors from player uuid?
       generateUniqueColors = true
       # Send as embed?
-      asEmbed = true
+      asEmbed = false
       # Color of embed bar
       colorHexCode = "#EEEEEE"
       # Custom embed JSON, will overwrite color setting. For more info, check the documentation at https://github.com/ErdbeerbaerLP/DiscordIntegration-Core/wiki/embed-mode or ask on discord.
@@ -270,7 +270,7 @@ settingsBlacklist = [    ]
 [webhook]
   # Whether or not the bot should use a webhook (it will create one)
   # This will only work in standard channels
-  enable = false
+  enable = true
   # The avatar to be used for server messages
   serverAvatarURL = "https://raw.githubusercontent.com/ErdbeerbaerLP/Discord-Chat-Integration/master/images/srv.png"
   # The name to be used for server messages
@@ -299,7 +299,7 @@ settingsBlacklist = [    ]
   # The message shown when hovering the /discord command message
   hoverMessage = "Click to open the invite URL!"
   # The url to open when clicking the /discord command text
-  inviteURL = "https://discord.gg/myserver"
+  inviteURL = "https://discord.gg/SVuzqkyvfS"
 # The command log channel is an channel where every command execution gets logged
 [commandLog]
   # Channel ID for the command log channel
@@ -332,9 +332,9 @@ ignoredCommands = [  "list", "help", "?"  ]
   # %addr% - (IP) Address of the site
   message = ":ballot_box: %player% just voted on %site%"
   # Name of the webhook title
-  name = "Votifier"
+  name = "%player%"
   # URL of the webhook avatar image
-  avatarURL = "https://www.cubecraft.net/attachments/bkjvmqn-png.126824/"
+  avatarURL = "https://mc-heads.net/head/%uuid%"
 # Configure Dynmap integration here
 [dynmap]
   # The message format of the message forwarded to discord
