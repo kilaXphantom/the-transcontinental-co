@@ -126,7 +126,9 @@ ServerEvents.recipes(event => {
         C: 'createaddition:zinc_sheet'
     })
 
-    
+
 });
 
 console.info('Loaded custom recipes from mia_CustomRecipes. Thank you for choosing the Transcontinental Express!');
+
+//All recipes are made by Mia aka kilaXphantom. You may use these freely with no credit required
