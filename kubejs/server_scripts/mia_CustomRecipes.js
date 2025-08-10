@@ -82,6 +82,50 @@ ServerEvents.recipes(event => {
         B: 'minecraft:chain'
     })
 
+    //Yellow Zinc Cage Lamp
+    event.shaped( 'farm_and_charm:yellow_zinc_cage_lamp', [
+        ' A ',
+        ' B ',
+        ' C '
+    ], {
+        A: 'create:zinc_nugget',
+        B: 'minecraft:torch',
+        C: 'createaddition:zinc_sheet'
+    })
+
+    //Red Zinc Cage Lamp
+    event.shaped( 'farm_and_charm:red_zinc_cage_lamp', [
+        ' A ',
+        ' B ',
+        ' C '
+    ], {
+        A: 'create:zinc_nugget',
+        B: 'minecraft:redstone_torch',
+        C: 'createaddition:zinc_sheet'
+    })
+
+    //Green Zinc Cage Lamp
+    event.shaped( 'farm_and_charm:green_zinc_cage_lamp', [
+        ' A ',
+        ' B ',
+        ' C '
+    ], {
+        A: 'create:zinc_nugget',
+        B: 'minecraft:glow_berries',
+        C: 'createaddition:zinc_sheet'
+    })
+
+    //Blue Zinc Cage Lamp
+    event.shaped( 'farm_and_charm:blue_zinc_cage_lamp', [
+        ' A ',
+        ' B ',
+        ' C '
+    ], {
+        A: 'create:zinc_nugget',
+        B: 'minecraft:soul_torch',
+        C: 'createaddition:zinc_sheet'
+    })
+
     
 });
 
