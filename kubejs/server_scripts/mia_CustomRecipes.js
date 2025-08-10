@@ -83,7 +83,7 @@ ServerEvents.recipes(event => {
     })
 
     //Yellow Zinc Cage Lamp
-    event.shaped( 'farm_and_charm:yellow_zinc_cage_lamp', [
+    event.shaped( 'createdeco:yellow_zinc_lamp', [
         ' A ',
         ' B ',
         ' C '
@@ -94,7 +94,7 @@ ServerEvents.recipes(event => {
     })
 
     //Red Zinc Cage Lamp
-    event.shaped( 'farm_and_charm:red_zinc_cage_lamp', [
+    event.shaped( 'createdeco:red_zinc_lamp', [
         ' A ',
         ' B ',
         ' C '
@@ -105,7 +105,7 @@ ServerEvents.recipes(event => {
     })
 
     //Green Zinc Cage Lamp
-    event.shaped( 'farm_and_charm:green_zinc_cage_lamp', [
+    event.shaped( 'createdeco:green_zinc_lamp', [
         ' A ',
         ' B ',
         ' C '
@@ -116,7 +116,7 @@ ServerEvents.recipes(event => {
     })
 
     //Blue Zinc Cage Lamp
-    event.shaped( 'farm_and_charm:blue_zinc_cage_lamp', [
+    event.shaped( 'createdeco:blue_zinc_lamp', [
         ' A ',
         ' B ',
         ' C '
