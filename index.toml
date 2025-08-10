@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "DiscordIntegration-Data/Messages.toml"
+hash = "46183afae0d53421d4f72e46b3f137c358c903d28d73cd0e27fd237a3c1b98d1"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
 [[files]]
 file = "config/Discord-Integration.toml"
-hash = "b568b0be0af5eccfe4d53238c703289cecb37334dc54364405a42a9acd364d4f"
+hash = "7a8cb3d04e7527598be050e0e942689a91af69b7325dccfd7aed3bda2a6b39a0"
 
 [[files]]
 file = "config/JLFork/just_leveling-client.toml"
@@ -34,7 +38,7 @@ hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
-hash = "d02af8fe18164ec7566009fdf2c6c673b387687fe89a0e71fe719a8b664d9615"
+hash = "d5f792e938b491fff96f0dd838046e8ea3ce17033a797a30a391ef4849db5f03"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
@@ -73,6 +77,10 @@ file = "config/ambientsounds-client.json"
 hash = "d002319f21f057d57ab1e6a018877d57e687b2e3cd6a5479164ec66d98cd0f78"
 
 [[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "8877c0436a3dbaa43fcc35e760b582e29c3f8ca68d906a71978968a34afd0b6a"
+
+[[files]]
 file = "config/appleskin-client.toml"
 hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
 
@@ -98,7 +106,7 @@ hash = "073caa5a3848e48016840ac5f4f1abbb41d16605f5d0b1dfef71291a02a5a016"
 
 [[files]]
 file = "config/betterdays-client.toml"
-hash = "9be0f6e8110477e7fa24be732b6f82d6b48c3fde02bcf4745679a09f437525cf"
+hash = "fe77eedc9b238adc5136e61a61995334285d024e0920ed9375512990ac07206c"
 
 [[files]]
 file = "config/betterdays-common.toml"
@@ -769,12 +777,12 @@ file = "config/paxi/datapacks/PK_No_Creeper_Grief_V.2.0.3_MC_1.20_to_1.20.1.zip"
 hash = "1078a8fb3d33b2234ad7b217bd8f519824cfc754d7057230f2ae143e1e53e148"
 
 [[files]]
-file = "config/paxi/datapacks/minecitizens-1.20.1-1.1.zip"
-hash = "6d4d24743747d8978d4a42b78b5e8c96393d37539b2674244fd3467c9ccee0cc"
+file = "config/paxi/datapacks/minecitizens-1.20.1-1.2.zip"
+hash = "f29aec5d9c769444bdd59a6cc2d63d3cf51e64aabded6b3c37241bb157f5d01e"
 
 [[files]]
 file = "config/paxi/resourcepacks/Compatible Resources.zip"
-hash = "577445c7a05a97731c56ff8cdd8e93434822369971f42fb4cd51fdca685d8f8d"
+hash = "b914c0d104195b3db16c89e6862696a635c7bffbae07111939ca6272c9c47f87"
 
 [[files]]
 file = "config/paxi/resourcepacks/Connected Textures.zip"
