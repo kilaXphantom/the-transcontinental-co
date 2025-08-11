@@ -1,11 +1,11 @@
 ServerEvents.recipes(event => {
-    // Output, Input
+    //Dough
     event.recipes.create.splashing([Item.of('create:dough')], Item.of('farm_and_charm:flour'));
 
-    // Output, Input
+    //Dirt
     event.shapeless( 'minecraft:dirt', '9x minecraft:wheat_seeds' )
 
-    // Output, Input
+    //Bell
     event.shaped( 'minecraft:bell', [
         'BBB',
         'ACA',
@@ -126,6 +126,8 @@ ServerEvents.recipes(event => {
         C: 'createaddition:zinc_sheet'
     })
 
+    //Shroomlight
+    event.recipes.create.deploying( Item.of('minecraft:shroomlight'), [Item.of('minecraft:glowstone'), Item.of('minecraft:nether_wart_block') ] )
 
 });
 

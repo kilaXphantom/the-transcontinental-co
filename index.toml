@@ -777,12 +777,12 @@ file = "config/paxi/datapacks/PK_No_Creeper_Grief_V.2.0.3_MC_1.20_to_1.20.1.zip"
 hash = "1078a8fb3d33b2234ad7b217bd8f519824cfc754d7057230f2ae143e1e53e148"
 
 [[files]]
-file = "config/paxi/datapacks/minecitizens-1.20.1-1.2.zip"
-hash = "f29aec5d9c769444bdd59a6cc2d63d3cf51e64aabded6b3c37241bb157f5d01e"
+file = "config/paxi/datapacks/minecitizens-1.20.1-1.3.zip"
+hash = "e86bfaede8835f8fd550befc0f6c651dae9ba7b8e003ee08863efc932ed5d3c9"
 
 [[files]]
 file = "config/paxi/resourcepacks/Compatible Resources.zip"
-hash = "b914c0d104195b3db16c89e6862696a635c7bffbae07111939ca6272c9c47f87"
+hash = "9bfc600118ff0c1dcac434519d8406b028ef111c1092886cd5db3146e8c078ca"
 
 [[files]]
 file = "config/paxi/resourcepacks/Connected Textures.zip"
@@ -1114,7 +1114,7 @@ hash = "10c8e7569af63652b8286ba9bdc07f3d65fcc7c0db639f5fbe54578aaba714b3"
 
 [[files]]
 file = "kubejs/server_scripts/mia_CustomRecipes.js"
-hash = "8a5bd616d5def7e838a8c620b8c1f673003b5b102bfef17b66a0588f26f7a744"
+hash = "9ca34477f633ad4f9f16cdbb742ab131f1a19171a6914d836e943dfb71e5c16b"
 
 [[files]]
 file = "mods/RealisticExplosionPhysics-1.20.1-1.0.0.jar"
