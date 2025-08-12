@@ -361,6 +361,14 @@ file = "config/entityculling.json"
 hash = "6e961d971f43e378643ce2a6101bc8899c63c77c661098bf6af3555b5b1dec57"
 
 [[files]]
+file = "config/ezvcsurvival/sounds.toml"
+hash = "8c88428779a2ac4d08a09335d923c6e07325cd38fde912f64b01f76cb3739689"
+
+[[files]]
+file = "config/ezvcsurvival/voices.toml"
+hash = "ed3b01a29156fc2e2e7c3dcfa6429643366a35b256201b0ab9e232ea0fa66686"
+
+[[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "76a2ae86cd2a64a457a2a399d0eecdc010d6c4a3a8b22e6623848c50fff3ca12"
 

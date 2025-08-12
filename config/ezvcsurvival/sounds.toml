@@ -1,0 +1,47 @@
+
+#Sound groups configuration
+#Define reusable sound groups for mobs.
+#Format: group_name=sound1,sound2,sound3[,speedMultiplier,rangeMultiplier]
+#or: group_name=speed=VAL,range=VAL,sound1,sound2,...
+[sound_groups]
+	groups = ["wood_sounds=block.wood.break,block.wood.place,block.wood.hit,1.0,1.0", "stone_sounds=block.stone.break,block.stone.place,block.stone.hit,1.0,1.0", "metal_sounds=block.metal.break,block.metal.place,block.metal.hit,1.0,1.0", "glass_sounds=block.glass.break,block.glass.place,1.0,1.0", "gravel_sounds=block.gravel.break,block.gravel.place,1.0,1.0", "sand_sounds=block.sand.break,block.sand.place,1.0,1.0", "animal_hurts=entity.cow.hurt,entity.pig.hurt,entity.sheep.hurt,entity.chicken.hurt,entity.rabbit.hurt", "hostile_hurts=entity.zombie.hurt,entity.skeleton.hurt,entity.creeper.hurt,entity.spider.hurt", "fire_sounds=block.fire.ambient,block.fire.extinguish,item.firecharge.use", "explosive_sounds=entity.generic.explode,entity.creeper.primed,entity.tnt.primed", "anvil_sounds=block.anvil.break,block.anvil.use,block.anvil.place", "bell_sounds=block.bell.use,block.bell.resonate"]
+
+#Mob sound reactions configuration
+#Define sound reaction settings for each mob.
+#Format: mob_id=speed=VALUE,range=VALUE,groups=group1,group2
+[mob_sound_reactions]
+	reactions = ["minecraft:zombie=speed=1,range=20,groups=wood_sounds,stone_sounds,metal_sounds,glass_sounds,gravel_sounds,sand_sounds,animal_hurts,hostile_hurts,fire_sounds,explosive_sounds,anvil_sounds,bell_sounds", "minecraft:skeleton=speed=1,range=20,groups=wood_sounds,stone_sounds,metal_sounds,glass_sounds,gravel_sounds,sand_sounds,animal_hurts,hostile_hurts,fire_sounds,explosive_sounds,anvil_sounds,bell_sounds", "minecraft:creeper=speed=1,range=20,groups=wood_sounds,stone_sounds,metal_sounds,glass_sounds,gravel_sounds,sand_sounds,animal_hurts,hostile_hurts,fire_sounds,explosive_sounds,anvil_sounds,bell_sounds"]
+
+[priority_group]
+	#Define priority sounds with per-sound speed and range
+	#Format: namespace:path=speed,range
+	sounds = ["minecraft:entity.generic.explode=1.0,12.0"]
+
+[weather]
+	#Range multiplier applied when it is raining or thundering.
+	#Value between 0 and 1. A lower value will reduce the effective sound range.
+	#Range: 0.0 ~ 1.0
+	thunder_range_multiplier = 0.8
+
+#Gun type modifiers configuration (TACZ)
+#Define multipliers for mob reaction speed and range by gun type.
+#Format: gunType=speedMultiplier,rangeMultiplier
+[tacz_gun_type_modifiers]
+	modifiers = ["pistol=1.0,3.8", "sniper=1.0,8.0", "rifle=1.0,6.5", "shotgun=1.0,4.8", "smg=1.0,3.0", "rpg=1.0,10.0", "mg=1.0,4.0"]
+
+#PointBlank gun type modifiers configuration
+#Define multipliers for pointblank reaction adjustments by gun type.
+#Format: gunType=speedMultiplier,rangeMultiplier
+[pointblank_gun_type_modifiers]
+	modifiers = ["pistol=1.0,4.0", "sniper=1.0,5.0", "rifle=1.0,6.5", "shotgun=1.0,4.8", "smg=1.0,3.0", "rpg=1.0,10.0", "mg=1.0,8.0"]
+
+[gun_fire_mobs]
+	mobs = ["minecraft:zombie", "minecraft:skeleton"]
+
+#Silenced Guns configuration
+#List of GUNS IDs that should always be treated as silenced.
+#Format: namespace:id
+#This is only for the guns are silenced by default (Only Addons from TACZ!)
+[silenced_guns]
+	ids = ["daffas_arsenal:hk45_sup", "daffas_arsenal:apacoba9_sup"]
+
