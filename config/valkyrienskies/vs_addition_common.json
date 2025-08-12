@@ -1,4 +1,0 @@
-{
-  "insteadCreateInteractiveDeployer" : true,
-  "$schema" : "schemas/vs_addition_common.schema.json"
-}

@@ -1,8 +1,0 @@
-name = "Create: Eureka!"
-filename = "create_eureka-1.0.0+forge-1.20.1.jar"
-side = "both"
-
-[download]
-url = "https://kilaxphantom.github.io/the-transcontinental-co/mods/create_eureka-1.0.0+forge-1.20.1.jar"
-hash-format = "sha1"
-hash = "13787586f39f766d75764ecde15ecc22303140eb"

@@ -11,3 +11,12 @@ hash = "825f037e40e904b11f2744e2b6fa2823b7cef41ec9e71c10cf71dd89233ed15a9c468737
 [update.modrinth]
 mod-id = "ZP7xHXtw"
 version = "DMHJY7vL"
+
+[option]
+optional = true
+description = '''
+◻ Removes the Reloading screen when changing texture packs. Keep unchecked if not sure.
+
+◼ "OK" to select and install (or skip)
+◼ "Cancel" to cancel launch
+'''

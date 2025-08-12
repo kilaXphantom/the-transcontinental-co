@@ -46,7 +46,7 @@
 			],
 			default: false,
 			hide_requirements: false
-		}, 
+		},
 		{
 			title_id: "warden",
 			conditions: [
@@ -54,7 +54,7 @@
 			],
 			default: false,
 			hide_requirements: false
-		}, 
+		},
 		{
 			title_id: "in_heat",
 			conditions: [
@@ -62,7 +62,7 @@
 			],
 			default: false,
 			hide_requirements: false
-		}, 
+		},
 		{
 			title_id: "lilac",
 			conditions: [
@@ -70,6 +70,6 @@
 			],
 			default: false,
 			hide_requirements: false
-		}, 
+		},
 	]
 }

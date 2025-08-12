@@ -3,7 +3,7 @@
 # %user% - The username
 # %id% - The user ID
 # %msg% - The message
-ingame_discordMessage = ":discord: §8|§r <%user%> §8said§r %msg%"
+ingame_discordMessage = ":discord: §8|§r %user% §7said§r §#5865F2%msg%"
 # This is what will be displayed in-game when someone sends an reply into the bots channel
 # PLACEHOLDERS:
 # %user% - The username
@@ -11,7 +11,7 @@ ingame_discordMessage = ":discord: §8|§r <%user%> §8said§r %msg%"
 # %msg% - The reply message
 # %ruser% - The username of the message that got the reply
 # %rmsg% - The replied message
-ingame_discordReplyMessage = "§6[§#5865F2DISCORD§6]§r §a%user%§r in reply to §3%ruser%§r: %msg%"
+ingame_discordReplyMessage = ":discord: §8|§r §a%user%§r §7replied to §3%ruser%:§r §#5865F2%msg%"
 # Message shown when hovering over the username of an discord message
 # PLACEHOLDERS:
 # %user% - The users display name (Someone123)
@@ -19,7 +19,7 @@ ingame_discordReplyMessage = "§6[§#5865F2DISCORD§6]§r §a%user%§r in reply 
 # %id% - The user ID
 # 
 # NOTE: using an @ here can cause ping sounds in-game
-discordUserHover = "§3Discord User %user%\n§aClick to mention"
+discordUserHover = "§3Discord User: %user%\n§aClick to mention!"
 # This message will edited in / sent when the server finished starting
 serverStarted = "> The train is in motion!"
 # Message to show while the server is starting
@@ -72,7 +72,7 @@ discordChatMessage = "%player%: %msg%"
 # %name2% - Name of the user who reacted with discord discriminator (format: 'SomeName#0123')
 # %msg% - Content of the message which got the reaction
 # %emote% - The reacted emote
-reactionMessage = "§6[§#5865F2DISCORD§6]§r§7 %name% reacted to your message \"§9%msg%§7\" with '%emote%'"
+reactionMessage = ":discord: §8|§r §3%name% §7reacted to your message \"§e%msg%§7\" with '%emote%'"
 # Message shown for attachments
 attachment = "Attachment"
 # Message shown for stickers
@@ -84,7 +84,7 @@ embedImage = "Image"
 # Message shown for embed messages
 embedMessage = "Message"
 # Hover message for the bot tag in-game
-bot = "This user is an bot"
+bot = "This user is a bot!"
 
 # Strings about the discord commands
 [commands]
@@ -101,7 +101,7 @@ bot = "This user is an bot"
   # Message sent when an invalid command was typed
   # 
   # PLACEHOLDERS:
-  unknownCommand = "Unknown command, try `/help` for a list of commands"
+  unknownCommand = "Unknown command, try `/help` for a list of commands."
   # Message if a player provides less arguments than required
   notEnoughArguments = "Not enough arguments"
   # Message if a player provides too many arguments
@@ -200,12 +200,12 @@ bot = "This user is an bot"
   # Sent when trying to link without an required role
   link_requiredRole = "You need to have an role to use this"
   # Sent when trying to link as an non-member
-  link_notMember = "You are not member of the Discord-Server this bot is operating in!"
+  link_notMember = "You are not member of the dDscord server this bot is operating in!"
   # Sent to the user when he linked his discord successfully
   # PLACEHOLDERS:
   # %name% - The linked discord name
   # %name#tag% - The linked discord name with tag
-  linkSuccessfulIngame = "Your account is now linked with discord-user %name#tag%"
+  linkSuccessfulIngame = "Your account is now linked with Discord user %name#tag%"
   # Message shown to players who want to link their discord account in-game
   # 
   # PLACEHOLDERS:
@@ -232,8 +232,8 @@ bot = "This user is an bot"
 
     # Descriptions of the settings
     [personalSettings.descriptons]
-      ignoreDiscordChatIngame = "Configure if you want to ignore discord chat in-game"
+      ignoreDiscordChatIngame = "Configure if you want to ignore Discord chat in-game"
       useDiscordNameInChannel = "Should the bot send messages using your discord name and avatar instead of your in-game name and skin?"
-      ignoreReactions = "Configure if you want to ignore discord reactions in-game"
+      ignoreReactions = "Configure if you want to ignore Discord reactions in-game"
       pingSound = "Toggle the in-game ping sound"
       hideFromDiscord = "Setting this to true will hide all of your minecraft messages from Discord"
