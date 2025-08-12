@@ -1487,10 +1487,6 @@ hash = "8782d120f8b3e8439595af87a84d8e955ecdcf2e7abcf1a2ce85c413f085daa3"
 metafile = true
 
 [[files]]
-file = "mods/create_eureka-1.0.0+forge-1.20.1.jar"
-hash = "84cfb6ba3028290509992beed4e6b6ede51fa1d2066496ce6f3b31680a954548"
-
-[[files]]
 file = "mods/create_recycle_1.0.2_forge_1.20.1.jar"
 hash = "dbdf418ae63f929600784db71310ed80c7e7c30a60d1f3467dccb2a9d81caa52"
 
@@ -2302,6 +2298,11 @@ hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "b1f540bb76039ab86c9160d8d92ca93fe21559aef95f1e5819f7061740c6e8a6"
+metafile = true
+
+[[files]]
 file = "mods/player-trade.pw.toml"
 hash = "8a1e75e71419e9909a6629861bbc462e56ab18e2720349056d0c1a0cbd0e7cf5"
 metafile = true
@@ -2616,11 +2617,6 @@ hash = "ed3b5e994d242909157f87fa3a0479d420b1c69b269cc70d9f907a1542acbb67"
 metafile = true
 
 [[files]]
-file = "mods/trackwork.pw.toml"
-hash = "9e67e4aa744c0b51ccdede40cba758ff34b18900ceeafc8459f23a8b147d6d12"
-metafile = true
-
-[[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "13af80b2b1274ebea8a8afdd31340b98280ae70ae7a64061162d0b07e75e0929"
 metafile = true
@@ -2643,6 +2639,11 @@ metafile = true
 [[files]]
 file = "mods/u-team-core.pw.toml"
 hash = "f4986d0889116fdd4bee45c98acf051fe649252eb415746324a8955d5fa0d827"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "d4bcebc5c2ca1cf4b113959d2ad443c3c63a8a161df11e1bcbde5b5244a83e1a"
 metafile = true
 
 [[files]]
