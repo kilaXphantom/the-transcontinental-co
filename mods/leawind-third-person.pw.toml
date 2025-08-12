@@ -1,4 +1,4 @@
-name = "Leawind's Third Person"
+name = "Third Person Camera"
 filename = "leawind_third_person-v2.2.0-mc1.20-1.20.1-forge.jar"
 side = "client"
 
@@ -15,7 +15,7 @@ version = "nCkriW6F"
 [option]
 optional = true
 description = '''
-◻ Changes the third person camera to be over your shoulder instead of behind you.
+◻ Adds a third-person camera perspective
 
 ◼ "OK" to select and install (or skip)
 ◼ "Cancel" to cancel launch
