@@ -2133,11 +2133,6 @@ hash = "82a0484217227dc92a79a12733b5a8051591c14c5aff1a55e7e675eb8c7eb72e"
 metafile = true
 
 [[files]]
-file = "mods/mindful-darkness.pw.toml"
-hash = "650ed4e76b807d4b2e8834fa9ffbeaadfb92c153a8c3f1a470ad1a093289108d"
-metafile = true
-
-[[files]]
 file = "mods/minecolonies-compatibility.pw.toml"
 hash = "659c4960884f46a1352ada06aef4d1e02b84b7f13810dc11162e06802a252b20"
 metafile = true
