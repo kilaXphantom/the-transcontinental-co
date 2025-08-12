@@ -15,7 +15,7 @@ version = "nCkriW6F"
 [option]
 optional = true
 description = '''
-◻ Adds a third-person camera perspective
+◻ Adds a third-person camera
 
 ◼ "OK" to select and install (or skip)
 ◼ "Cancel" to cancel launch

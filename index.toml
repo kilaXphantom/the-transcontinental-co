@@ -1969,7 +1969,7 @@ metafile = true
 
 [[files]]
 file = "mods/leawind-third-person.pw.toml"
-hash = "280babcc86025405ccca62ae66788580ddfbd9380152328d9dc5f00aac897264"
+hash = "2c8ee79e1c32ea18af169dcbf45f135e69f613eb0c59c9889531b2e60c152f30"
 metafile = true
 
 [[files]]
@@ -2389,7 +2389,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "4f395a8ab0fe6d259fba8da95fb60cce41c60f60e08245de75e5f1fc6207894d"
+hash = "feb93d599b529a6ae9feb98739f0549b499b7e70f72572ef3fc3754f77448a14"
 metafile = true
 
 [[files]]

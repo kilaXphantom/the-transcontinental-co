@@ -15,7 +15,7 @@ version = "DMHJY7vL"
 [option]
 optional = true
 description = '''
-◻ Removes texture pack reload screen
+◻ Removes texture pack reloading
 
 ◼ "OK" to select and install (or skip)
 ◼ "Cancel" to cancel launch
