@@ -1893,11 +1893,6 @@ hash = "cd0eccae2401b54d1e36fbdc3ae19ec7c51e5b7004e2a19cb4d17922f14735fe"
 metafile = true
 
 [[files]]
-file = "mods/interactive.pw.toml"
-hash = "39fa512eec7e953be7e0afb7003327a36dc5b92145052653aa1a9f9ce7ef609d"
-metafile = true
-
-[[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "7c993c8854fa4a7510e886ada88f3070ccdfcf4ca199dda558a4f6b0318f0132"
 metafile = true
