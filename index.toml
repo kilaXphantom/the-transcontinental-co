@@ -30,7 +30,7 @@ hash = "56191d7b9154906a41d8ad1da85a3e786dce4d482f5a6ea02c4275ce35a7fcc3"
 
 [[files]]
 file = "config/JLFork/justleveling-fork.titles.json5"
-hash = "32b2e89d90a5f89a97113f9728a17448340c7468d053e62739e0ffe330464d18"
+hash = "0d0b61008295e0eb89cdd0ad6fd8bb040f84692e609c58b56b1b9af36d36b6d2"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -835,6 +835,10 @@ hash = "1f660c8bd0c374799862392ef7a56253544f5adaf653e59386cd1eb34f94fa2f"
 [[files]]
 file = "config/recipeessentials.json"
 hash = "d5e9999392e13549752157c6cb574c761cd323414d8eda96b31bfc6c42f98d25"
+
+[[files]]
+file = "config/restrictedportals-common.toml"
+hash = "e84fef807d07db3d6ba49d1f622d1fcef4c91dafcc43db061ae069d095f6fb0b"
 
 [[files]]
 file = "config/rightclickharvest.toml"
