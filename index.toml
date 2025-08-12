@@ -2530,7 +2530,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "1f24b43be5efacc252ef6df1d794ea811fd3f33e6f76d6d999e11e28018e553e"
+hash = "30ae3e1cc1c6e3f09b29fc3a61fa8b8683ec7d5d31f4b234a27d58a99accbb20"
 metafile = true
 
 [[files]]
@@ -2745,6 +2745,11 @@ metafile = true
 [[files]]
 file = "mods/visuality-reforged.pw.toml"
 hash = "7e742a3ff62a2ea928a1444bd84a22685f62d53f767966c6f52b3c1c9c2c8fba"
+metafile = true
+
+[[files]]
+file = "mods/voiceless-survival.pw.toml"
+hash = "cfb22d09ed9f5f2245bffb0669aaea34664e796ff90a3aeb28b7686f6bbb005d"
 metafile = true
 
 [[files]]
