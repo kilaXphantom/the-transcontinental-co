@@ -1,13 +1,13 @@
 name = "Advancement Frames"
-filename = "advancementframes-1.20-2.2.8.jar"
+filename = "advancementframes-1.20-2.2.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "642c87d5ca081aa30204c81b510eb360b66cea5b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/zUBn5hHr/versions/syxp8b5I/advancementframes-1.20-2.2.7.jar"
+hash-format = "sha512"
+hash = "faf833dfa219f92eac6ab72f7040426ed3726a1c8711169a0ab64c22db6b005f8e575a0dbfdc8fd4254c746645de84a28c9498d054334aa22cb861627862c0ee"
 
 [update]
-[update.curseforge]
-file-id = 6273145
-project-id = 556795
+[update.modrinth]
+mod-id = "zUBn5hHr"
+version = "syxp8b5I"
