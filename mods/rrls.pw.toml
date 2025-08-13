@@ -15,7 +15,7 @@ version = "DMHJY7vL"
 [option]
 optional = true
 description = '''
-◻ Removes the Reloading screen when changing texture packs. Keep unchecked if not sure.
+◻ Removes texture pack reloading
 
 ◼ "OK" to select and install (or skip)
 ◼ "Cancel" to cancel launch

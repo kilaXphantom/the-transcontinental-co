@@ -15,7 +15,7 @@ version = "wI7mPzLg"
 [option]
 optional = true
 description = '''
-◻ Allows for more player camera customization such as drag. Leave unchecked if not sure.
+◻ More player camera customization
 
 ◼ "OK" to select and install (or skip)
 ◼ "Cancel" to cancel launch
