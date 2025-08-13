@@ -697,6 +697,10 @@ file = "config/mobhealthbar-client.toml"
 hash = "ea52ca63f17e3ad833d76afc0be3780a73a3e50782a6dc3172c7e9bf1e9a8bad"
 
 [[files]]
+file = "config/mobplaques-client.toml"
+hash = "5f56d9a000529bb7c43292ead75a071562a1c2bc3cfff74825d140f22bb0dd37"
+
+[[files]]
 file = "config/modernfix-common.toml"
 hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 
