@@ -129,8 +129,12 @@ ServerEvents.recipes(event => {
     //Shroomlight
     event.recipes.create.deploying( Item.of('minecraft:shroomlight'), [Item.of('minecraft:glowstone'), Item.of('minecraft:nether_wart_block') ] )
 
+    //Rose Quartz
+    event.recipes.create.crushing(['create:rose_quartz', Item.of('create:rose_quartz').withChance(0.5)], 'biomesoplenty:rose_quartz_block')
+    event.recipes.create.crushing(['create:rose_quartz', Item.of('create:rose_quartz').withChance(0.5)], 'create:rose_quartz_block')
+
 });
 
 console.info('Loaded custom recipes from mia_CustomRecipes. Thank you for choosing the Transcontinental Express!');
 
-//All recipes are made by Mia aka kilaXphantom. You may use these freely with no credit required
+//All recipes are made by Mia aka kilaXphantom. You may use these freely with no credit card required

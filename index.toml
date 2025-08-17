@@ -1006,7 +1006,7 @@ hash = "10c8e7569af63652b8286ba9bdc07f3d65fcc7c0db639f5fbe54578aaba714b3"
 
 [[files]]
 file = "kubejs/server_scripts/mia_CustomRecipes.js"
-hash = "9ca34477f633ad4f9f16cdbb742ab131f1a19171a6914d836e943dfb71e5c16b"
+hash = "36e6928dd8eb0fcc53592d241f74484032e28c0ba85417f65c2c92f1e846e0c1"
 
 [[files]]
 file = "mods/RealisticExplosionPhysics-1.20.1-1.0.0.jar"
@@ -2487,7 +2487,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "67087375de779fadaf33a1623d8d9c51820581f266058869fe92b1863f88b90f"
+hash = "8478aa3272e0e2e008d570468693a3a2d29130e6751cb8e44915abb8f34e456f"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "0950a346a4303fc0bb5d6b54ce99380b059f740753d65efe16bf4b0b187cd76b"
 metafile = true
 
 [[files]]
