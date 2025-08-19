@@ -2428,7 +2428,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "726c96f6a0cf38e327f4e7c9be813dbe28eea0eae0fc46795edb5800dba76f7d"
+hash = "f80d812a26b743fa2f418de47227b947a20117fdccebb21ccc87c6973cfcc5f7"
 metafile = true
 
 [[files]]
