@@ -1,0 +1,22 @@
+name = "Third Person Camera"
+filename = "ShoulderSurfing-Forge-1.20.1-4.14.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kepjj2sy/versions/uNEGD88l/ShoulderSurfing-Forge-1.20.1-4.14.1.jar"
+hash-format = "sha512"
+hash = "7361c88c9ac487c13cf4e21f6fbc4afcfec5c2eb638d8322d4a1d966b3c53fa6093f7c1c9c9df47192026eca135e5635549bd4b9898d0bc3e2818ac4434c7df8"
+
+[update]
+[update.modrinth]
+mod-id = "kepjj2sy"
+version = "uNEGD88l"
+
+[option]
+optional = true
+description = '''
+◻ Adds a third-person camera
+
+◼ "OK" to select and install (or skip)
+◼ "Cancel" to cancel launch
+'''

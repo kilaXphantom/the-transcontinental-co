@@ -1972,11 +1972,6 @@ hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
 
 [[files]]
-file = "mods/leawind-third-person.pw.toml"
-hash = "2c8ee79e1c32ea18af169dcbf45f135e69f613eb0c59c9889531b2e60c152f30"
-metafile = true
-
-[[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "29e8b5ebc8295fbe6fd1bc2e7e036bf3ad21a905a7cc4d765053e3c56094943f"
 metafile = true
@@ -2429,6 +2424,11 @@ metafile = true
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "3636928a6068d4a3884fdfcfcd3a37f823fd1e9f4edccd2ee0be16a1cbf8872a"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "7bca90c4efb4c34f696ee68da4efb80af5106afd82c4252c5a10b08adf8c79d7"
 metafile = true
 
 [[files]]
