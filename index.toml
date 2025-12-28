@@ -1006,7 +1006,7 @@ hash = "10c8e7569af63652b8286ba9bdc07f3d65fcc7c0db639f5fbe54578aaba714b3"
 
 [[files]]
 file = "kubejs/server_scripts/mia_CustomRecipes.js"
-hash = "36e6928dd8eb0fcc53592d241f74484032e28c0ba85417f65c2c92f1e846e0c1"
+hash = "bf1d8740a6809b485a77e2e402d8288ca417e031af860121805e66ae4fb4d84d"
 
 [[files]]
 file = "mods/RealisticExplosionPhysics-1.20.1-1.0.0.jar"
@@ -2259,6 +2259,11 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "be2cd243fe83f4253d406afaf81781ffafb12d86903fcac8df913f247d84a0df"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "54b81fe5d535330dbb271870e352af61ec28e76dae737e5030713d4b6beefdc0"
 metafile = true
 
 [[files]]

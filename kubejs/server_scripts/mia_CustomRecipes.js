@@ -133,6 +133,79 @@ ServerEvents.recipes(event => {
     event.recipes.create.crushing(['create:rose_quartz', Item.of('create:rose_quartz').withChance(0.5)], 'biomesoplenty:rose_quartz_block')
     event.recipes.create.crushing(['create:rose_quartz', Item.of('create:rose_quartz').withChance(0.5)], 'create:rose_quartz_block')
 
+    //Corn Chowder
+    event.shapeless( '1x minecolonies:corn_chowder', [
+        'minecraft:bowl',
+        'minecolonies:large_milk_bottle',
+        '#forge:crops/corn',
+        '#forge:crops/onion',
+        'minecolonies:garlic'
+    ])
+
+    //Ammo for Point Blank
+    //9mm           pointblank:ammo9mm
+    event.recipes.create.deploying( 'pointblank:ammo9mm', [
+        'create:copper_sheet',
+        'minecraft:gunpowder'
+    ])
+
+    //.45 ACP       pointblank:ammo45acp
+    event.recipes.create.deploying( 'pointblank:ammo45acp', [
+        'create:copper_sheet',
+        'minecraft:gunpowder'
+    ])
+
+    //4.6mm         pointblank:ammo46
+    event.recipes.create.deploying( 'pointblank:ammo46', [
+        'create:copper_sheet',
+        'minecraft:gunpowder'
+    ])
+
+    //.357          pointblank:ammo357
+    event.recipes.create.deploying( 'pointblank:ammo357', [
+        'create:copper_sheet',
+        'minecraft:gunpowder'
+    ])
+
+    //5.7mm         pointblank:ammo57
+    event.recipes.create.deploying( 'pointblank:ammo57', [
+        'create:copper_sheet',
+        'minecraft:gunpowder'
+    ])
+
+    //.50 AE        pointblank:ammo50ae
+    event.recipes.create.deploying( 'pointblank:ammo50ae', [
+        'create:copper_sheet',
+        'minecraft:gunpowder'
+    ])
+
+    //5.45mm        pointblank:ammo545
+
+    //5.56mm        pointblank:ammo556
+
+    //6.8mm         pointblank:ammo68
+
+    //7.62mm        pointblank:ammo762
+
+    //7.62x51mm     pointblank:ammo762.51
+
+    //.338 Lapua    pointblank:ammo338lapua
+
+    //.50 BMG       pointblank:ammo50bmg
+
+    //12 Gauge      pointblank:ammo12gauge
+
+    //Laser Charge  pointblank:ammolasercharge
+
+    //Grenade 40mm  pointblank:grenade40mm
+
+    //Grenade 20mm  pointblank:grenade20mm
+
+    //SMAW Rocket   pointblank:smaw_rocket
+
+    //AT4 Rocket    pointblank:at4_rocket
+
+    //Javelin Missile   pointblank:javelin_rocket
 });
 
 console.info('Loaded custom recipes from mia_CustomRecipes. Thank you for choosing the Transcontinental Express!');
