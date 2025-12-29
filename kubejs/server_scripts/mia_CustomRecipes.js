@@ -204,19 +204,19 @@ ServerEvents.recipes(event => {
     ])
 
     //7.62x51mm     pointblank:ammo762x51
-    event.recipes.create.deploying( '16x pointblank:ammo762x51' [
+    event.recipes.create.mixing( '16x pointblank:ammo762x51' [
         '3x create:copper_sheet',
         'minecraft:gunpowder'
     ])
 
     //.338 Lapua    pointblank:ammo338lapua
-    event.recipes.create.deploying( '10x pointblank:ammo338lapua', [
+    event.recipes.create.mixing( '10x pointblank:ammo338lapua', [
         '2x minecraft:gunpowder',
         '3x create:copper_sheet'
     ])
 
     //.50 BMG       pointblank:ammo50bmg
-    event.recipes.create.deploying( '8x pointblank:ammo50bmg', [
+    event.recipes.create.mixing( '8x pointblank:ammo50bmg', [
         '4x create:copper_sheet',
         '3x minecraft:gunpowder'
     ])
