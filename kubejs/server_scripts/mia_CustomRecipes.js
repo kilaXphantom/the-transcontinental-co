@@ -222,7 +222,7 @@ ServerEvents.recipes(event => {
     ])
 
     //12 Gauge      pointblank:ammo12gauge
-    event.recipes.create.deploying( '10x pointblank:ammo12gauge', [
+    event.recipes.create.mixing( '10x pointblank:ammo12gauge', [
         '2x create:copper_sheet',
         '1x minecraft:gunpowder'
     ])
