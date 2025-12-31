@@ -97,10 +97,6 @@ file = "config/balm-common.toml"
 hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
 
 [[files]]
-file = "config/bcc-common.toml"
-hash = "115b251c0eaaee4deae8a714f55512fe69e63d80155227f3a669307b2e1006c4"
-
-[[files]]
 file = "config/beautifiedchatclient.json5"
 hash = "073caa5a3848e48016840ac5f4f1abbb41d16605f5d0b1dfef71291a02a5a016"
 
@@ -843,10 +839,6 @@ hash = "1f660c8bd0c374799862392ef7a56253544f5adaf653e59386cd1eb34f94fa2f"
 [[files]]
 file = "config/recipeessentials.json"
 hash = "d5e9999392e13549752157c6cb574c761cd323414d8eda96b31bfc6c42f98d25"
-
-[[files]]
-file = "config/restrictedportals-common.toml"
-hash = "e84fef807d07db3d6ba49d1f622d1fcef4c91dafcc43db061ae069d095f6fb0b"
 
 [[files]]
 file = "config/rightclickharvest.toml"
