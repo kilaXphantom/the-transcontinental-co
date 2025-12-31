@@ -1,13 +1,13 @@
 name = "Create: Additional Recipes"
-filename = "create_recipes-1.2.0.jar"
+filename = "additional_recipes-1.5.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0ffe8dbf90f7476c20c442e020518151dfa13f14"
+hash = "23d2d31cdb98f0be0dd744dd3c379f8c7e511fd2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4990054
+file-id = 6765242
 project-id = 953547

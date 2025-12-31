@@ -1,13 +1,13 @@
 name = "[Let's Do] Beachparty"
-filename = "letsdo-beachparty-forge-2.0.2.jar"
+filename = "letsdo-beachparty-forge-2.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "746d61cc6cb7ed557bf6e5872930d68e15baec6d"
+hash = "7348f2a932c425a23c8950cb2956e11c32afb340"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6508187
+file-id = 6849930
 project-id = 858691

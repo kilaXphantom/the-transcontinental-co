@@ -1,13 +1,13 @@
 name = "CreateTweaker"
-filename = "CreateTweaker-forge-1.20.1-4.0.9.jar"
+filename = "CreateTweaker-forge-1.20.1-4.0.15.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "01c0540377bda98d15fb33e7abc68988bf4901bb"
+hash = "b5b2812181efe228719a668f6d81546ce0c9ba25"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5193777
+file-id = 6148016
 project-id = 437717

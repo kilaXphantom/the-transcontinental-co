@@ -1,13 +1,13 @@
 name = "Let Me Despawn"
-filename = "letmedespawn-forge-1.20.x-1.2.0.jar"
+filename = "letmedespawn-1.20.x-forge-1.5.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5168aca016a9384a889f74f4b0082cd8b0f50abb"
+hash = "878dd35df02e1e17b7eb16113147f964eda8847f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4826822
+file-id = 6311230
 project-id = 663477

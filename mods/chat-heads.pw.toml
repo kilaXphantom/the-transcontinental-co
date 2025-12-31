@@ -1,22 +1,17 @@
 name = "Chat Heads"
-filename = "chat_heads-0.13.18-forge-1.20.jar"
+filename = "chat_heads-0.14.2-forge-1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/45EJNtBe/chat_heads-0.13.18-forge-1.20.jar"
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/kHywXsX0/chat_heads-0.14.2-forge-1.20.jar"
 hash-format = "sha512"
-hash = "626e418bfab8262970533f790b76257d366b4f6ca595255dd6f6b09ba874bfcdcfad90d1a4136144efc5406c7313a7defef5e8787284ead276f7a52b4d9e5db1"
+hash = "44970e9d913c19b0c36990dcf6f4cf757b032f3bec596cc9b85ff0ac7fe5fcab3d20cd590e31825e649f5393189fc2bb89386f95cca36013e9c0195eb62e10e2"
 
 [update]
 [update.modrinth]
 mod-id = "Wb5oqrBJ"
-version = "45EJNtBe"
+version = "kHywXsX0"
 
 [option]
 optional = true
-description = '''
-◻ Shows player heads in chat
-
-◼ "OK" to select and install (or skip)
-◼ "Cancel" to cancel launch
-'''
+description = "◻ Shows player heads in chat\n\n◼ \"OK\" to select and install (or skip)\n◼ \"Cancel\" to cancel launch\n"

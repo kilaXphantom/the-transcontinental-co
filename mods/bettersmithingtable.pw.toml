@@ -1,13 +1,13 @@
 name = "Better Smithing UI"
-filename = "better_smithing_ui-forge-1.20+2.0.0.jar"
+filename = "better_smithing_table-2.1.0+1.20-forge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Vt8TI045/versions/aYAKgt35/better_smithing_ui-forge-1.20%2B2.0.0.jar"
+url = "https://cdn.modrinth.com/data/Vt8TI045/versions/kHUFxuSX/better_smithing_table-2.1.0%2B1.20-forge.jar"
 hash-format = "sha512"
-hash = "900b9b579f7d0d173a9f6f38c0a2e4584f27dc7b45b8cb9c109d916976534221c13d5ee5bd90e831163c82b71648a13247cf8a6c6fa497a541cd24a6e7b5bb9a"
+hash = "cce029ac00923ea7ad4c2cb81d0f6206a72efb7d6e32418d8d724849f68a5040a78e6a603d07d7d2a8855dd1aaa365417b666eb735633fee8943dcac20224c89"
 
 [update]
 [update.modrinth]
 mod-id = "Vt8TI045"
-version = "aYAKgt35"
+version = "kHUFxuSX"

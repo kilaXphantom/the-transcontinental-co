@@ -1,22 +1,13 @@
 name = "Shoulder Surfing Reloaded"
-filename = "ShoulderSurfing-Forge-1.20.1-4.14.1.jar"
+filename = "ShoulderSurfing-Forge-1.20.1-4.18.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/kepjj2sy/versions/uNEGD88l/ShoulderSurfing-Forge-1.20.1-4.14.1.jar"
+url = "https://cdn.modrinth.com/data/kepjj2sy/versions/HB8m5p83/ShoulderSurfing-Forge-1.20.1-4.18.1.jar"
 hash-format = "sha512"
-hash = "7361c88c9ac487c13cf4e21f6fbc4afcfec5c2eb638d8322d4a1d966b3c53fa6093f7c1c9c9df47192026eca135e5635549bd4b9898d0bc3e2818ac4434c7df8"
+hash = "6d8799f69fb75d6cffdebb0f104e44a4c46e395cb939903c1e9571b88ddaf5486b71d79f3b418e035d0a78cf1eb7e97ae01aca8ae42b661fe8c407f7fd85d624"
 
 [update]
 [update.modrinth]
 mod-id = "kepjj2sy"
-version = "uNEGD88l"
-
-[option]
-optional = true
-description = '''
-◻ Adds a third-person camera
-
-◼ "OK" to select and install (or skip)
-◼ "Cancel" to cancel launch
-'''
+version = "HB8m5p83"

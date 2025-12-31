@@ -1,0 +1,13 @@
+name = "Vanilla Backport x Regions Unexplored"
+filename = "vb-x-ru-3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y4VzLoNa/versions/8y21UA6S/vb-x-ru-3.0.jar"
+hash-format = "sha512"
+hash = "78ea34385eae3fd7c17eabc3a38c4b334f571f29d180e191249b9fd54f383079bde526f54d84435e66a5f7baa9a9287ed4a2467cbf23eb9f89530292f53ca048"
+
+[update]
+[update.modrinth]
+mod-id = "y4VzLoNa"
+version = "8y21UA6S"

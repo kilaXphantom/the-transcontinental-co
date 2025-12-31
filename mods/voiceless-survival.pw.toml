@@ -1,13 +1,13 @@
 name = "Voiceless Survival"
-filename = "ezvcsurvival-forge-1.20.1-1.4.2.jar"
+filename = "Voiceless Survival-1.20.1-forge-1.20.1-2.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JJ3q7W2X/versions/EHmjQfIC/ezvcsurvival-forge-1.20.1-1.4.2.jar"
+url = "https://cdn.modrinth.com/data/JJ3q7W2X/versions/kvakiCaf/Voiceless%20Survival-1.20.1-forge-1.20.1-2.0.0.jar"
 hash-format = "sha512"
-hash = "625fe5ca944b03e4970d9f8e31d0c934fe6d1078468e2f313942d472b2d37313a181701c0f2b323ee657e6afa6802fd3deac07f52e3ccaf54d8bd3f4214a823b"
+hash = "a134d4017c2c54c80344d8813735e28834bfca916667acf83f2871da8779846445f2fa4ca0f9a688975f776e07e0a3a47a4efcc32aaafa864e2456f78dfbebe0"
 
 [update]
 [update.modrinth]
 mod-id = "JJ3q7W2X"
-version = "EHmjQfIC"
+version = "kvakiCaf"

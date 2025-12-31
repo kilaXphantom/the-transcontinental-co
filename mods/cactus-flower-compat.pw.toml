@@ -1,0 +1,13 @@
+name = "Atmospheric Cactus Flower Compat"
+filename = "cactus-flower-compat-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g3Ay60nZ/versions/5rilfeew/cactus-flower-compat-1.0.jar"
+hash-format = "sha512"
+hash = "c2c58e041e5dcf45ee5307250c867d3ee7740194af1955c0c761653039d4af8131b6053ec3604a3b1d94d4eef1044c47c297278dc65c26c4e0d08d078c0a3c65"
+
+[update]
+[update.modrinth]
+mod-id = "g3Ay60nZ"
+version = "5rilfeew"

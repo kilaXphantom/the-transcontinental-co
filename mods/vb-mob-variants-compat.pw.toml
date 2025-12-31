@@ -1,0 +1,13 @@
+name = "VanillaBackport: Mob Variants Compat"
+filename = "vb-mob-variants-compat-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uvYkeUqm/versions/FScUiEv6/vb-mob-variants-compat-1.4.1.jar"
+hash-format = "sha512"
+hash = "8ed9e5e715eff553876ec6063d1f2b0f2dcff3771ed08d5ca767e3af57d529b8a5c1fd03e161a90f520ed9919baf95c1a216b17b5a97284badfdf054cb81bf93"
+
+[update]
+[update.modrinth]
+mod-id = "uvYkeUqm"
+version = "FScUiEv6"
