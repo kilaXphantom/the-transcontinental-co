@@ -1863,7 +1863,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-snow.pw.toml"
-hash = "ac7cae24fcac0183430f948d4a3827bb30bb086e5d94f4a255afc5dfd6713371"
+hash = "5c94220894a24a9696246c365382635eaf9c25c5ebbafe0eeb6a6a02f5d44437"
 metafile = true
 
 [[files]]
@@ -2092,7 +2092,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcef.pw.toml"
-hash = "9c4c6c5980c293a89646db8a97768e8208e85c5d2c7fd95a37b1a650df3391bc"
+hash = "dabcd499eaf9960f3c3aa682cdc8be73b5899342912ca557a79525495d96ab61"
 metafile = true
 
 [[files]]

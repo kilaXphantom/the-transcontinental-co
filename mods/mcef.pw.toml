@@ -1,6 +1,6 @@
 name = "MCEF (Minecraft Chromium Embedded Framework)"
 filename = "mcef-forge-2.1.6-1.20.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TObQ0HxZ/versions/x91l6OKB/mcef-forge-2.1.6-1.20.1.jar"
