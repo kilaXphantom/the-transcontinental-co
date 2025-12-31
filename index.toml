@@ -2091,8 +2091,12 @@ hash = "27f69e040bd3275a1ee455353f1ad31b69200d72122308ead260522a6c2525e0"
 metafile = true
 
 [[files]]
+file = "mods/mcef-forge-2.1.6-1.20.1.jar"
+hash = "5c462342264ac89597891d5d4bcdf6b8134ce4cc5dd97894dbd87ecc197f0cb3"
+
+[[files]]
 file = "mods/mcef.pw.toml"
-hash = "dabcd499eaf9960f3c3aa682cdc8be73b5899342912ca557a79525495d96ab61"
+hash = "b9278a341a6bc282d863dc16b6e38f6e822fe136826a9a85df0322265d34d5eb"
 metafile = true
 
 [[files]]
