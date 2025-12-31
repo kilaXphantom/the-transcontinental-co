@@ -1156,7 +1156,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "83ba38ab1e5b583227e9d37b8fea91ac1fcb4e2f67ba86800c5d7aa4024d2993"
+hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
 metafile = true
 
 [[files]]
@@ -1582,6 +1582,11 @@ hash = "b207d018bd9a51630c58b82d5f2e4b75847254b7dedfdcf0dbaf25278f3f107a"
 metafile = true
 
 [[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "60dbff0c912914ff7a33b5ca8078f856a5150d4a064bb205cb0d3dbe806fed7d"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "8083402b75eeee721174e809e4c4c211642a1ec52c6192230654bd960c1145f8"
 metafile = true
@@ -1856,6 +1861,16 @@ hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "2e42b3a809ec9b027e23714e01c255fe5111a9d4cd58fad114dd0f2aa75c0d7e"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "5ccedc16130668600dec39a19609afd33ea1f2a0e92f737b4369c117b7276160"
 metafile = true
@@ -1891,6 +1906,11 @@ hash = "8f359d190506a6f824763b8e7c390d9e22204ef11e3ffa5ef980000d17e2c2b6"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "97c5e1b61bfd1a812718baa7657ccf20691697ef8a1be47972a230c209c4077c"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "43c7ec5ca556dbc07cbe29f53a8aee3d4a9ba07758dbeda22c4d58a0b43dda47"
 metafile = true
@@ -1917,7 +1937,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-zoom.pw.toml"
-hash = "1b00016b104368daab12a28d92088fd95c5c33a1ac991f0072ca8870ae89983f"
+hash = "589b370ffcef405a00daafc5bfa6febaeafef81aa797a3cb63a49555db90fd76"
 metafile = true
 
 [[files]]
@@ -1936,7 +1956,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "ba6600d024f257ff40d4fca84e87fc553d5853b6c71f666d8597891d611b62f0"
+hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
 metafile = true
 
 [[files]]
@@ -2037,6 +2057,11 @@ metafile = true
 [[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "ec1dbea2c473bfd08357e3a31745ba28046debee77242e9c401169ddbc88bcd3"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "457f1d7c34cb8cb605b002fee89d3f0a766eb461ef82236c48cb1196b1e81a97"
 metafile = true
 
 [[files]]
@@ -2370,6 +2395,11 @@ hash = "fe6078ab5a7188a927df85ac72a8226af625dabcc9325335352ff8d6b5a1ed09"
 metafile = true
 
 [[files]]
+file = "mods/rpl.pw.toml"
+hash = "e6c027ea77fdf8de6bb059896e47b581910163db4e34390c43e2bd950d319f43"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "feb93d599b529a6ae9feb98739f0549b499b7e70f72572ef3fc3754f77448a14"
 metafile = true
@@ -2669,8 +2699,13 @@ hash = "f23d71ce94d45ce3c219c66196680081cd445ed28048f9a9a8217c52669644b2"
 metafile = true
 
 [[files]]
+file = "mods/watermedia-yt-plugin.pw.toml"
+hash = "e0b5d86b63b2aa52bf50d3b58280fed584f8cfef65edc32e7a8b317690e877bc"
+metafile = true
+
+[[files]]
 file = "mods/watermedia.pw.toml"
-hash = "4a4882985cddeab98b323c751d500bc8038f3ec5c16babf6c79987659ec559cd"
+hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "DragonLib"
+filename = "dragonlib-forge-1.20.1-2.2.24.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sbIsGaOV/versions/p5Xq54Tm/dragonlib-forge-1.20.1-2.2.24.jar"
+hash-format = "sha512"
+hash = "67941ec830343710813a80fa8561d90352995a402dd143b01bb50e6863c30fb2689a34c2dc306c3fca7282a4c59fd19688bf095640fc8e63921a4b96fad6889d"
+
+[update]
+[update.modrinth]
+mod-id = "sbIsGaOV"
+version = "p5Xq54Tm"
