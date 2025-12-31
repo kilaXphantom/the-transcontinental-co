@@ -2446,10 +2446,6 @@ hash = "c084ac4822df01a1fd9353397fd5fb2bffad5ff8ab105889f631770e186d6930"
 metafile = true
 
 [[files]]
-file = "mods/skinlayers3d-forge-1.7.0-mc1.20.1.jar"
-hash = "361c6c433fff6aae6f5f4a84ef77ca6c76b2586a66cbccb18dd94c89c447d62e"
-
-[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
 metafile = true
