@@ -204,7 +204,7 @@ ServerEvents.recipes(event => {
     ])
 
     //7.62x51mm     pointblank:ammo762x51
-    event.recipes.create.mixing( '16x pointblank:ammo762x51' [
+    event.recipes.create.mixing( '16x pointblank:ammo762x51', [
         '3x create:copper_sheet',
         'minecraft:gunpowder'
     ])

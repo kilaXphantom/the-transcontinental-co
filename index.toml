@@ -994,7 +994,7 @@ hash = "10c8e7569af63652b8286ba9bdc07f3d65fcc7c0db639f5fbe54578aaba714b3"
 
 [[files]]
 file = "kubejs/server_scripts/mia_CustomRecipes.js"
-hash = "3fdb45a29225be696b8cd7b604556a7687d4068e1cdbb856f7bbd5f04842e49d"
+hash = "f46a0714363f73cb9b9ecd84e9a55be9136703a5ca856e7abfa91ec6ebc5c799"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
