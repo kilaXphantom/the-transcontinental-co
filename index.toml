@@ -1115,6 +1115,11 @@ hash = "7499dcfc1c246bf1ceb3b82992cc7478a9d8e29900f6c77c1c2a425665b4841d"
 metafile = true
 
 [[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "f5eabbef8dbed2bc19e632718a720a6d77466eeb66b9b220930f7f66e8a9d032"
+metafile = true
+
+[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "0651f0e4c8067fbbc25f3efcd1d43278b44d240e4c8e375fb398eaf63e34f58d"
 metafile = true
@@ -1852,6 +1857,11 @@ hash = "2e42b3a809ec9b027e23714e01c255fe5111a9d4cd58fad114dd0f2aa75c0d7e"
 metafile = true
 
 [[files]]
+file = "mods/hamsters.pw.toml"
+hash = "b3ae1d475e25a4d792bc5812d0860ec28f369739ae205538d5f1bfb96c2171f7"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "5ccedc16130668600dec39a19609afd33ea1f2a0e92f737b4369c117b7276160"
 metafile = true
@@ -2465,6 +2475,11 @@ hash = "af6d908b99da133b0db1b61d60d5ed22b756cdd3d20c9c9deb0f0f16f29baecc"
 metafile = true
 
 [[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "75a60e6b443b351b7a4a78ffce7c71e44b3e20ca10c374aea1de516c785d6e2d"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "93123611f5de9f6c8b25e1fe2e1b7defdcf65810fe3aeb9aa8800e8ecfafa6a3"
 metafile = true
@@ -2662,6 +2677,11 @@ metafile = true
 [[files]]
 file = "mods/watermedia.pw.toml"
 hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
+metafile = true
+
+[[files]]
+file = "mods/watervision.pw.toml"
+hash = "1e9bcc140af33caf45c8c2e42eb1917e9884b0f26bc99179b6102c5071b1aa87"
 metafile = true
 
 [[files]]
