@@ -2061,7 +2061,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "457f1d7c34cb8cb605b002fee89d3f0a766eb461ef82236c48cb1196b1e81a97"
+hash = "45c55bdbbf2240dfa30cedb5cd437f5716ccf09a707dcdffbe7f39af3e19ff7f"
 metafile = true
 
 [[files]]
@@ -2396,7 +2396,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpl.pw.toml"
-hash = "e6c027ea77fdf8de6bb059896e47b581910163db4e34390c43e2bd950d319f43"
+hash = "93128d85ae0b3be9c8248b09f3a63ed88c746568480cc7e9a8e2a9b4bd13477c"
 metafile = true
 
 [[files]]
