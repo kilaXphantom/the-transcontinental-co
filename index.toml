@@ -2442,8 +2442,12 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "c084ac4822df01a1fd9353397fd5fb2bffad5ff8ab105889f631770e186d6930"
+hash = "0dd58ceea4b7d9412eaef83d49df4a1c3f88ba18e42d7e492931661a7ded4e22"
 metafile = true
+
+[[files]]
+file = "mods/skinlayers3d-forge-1.10.1-mc1.20.1.jar"
+hash = "a5a4cb6bbb31b14254b2957b99e537817abbf145b579e78351c21e4cfab041a6"
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
