@@ -1872,11 +1872,6 @@ hash = "c006beeec7fca82263506ab1fda78e472e54bb64be350e130902f4f475df25cb"
 metafile = true
 
 [[files]]
-file = "mods/immersive-snow.pw.toml"
-hash = "ac7cae24fcac0183430f948d4a3827bb30bb086e5d94f4a255afc5dfd6713371"
-metafile = true
-
-[[files]]
 file = "mods/in-control.pw.toml"
 hash = "3f4f381b70a70d4cd22320571b1ba4d6ad73081f470cd0423fc643bef8df13fa"
 metafile = true
@@ -1943,6 +1938,11 @@ metafile = true
 [[files]]
 file = "mods/kambrik.pw.toml"
 hash = "b7d3d553250955d3b3a669647e66ef6c4c7a31ee07f04e308432acdebb87adb0"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "578839bf90f128ca1abfab58c40f5e3cd18c93374cb25c9e77a5307ca6c77223"
 metafile = true
 
 [[files]]
@@ -2457,6 +2457,11 @@ metafile = true
 [[files]]
 file = "mods/smsn.pw.toml"
 hash = "76c65def57f5c22dbd407c79b21f2a20e47fdfdec8624e9b1757de97d89a5f52"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "2c7f4ac1ef436158a5911a6c8fa0390f34369be21b180c8858e1824fd4e4ee74"
 metafile = true
 
 [[files]]
