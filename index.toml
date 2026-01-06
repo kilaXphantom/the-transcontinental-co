@@ -1747,11 +1747,6 @@ hash = "3e8ccc74f161b632cf8eadda6548860bfa58e4970cec1630135b83900e31b98d"
 metafile = true
 
 [[files]]
-file = "mods/fogoverrides.pw.toml"
-hash = "22b1444752238f165fd49bbc40c1064bd507e490b9cd71c53dc09636a5dcb072"
-metafile = true
-
-[[files]]
 file = "mods/food-effect-tooltips-forge.pw.toml"
 hash = "509349061967f5ec62e4f3b3164fce0d9f8ffab0d1bb7e4af19fd098200c54c5"
 metafile = true
@@ -2326,7 +2321,7 @@ metafile = true
 
 [[files]]
 file = "mods/radium.pw.toml"
-hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
+hash = "b29261484fdb56728353d70bbea0af5ff1205ef506b78c42c86f308ed84ecbc1"
 metafile = true
 
 [[files]]
@@ -2507,11 +2502,6 @@ metafile = true
 [[files]]
 file = "mods/splashy.pw.toml"
 hash = "09fd578d5464274d35237b4248e2674d48060c991ffd7b7043e542570eb32589"
-metafile = true
-
-[[files]]
-file = "mods/starlight-forge.pw.toml"
-hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
 metafile = true
 
 [[files]]
