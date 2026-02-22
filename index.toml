@@ -2455,11 +2455,6 @@ hash = "76c65def57f5c22dbd407c79b21f2a20e47fdfdec8624e9b1757de97d89a5f52"
 metafile = true
 
 [[files]]
-file = "mods/snow-real-magic.pw.toml"
-hash = "2c7f4ac1ef436158a5911a6c8fa0390f34369be21b180c8858e1824fd4e4ee74"
-metafile = true
-
-[[files]]
 file = "mods/snow-under-trees.pw.toml"
 hash = "ae410d05070a1fd74bced0d747a54eec522921889b302d05b94cf4fc5d44e8dc"
 metafile = true
