@@ -1592,6 +1592,11 @@ hash = "00a06884a4f8854fad85f2456c1d6c53ee09cc5e545a35e41cad24e82907a1ab"
 metafile = true
 
 [[files]]
+file = "mods/easters-delight.pw.toml"
+hash = "8f4eee0b41e6757f6aecba61e1f71457e9f54a759b452bf398961c21293b28dd"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "3b17a2980b74426f94633164b0c068f8afa025eabee0e0bd1a32c5965361c028"
 metafile = true

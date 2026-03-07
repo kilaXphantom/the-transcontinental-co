@@ -1,0 +1,13 @@
+name = "Easter's Delight"
+filename = "eastersdelight-forge-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Eg1DyRej/versions/yVoWvDM2/eastersdelight-forge-1.20.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "84a1a3f3d6e17a63188ac00b122bfbd9f510da96f21cbf3cdfa33e76c7bb15a0a3241949056eb838fca3ef3734e42543c9321bb038ca861dffab10360c3ee03c"
+
+[update]
+[update.modrinth]
+mod-id = "Eg1DyRej"
+version = "yVoWvDM2"
