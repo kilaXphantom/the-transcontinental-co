@@ -1,13 +1,13 @@
 name = "WATERFrAMES: Multimedia Displays"
-filename = "waterframes-FORGE-mc1.20.1-v2.1.22.jar"
+filename = "waterframes-FORGE-mc1.20.1-v2.2.0-beta.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b8683a49deee67a153bdc647ad70b5fc464b2b23"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/eBzFuVTM/versions/1eHXEHQs/waterframes-FORGE-mc1.20.1-v2.2.0-beta.2.jar"
+hash-format = "sha512"
+hash = "2fd1acaec8103a4e649d1d826db9c0d1db8a8994c204652d032f52ee33295f5c6c4db77297f3305d141789095822ba89c332b1bb8cd2b35f4d2404dd18b704ba"
 
 [update]
-[update.curseforge]
-file-id = 7134293
-project-id = 834607
+[update.modrinth]
+mod-id = "eBzFuVTM"
+version = "1eHXEHQs"
