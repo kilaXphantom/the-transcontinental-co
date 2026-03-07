@@ -2660,18 +2660,8 @@ hash = "03c2bc9e406cebc8c70dbdb7cb7e1592e9c41c2d8c2c57ff65f9b1e1501cf4f2"
 metafile = true
 
 [[files]]
-file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "ae4c442f0049d0af3abbe851d1b51126c43e614cb97636c9958036b910b619c9"
-metafile = true
-
-[[files]]
 file = "mods/watermedia.pw.toml"
 hash = "1726cd33d75460d73e225b340260898dcdf0bdba718e669e8b3fef38652d69d3"
-metafile = true
-
-[[files]]
-file = "mods/watervision.pw.toml"
-hash = "3e94877a9b48b2156de7f348232beb84729d3e230c7cf267f6e381ef9f8bf8df"
 metafile = true
 
 [[files]]
