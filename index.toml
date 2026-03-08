@@ -1359,6 +1359,11 @@ hash = "63771505c733c2c0c98493c7a738b34a5395baab34bd13f597915c9879605725"
 metafile = true
 
 [[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "cd1d5a57c6fe6432043ceb6c4756f17d79477989658d7d3f18ab6ae82e8b918f"
+metafile = true
+
+[[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "7f98e3461e1319ef01a91a8258aa2d932179d0406280d980b356ddbfbef52213"
 metafile = true
