@@ -2655,21 +2655,6 @@ hash = "eb9e27853a7e041d167a98a8996c750831ff60a0061543fb97d62012bfc70e21"
 metafile = true
 
 [[files]]
-file = "mods/waterframes.pw.toml"
-hash = "e56493279c8433b5601b7f4fc5bd2314224b6528f46cbc7d4e33c9f226ba9ccd"
-metafile = true
-
-[[files]]
-file = "mods/watermedia-binaries.pw.toml"
-hash = "03c2bc9e406cebc8c70dbdb7cb7e1592e9c41c2d8c2c57ff65f9b1e1501cf4f2"
-metafile = true
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-hash = "1726cd33d75460d73e225b340260898dcdf0bdba718e669e8b3fef38652d69d3"
-metafile = true
-
-[[files]]
 file = "mods/waystones.pw.toml"
 hash = "5dbc1ed70c1dd5c99c93d353b6267c6a4e7af2b342d0ad4ddecf54593e199224"
 metafile = true
