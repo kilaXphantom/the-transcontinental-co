@@ -1100,6 +1100,11 @@ hash = "86b9454741aafa9004a1f63980c89788e8dff3e5f055ae69441268102157e0af"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "126db1f1ec01bbc4cf3393e087363e2fdbfe4a3face897ed27985b14a1a519a9"
+metafile = true
+
+[[files]]
 file = "mods/better-beds-reforged.pw.toml"
 hash = "92d8e993997c614a0664dda008709173b3e9145f78058d9abb45634b3c3fedb9"
 metafile = true
@@ -1384,6 +1389,11 @@ hash = "fee58a333eaf51d4862fee34fe8ba7cb70140500023e06aca3c9fcf0e0f34719"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "8f8b8b2f6ef0279b79e62592239f851c9c72066c643ec8b2f10264363743b846"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "200b30b8eeaaf2fa9e8345fcabdd80f6195b5af67926fb1e277931100e7e1eff"
 metafile = true
@@ -1446,6 +1456,11 @@ metafile = true
 [[files]]
 file = "mods/create-recycle-everything.pw.toml"
 hash = "3b74eee7b499d04bd7834b004b6aed216779380ad54ef51e5ddd9f6cca5a014d"
+metafile = true
+
+[[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "f0a22df859118ec1b8ad94dc496d87c6052f314cf074c2887e31c38d3c603795"
 metafile = true
 
 [[files]]
@@ -1882,6 +1897,11 @@ hash = "3f4f381b70a70d4cd22320571b1ba4d6ad73081f470cd0423fc643bef8df13fa"
 metafile = true
 
 [[files]]
+file = "mods/interiors.pw.toml"
+hash = "7ca55cd661721ca944979439aac5160009e07ce2568fbf8aee53e019f3e55fba"
+metafile = true
+
+[[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "58170607da6517dc43eeb5a664dea9dec7d96a8ad9e99d2623c2a5a9099c91be"
 metafile = true
@@ -2227,6 +2247,11 @@ metafile = true
 [[files]]
 file = "mods/no-resource-pack-warnings-forge.pw.toml"
 hash = "de7def657703880873da6c6a527fbc7c8dff61d8c1d5645c3e6491b085a83198"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+hash = "63504f8d1db513fa1a78c214d824be5a9ddba732850a461cae0bb1029b8462b7"
 metafile = true
 
 [[files]]
