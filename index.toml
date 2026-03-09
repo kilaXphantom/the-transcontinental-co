@@ -1557,6 +1557,11 @@ hash = "3c67907b1d5768972ab323c700a0b4574c556b6f4e596cb2462490d407060802"
 metafile = true
 
 [[files]]
+file = "mods/display-delight.pw.toml"
+hash = "2850634a1f438dd3d34f5936e697f99052d932cddea5e37bca646ac4d5c2090d"
+metafile = true
+
+[[files]]
 file = "mods/distorted-discs.pw.toml"
 hash = "a1e581464ab5bb4c108e0d1350d75b0310e8470340a2c9cb6e8a0f8aef2cf021"
 metafile = true

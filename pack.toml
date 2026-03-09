@@ -1,12 +1,12 @@
 name = "The Transcontinental Co"
 author = "kilaXphantom"
-version = "2.2.7"
+version = "2.2.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5f4218a0b11d3e5cdd233b19b31440698c546dc487ec9342860ebe6946eb55a9"
+hash = "795a7eb6b7f0df74691fc3b5276e7d75de0af37b09577a1d7741811fee94380d"
 
 [versions]
 forge = "47.4.10"
