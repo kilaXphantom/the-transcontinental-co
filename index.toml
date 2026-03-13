@@ -1166,7 +1166,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "fd959551b1350715af0d706dfeef77d2e3677f0bb5b8345e4d256fe2381810a5"
+hash = "38387bbdfcd685324d94d2180739aa54f01cced2b4febaa146b2620f8ff7886e"
 metafile = true
 
 [[files]]
