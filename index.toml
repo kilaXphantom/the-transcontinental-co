@@ -769,8 +769,8 @@ file = "config/paxi/datapacks/BetterVillages_Bountiful_1.20.1.zip"
 hash = "12aef84659512e7a79cd117824b8503df24822485e1fb70d0b48815fc33e8e3e"
 
 [[files]]
-file = "config/paxi/datapacks/minecitizens-1.20.1-1.3.zip"
-hash = "e86bfaede8835f8fd550befc0f6c651dae9ba7b8e003ee08863efc932ed5d3c9"
+file = "config/paxi/datapacks/minecitizens-1.20.1-1.4.1.zip"
+hash = "34f7b44a536c9c5c186d7dc8fe093046941c89891835325ddb59e4cb125880b8"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -778,7 +778,7 @@ hash = "7a4766ca26a618b27370f748cbc7f338d9d23927aeadb91d69d12efd85ad3af5"
 
 [[files]]
 file = "config/paxi/resourcepacks/Compatible Resources.zip"
-hash = "2eaf8281988f9a8ccded1d8bbda84433f9842566cb8d47cbaba88555926f435c"
+hash = "a268a603536eb73128a42fdf8ffb9a358957ae9362b8e31846c5a53b8473fe26"
 
 [[files]]
 file = "config/paxi/resourcepacks/Connected Textures.zip"
@@ -962,15 +962,19 @@ hash = "3fdfaa4595d4e55c1e6b3a6ba74aec07ca2701ec767c34d5209a7bc08d0dbfbd"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "98476f2101b762616d1c74f97bf0331a3f722657949f195c765281563914ee42"
+hash = "d53344449241264c8d3d79fc76d14b9bb85ec6bdc79c28c3a731748925445904"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+hash = "470590ab4ff5201b922f693cea93f374fbbd5d6617e607346b7c0c17e5607b32"
 
 [[files]]
 file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroplus.txt"
+hash = "d70204d0435389cfa3dd47c1eca3cfa5820dc13e57440fe58226010ac206226f"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
@@ -978,7 +982,7 @@ hash = "f5bb870d3638e4331f1b1baee637359cd2ac425d4f600b8723c2bf3b7d408196"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "603df5614b3ea9fde5a44fef1d5eff90052238787a87302943c5f23c022e4019"
+hash = "3e407dc87ca10e495d780b91c83c063f880adeb4a25657d1bb49dea93078268a"
 
 [[files]]
 file = "config/xnet-client.toml"

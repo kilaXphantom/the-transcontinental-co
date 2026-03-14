@@ -38,7 +38,7 @@ displayStainedGlass:true
 caveModeDepth:30
 caveModeStart:2147483647
 autoCaveMode:-1
-legibleCaveMaps:false
+legibleCaveMaps:true
 displayCaveModeStart:true
 caveModeToggleTimer:1000
 defaultCaveModeType:1
@@ -50,6 +50,6 @@ highlightsExport:false
 exportScaleDownSquare:20
 mapWritingDistance:-1
 displayClaims:true
-claimsFillOpacity:46
-claimsBorderOpacity:80
+claimsFillOpacity:20
+claimsBorderOpacity:100
 globalVersion:1

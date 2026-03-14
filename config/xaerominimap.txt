@@ -13,13 +13,13 @@ minimap:true
 caveMaps:2
 caveZoom:1
 showWaypoints:true
-showIngameWaypoints:true
+showIngameWaypoints:false
 displayRedstone:true
 deathpoints:true
 oldDeathpoints:true
 distance:1
-lockNorth:false
-zoom:4
+lockNorth:true
+zoom:1
 minimapSize:0
 chunkGrid:-1
 slimeChunks:false
@@ -70,7 +70,7 @@ hideWaypointCoordinates:false
 renderAllSets:false
 playerArrowOpacity:100
 waypointsBottom:false
-minimapShape:0
+minimapShape:1
 lightOverlayType:0
 lightOverlayMaxLight:7
 lightOverlayMinLight:0
@@ -97,7 +97,7 @@ manualCaveModeStart:-1
 chunkGridLineWidth:1
 temporaryWaypointsGlobal:true
 keepUnlockedWhenEnlarged:false
-enlargedMinimapAToggle:false
+enlargedMinimapAToggle:true
 displayStainedGlass:true
 waypointOnMapScale:0
 switchToAutoOnDeath:true
