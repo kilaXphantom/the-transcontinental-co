@@ -1716,6 +1716,11 @@ hash = "36c887897d3e8781cc93f79932ae78d7c5f8a1936d76b158cbcc4af0d47ea68d"
 metafile = true
 
 [[files]]
+file = "mods/extended-wrenches.pw.toml"
+hash = "841bb117eb7a8221b9868fc1a5a2387e2c46ab2ff5bfea8535ebb2a2d79f50ad"
+metafile = true
+
+[[files]]
 file = "mods/fairy-lights.pw.toml"
 hash = "eeca094798607a0393a5ec261a0f3298e20fa74b0daa879951aec47c2c7fe64b"
 metafile = true
