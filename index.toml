@@ -2169,6 +2169,11 @@ hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "1c853f94ff20aab7d05289bd01d82758ba122766064d6b52875195d270dd76e9"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "ff3e8c24b856793dea18726883722d8274d7b292448ecc4beecec9df008d44cd"
 metafile = true
@@ -2746,6 +2751,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "31fca121c5b55c624ed203937c8f9b4d13cfe32f80bb85405aa4c65238378b15"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "302d69d833264022aa7ff781dbcde7f60f3c9e3021881b29f6f59223c36579c8"
 metafile = true
 
 [[files]]
